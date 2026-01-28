@@ -1,0 +1,134 @@
+    [
+      {
+        "id": "E99-001",
+        "arabicText": "الله",
+        "turkishTitle": "Allah",
+        "turkishDescription": "Her ismin vasfını ihtiva eden öz adı. Kendinden başka ilah olmayan.",
+        "englishTitle": "Allah",
+        "englishDescription": "The Greatest Name, containing all attributes.",
+        "category": "Esma'ul Husna",
+        "targetCount": 66,
+        "audioFileName": "esma_allah"
+      },
+      {
+        "id": "E99-002",
+        "arabicText": "الرَّحْمَن",
+        "turkishTitle": "Er-Rahman",
+        "turkishDescription": "Dünyada bütün mahlukata merhamet eden, şefkat gösteren, ihsan eden.",
+        "englishTitle": "Ar-Rahman",
+        "englishDescription": "The All-Merciful.",
+        "category": "Esma'ul Husna",
+        "targetCount": 298,
+        "audioFileName": "esma_rahman"
+      },
+      {
+        "id": "E99-003",
+        "arabicText": "الرَّحِيم",
+        "turkishTitle": "Er-Rahim",
+        "turkishDescription": "Ahirette, müminlere sonsuz merhamet edecek olan.",
+        "englishTitle": "Ar-Rahim",
+        "englishDescription": "The Particularly Merciful.",
+        "category": "Esma'ul Husna",
+        "targetCount": 258,
+        "audioFileName": "esma_rahim"
+      },
+      {
+        "id": "E99-004",
+        "arabicText": "الْمَلِك",
+        "turkishTitle": "El-Melik",
+        "turkishDescription": "Mülkün, kâinatın gerçek sahibi, mutlak egemen.",
+        "englishTitle": "Al-Malik",
+        "englishDescription": "The King, The Sovereign.",
+        "category": "Esma'ul Husna",
+        "targetCount": 90,
+        "audioFileName": "esma_melik"
+      },
+      {
+        "id": "E99-005",
+        "arabicText": "الْقُدُّوس",
+        "turkishTitle": "El-Kuddüs",
+        "turkishDescription": "Her türlü eksiklikten münezzeh, tertemiz.",
+        "englishTitle": "Al-Quddus",
+        "englishDescription": "The Holy, The Pure.",
+        "category": "Esma'ul Husna",
+        "targetCount": 170,
+        "audioFileName": "esma_kuddus"
+      },
+      {
+        "id": "E99-006",
+        "arabicText": "السَّلَام",
+        "turkishTitle": "Es-Selam",
+        "turkishDescription": "Her çeşit afetten selamete erdiren, güven veren.",
+        "englishTitle": "As-Salam",
+        "englishDescription": "The Source of Peace.",
+        "category": "Esma'ul Husna",
+        "targetCount": 131,
+        "audioFileName": "esma_selam"
+      },
+      {
+        "id": "E99-007",
+        "arabicText": "الْمُؤْمِن",
+        "turkishTitle": "El-Mü'min",
+        "turkishDescription": "Gönüllerde iman ışığı uyandıran, güven veren.",
+        "englishTitle": "Al-Mu'min",
+        "englishDescription": "The Guarantor, The Guardian of Faith.",
+        "category": "Esma'ul Husna",
+        "targetCount": 137,
+        "audioFileName": "esma_mumin"
+      },
+      {
+        "id": "E99-008",
+        "arabicText": "الْمُهَيْمِن",
+        "turkishTitle": "El-Müheymin",
+        "turkishDescription": "Gözeten, koruyan, hakkıyla kontrol eden.",
+        "englishTitle": "Al-Muhaymin",
+        "englishDescription": "The Guardian, The Overseer.",
+        "category": "Esma'ul Husna",
+        "targetCount": 145,
+        "audioFileName": "esma_muheymin"
+      },
+      {
+        "id": "E99-009",
+        "arabicText": "الْعَزِيز",
+        "turkishTitle": "El-Aziz",
+        "turkishDescription": "İzzet sahibi, her şeye galip gelen, şerefli.",
+        "englishTitle": "Al-Aziz",
+        "englishDescription": "The Almighty, The Strong.",
+        "category": "Esma'ul Husna",
+        "targetCount": 94,
+        "audioFileName": "esma_aziz"
+      },
+      {
+        "id": "E99-010",
+        "arabicText": "الْجَبَّار",
+        "turkishTitle": "El-Cebbar",
+        "turkishDescription": "Azamet ve kudret sahibi. Dilediğini zorla yaptıran.",
+        "englishTitle": "Al-Jabbar",
+        "englishDescription": "The Compeller.",
+        "category": "Esma'ul Husna",
+        "targetCount": 206,
+        "audioFileName": "esma_cebbar"
+      },
+      {
+        "id": "E99-011",
+        "arabicText": "الْمُتَكَبِّر",
+        "turkishTitle": "El-Mütekebbir",
+        "turkishDescription": "Büyüklükte eşi olmayan, her şeyde büyüklüğünü gösteren.",
+        "englishTitle": "Al-Mutakabbir",
+        "englishDescription": "The Majestic, The Supreme.",
+        "category": "Esma'ul Husna",
+        "targetCount": 662,
+        "audioFileName": "esma_mutakabbir"
+      },
+      {
+        "id": "E99-012",
+        "arabicText": "الْخَالِق",
+        "turkishTitle": "El-Halık",
+        "turkishDescription": "Yoktan var eden, yaratan.",
+        "englishTitle": "Al-Khaliq",
+        "englishDescription": "The Creator.",
+        "category": "Esma'ul Husna",
+        "targetCount": 731,
+        "audioFileName": "esma_haliq"
+      }
+    ]
