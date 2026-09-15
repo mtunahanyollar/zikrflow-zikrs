@@ -2,6 +2,7 @@
   {
     "id": "a0000001-1001-1001-1001-100000000001",
     "arabicText": "سُبْحَانَ اللهِ",
+    "transliteration": "Sübhânallah.",
     "turkishTitle": "Sübhânallah",
     "turkishDescription": "\"Allah'ı her türlü eksiklikten tenzih ederim.\" Her farz namazın ardından 33 defa söylenir; Elhamdülillah ve Allâhü ekber ile birlikte 99 tamamlanır, ardından bir defa kelime-i tevhid okunur. Hz. Peygamber bunu yapanın küçük günahlarının deniz köpüğü kadar da olsa bağışlanacağını bildirmiştir.",
     "englishTitle": "Subhanallah",
@@ -14,6 +15,7 @@
   {
     "id": "a0000002-1002-1002-1002-100000000002",
     "arabicText": "الْحَمْدُ لِلَّهِ",
+    "transliteration": "Elhamdülillah.",
     "turkishTitle": "Elhamdülillah",
     "turkishDescription": "\"Hamd Allah'a mahsustur.\" Namaz sonrası tesbihatın ikinci cümlesi; her farz namazın ardından 33 defa.",
     "englishTitle": "Alhamdulillah",
@@ -26,6 +28,7 @@
   {
     "id": "a0000003-1003-1003-1003-100000000003",
     "arabicText": "اللهُ أَكْبَرُ",
+    "transliteration": "Allâhü ekber.",
     "turkishTitle": "Allâhü ekber",
     "turkishDescription": "\"Allah en büyüktür.\" Namaz sonrası tesbihatın üçüncü cümlesi; her farz namazın ardından 33 defa.",
     "englishTitle": "Allahu Akbar",
@@ -38,6 +41,7 @@
   {
     "id": "a000000C-100C-100C-100C-10000000000C",
     "arabicText": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Allâhümme ente's-selâm ve minke's-selâm, tebârekte yâ ze'l-celâli ve'l-ikrâm.",
     "turkishTitle": "Allâhümme ente's-selâm",
     "turkishDescription": "\"Allah'ım! Sen selâmsın, selâmet ancak sendendir. Ey celâl ve ikram sahibi, sen yücesin.\" Hz. Peygamber selâm verdikten sonra üç defa istiğfar eder, ardından bunu söylerdi. Her namazdan sonra bir defa (günde beş).",
     "englishTitle": "Allahumma anta's-salam",
@@ -49,7 +53,8 @@
   },
   {
     "id": "a0000008-1008-1008-1008-100000000008",
-    "arabicText": "آيَةُ الْكُرْسِيِّ (البقرة ٢٥٥)",
+    "arabicText": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "transliteration": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men zellezî yeşfeu indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm ve lâ yühîtûne bi-şey'in min ilmihî illâ bimâ şâe. Vesia kürsiyyühü's-semâvâti ve'l-ard. Ve lâ yeûdühû hıfzuhümâ ve hüve'l-aliyyü'l-azîm.",
     "turkishTitle": "Âyetü'l-Kürsî",
     "turkishDescription": "Bakara sûresi 255. âyet. Hz. Peygamber: \"Her farz namazın ardından Âyetü'l-Kürsî'yi okuyanın cennete girmesine ölümden başka engel yoktur.\" Her farz namazdan sonra bir defa (günde beş); ayrıca yatarken bir defa okunması tavsiye edilir.",
     "englishTitle": "Ayat al-Kursi",
@@ -62,6 +67,7 @@
   {
     "id": "a0000019-1019-1019-1019-100000000019",
     "arabicText": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+    "transliteration": "Allâhümme ecirnî mine'n-nâr.",
     "turkishTitle": "Allâhümme ecirnî mine'n-nâr",
     "turkishDescription": "\"Allah'ım, beni cehennem ateşinden koru.\" Sabah namazından sonra kimseyle konuşmadan yedi defa, akşam namazından sonra yedi defa söylenmesi tavsiye edilmiştir.",
     "englishTitle": "Allahumma ajirni min an-nar",
@@ -74,6 +80,7 @@
   {
     "id": "a0000031-1031-1031-1031-100000000031",
     "arabicText": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Lâ ilâhe illallâhü vahdehû lâ şerîke leh, lehü'l-mülkü ve lehü'l-hamdü ve hüve alâ külli şey'in kadîr.",
     "turkishTitle": "Lâ ilâhe illallâhü vahdehû lâ şerîke leh",
     "turkishDescription": "\"Allah'tan başka ilâh yoktur; O tektir, ortağı yoktur. Mülk O'nundur, hamd O'na mahsustur; O her şeye gücü yetendir.\" Günde 100 defa söyleyene on köle azat etmiş sevabı yazılır, 100 sevap verilir, 100 günahı silinir ve o gün akşama kadar şeytandan korunur.",
     "englishTitle": "La ilaha illallahu wahdahu la sharika lah",
@@ -86,6 +93,7 @@
   {
     "id": "a000000A-100A-100A-100A-10000000000A",
     "arabicText": "سُبْحَانَ اللهِ وَبِحَمْدِهِ",
+    "transliteration": "Sübhânallâhi ve bihamdihî.",
     "turkishTitle": "Sübhânallâhi ve bihamdihî",
     "turkishDescription": "\"Allah'ı hamd ile tesbih ederim.\" Günde 100 defa söyleyenin günahları deniz köpüğü kadar da olsa bağışlanır.",
     "englishTitle": "Subhanallahi wa bihamdihi",
@@ -98,6 +106,7 @@
   {
     "id": "a0000032-1032-1032-1032-100000000032",
     "arabicText": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transliteration": "Allâhümme ente rabbî, lâ ilâhe illâ ente, halaktenî ve ene abdüke, ve ene alâ ahdike ve va'dike mesteta'tü. Eûzü bike min şerri mâ sana'tü, ebûü leke bi-ni'metike aleyye ve ebûü bi-zenbî, fağfir lî, fe-innehû lâ yağfiru'z-zünûbe illâ ente.",
     "turkishTitle": "Seyyidü'l-istiğfar",
     "turkishDescription": "\"Allah'ım! Sen benim Rabbimsin, senden başka ilâh yoktur. Beni sen yarattın, ben senin kulunum; gücüm yettiğince ahdine ve vaadine bağlıyım. Yaptıklarımın şerrinden sana sığınırım. Üzerimdeki nimetini itiraf ederim, günahımı da itiraf ederim; beni bağışla, çünkü günahları senden başkası bağışlamaz.\" Sabah ve akşam birer defa; inanarak okuyup o gün/gece vefat eden cennet ehlindendir.",
     "englishTitle": "Sayyid al-Istighfar",
@@ -110,6 +119,7 @@
   {
     "id": "a0000033-1033-1033-1033-100000000033",
     "arabicText": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Bismillâhillezî lâ yedurru mea'smihî şey'ün fi'l-ardi ve lâ fi's-semâi ve hüve's-semîu'l-alîm.",
     "turkishTitle": "Bismillâhillezî lâ yedurru",
     "turkishDescription": "\"İsmiyle birlikte yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla. O işitendir, bilendir.\" Sabah ve akşam üçer defa söyleyene hiçbir şey zarar vermez.",
     "englishTitle": "Bismillahilladhi la yadurru",
@@ -122,6 +132,7 @@
   {
     "id": "a0000034-1034-1034-1034-100000000034",
     "arabicText": "حَسْبِيَ اللهُ لَا إِلٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "transliteration": "Hasbiyallâhü lâ ilâhe illâ hû, aleyhi tevekkeltü ve hüve rabbü'l-arşi'l-azîm.",
     "turkishTitle": "Hasbiyallâhü lâ ilâhe illâ hû",
     "turkishDescription": "\"Allah bana yeter, O'ndan başka ilâh yoktur. O'na dayandım; O, büyük arşın Rabbidir.\" (Tevbe 9/129) Sabah ve akşam yedişer defa okuyanın dünya ve âhiret sıkıntılarına Allah'ın kâfi geleceği rivayet edilir.",
     "englishTitle": "Hasbiyallahu la ilaha illa hu",
@@ -134,6 +145,7 @@
   {
     "id": "a0000035-1035-1035-1035-100000000035",
     "arabicText": "رَضِيتُ بِاللهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+    "transliteration": "Radîtü billâhi rabben ve bi'l-islâmi dînen ve bi-Muhammedin sallallâhü aleyhi ve selleme nebiyyâ.",
     "turkishTitle": "Radîtü billâhi rabben",
     "turkishDescription": "\"Rab olarak Allah'tan, din olarak İslâm'dan, peygamber olarak Muhammed'den (s.a.v.) razı oldum.\" Sabah ve akşam üçer defa; Allah'ın kıyamet günü onu razı etmesi ümit edilir.",
     "englishTitle": "Raditu billahi rabban",
@@ -146,6 +158,7 @@
   {
     "id": "a0000036-1036-1036-1036-100000000036",
     "arabicText": "سُبْحَانَ اللهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+    "transliteration": "Sübhânallâhi ve bihamdihî adede halkıhî ve rıdâ nefsihî ve zinete arşihî ve midâde kelimâtih.",
     "turkishTitle": "Sübhânallâhi ve bihamdihî adede halkıhî",
     "turkishDescription": "\"Allah'ı yarattıkları sayısınca, kendi rızası kadar, arşının ağırlığınca ve kelimelerinin mürekkebince hamd ile tesbih ederim.\" Hz. Peygamber, sabahtan kuşluğa kadar zikir çeken Cüveyriye'ye bu cümleyi üç defa söylemenin o zikirlerin tamamına denk geleceğini bildirmiştir.",
     "englishTitle": "Subhanallahi wa bihamdihi 'adada khalqihi",
@@ -158,6 +171,7 @@
   {
     "id": "a0000037-1037-1037-1037-100000000037",
     "arabicText": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "transliteration": "Eûzü bi-kelimâtillâhi't-tâmmâti min şerri mâ halak.",
     "turkishTitle": "Eûzü bi kelimâtillâhi't-tâmmât",
     "turkishDescription": "\"Yarattıklarının şerrinden Allah'ın eksiksiz kelimelerine sığınırım.\" Akşam üç defa söyleyene o gece hiçbir şey zarar vermez; bir yere konaklayınca da okunur.",
     "englishTitle": "A'udhu bi kalimatillahi't-tammat",
@@ -169,7 +183,8 @@
   },
   {
     "id": "a0000039-1039-1039-1039-100000000039",
-    "arabicText": "قُلْ هُوَ اللهُ أَحَدٌ · قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ · قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "arabicText": "قُلْ هُوَ اللَّهُ أَحَدٌ ﴿1﴾ اللَّهُ الصَّمَدُ ﴿2﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿3﴾ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ ﴿4﴾\nقُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ﴿1﴾ مِن شَرِّ مَا خَلَقَ ﴿2﴾ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿3﴾ وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ﴿4﴾ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ﴿5﴾\nقُلْ أَعُوذُ بِرَبِّ النَّاسِ ﴿1﴾ مَلِكِ النَّاسِ ﴿2﴾ إِلَٰهِ النَّاسِ ﴿3﴾ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ ﴿4﴾ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ﴿5﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿6﴾",
+    "transliteration": "İhlâs: Kul hüvallâhü ehad. Allâhü's-samed. Lem yelid ve lem yûled. Ve lem yekün lehû küfüven ehad.\nFelak: Kul eûzü bi-rabbi'l-felak. Min şerri mâ halak. Ve min şerri ğâsikın izâ vekab. Ve min şerri'n-neffâsâti fi'l-ukad. Ve min şerri hâsidin izâ hased.\nNâs: Kul eûzü bi-rabbi'n-nâs. Meliki'n-nâs. İlâhi'n-nâs. Min şerri'l-vesvâsi'l-hannâs. Ellezî yüvesvisü fî sudûri'n-nâs. Mine'l-cinneti ve'n-nâs.",
     "turkishTitle": "İhlâs, Felak, Nâs",
     "turkishDescription": "Üç sûre sabah ve akşam üçer defa okunur; Hz. Peygamber: \"Bunları sabah ve akşam üç defa oku, her şeye karşı sana yeter.\" Sûre metinleri Namaz Hocası › Sûreler bölümünde.",
     "englishTitle": "Al-Ikhlas, Al-Falaq, An-Nas",
@@ -182,6 +197,7 @@
   {
     "id": "a0000013-1013-1013-1013-100000000013",
     "arabicText": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي",
+    "transliteration": "Allâhümme âfinî fî bedenî, Allâhümme âfinî fî sem'î, Allâhümme âfinî fî basarî.",
     "turkishTitle": "Allâhümme âfinî fî bedenî",
     "turkishDescription": "\"Allah'ım, bedenime âfiyet ver; kulağıma âfiyet ver; gözüme âfiyet ver.\" Hz. Peygamber'in sabah ve akşam üçer defa söylediği rivayet edilir.",
     "englishTitle": "Allahumma 'afini fi badani",
@@ -194,6 +210,7 @@
   {
     "id": "a0000025-1025-1025-1025-100000000025",
     "arabicText": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allâhümme innî es'elüke'l-afve ve'l-âfiyete fi'd-dünyâ ve'l-âhira.",
     "turkishTitle": "Allâhümme innî es'elüke'l-afve ve'l-âfiye",
     "turkishDescription": "\"Allah'ım, senden dünyada ve âhirette af ve âfiyet dilerim.\" Hz. Peygamber'in sabah ve akşam hiç bırakmadığı dualardandır; sabah ve akşam birer defa.",
     "englishTitle": "Allahumma inni as'aluka'l-'afwa wa'l-'afiya",
@@ -206,6 +223,7 @@
   {
     "id": "a0000004-1004-1004-1004-100000000004",
     "arabicText": "لَا إِلٰهَ إِلَّا اللهُ",
+    "transliteration": "Lâ ilâhe illallah.",
     "turkishTitle": "Lâ ilâhe illallah (Kelime-i tevhid)",
     "turkishDescription": "\"Allah'tan başka ilâh yoktur.\" Hz. Peygamber: \"Zikrin en faziletlisi Lâ ilâhe illallah'tır.\" Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "La ilaha illallah",
@@ -218,6 +236,7 @@
   {
     "id": "a0000005-1005-1005-1005-100000000005",
     "arabicText": "أَسْتَغْفِرُ اللهَ",
+    "transliteration": "Estağfirullah.",
     "turkishTitle": "Estağfirullah",
     "turkishDescription": "\"Allah'tan bağışlanma dilerim.\" Hz. Peygamber günde yüz defa istiğfar ettiğini, bir rivayette yetmişten fazla tövbe ettiğini bildirmiştir; ümmete de günde yüz defa tavsiye edilmiştir.",
     "englishTitle": "Astaghfirullah",
@@ -230,6 +249,7 @@
   {
     "id": "a0000010-1010-1010-1010-100000000010",
     "arabicText": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+    "transliteration": "Allâhümme salli alâ Muhammedin ve alâ âli Muhammed.",
     "turkishTitle": "Salavât-ı şerîfe",
     "turkishDescription": "\"Allah'ım, Muhammed'e ve âline rahmet et.\" Hz. Peygamber: \"Kim bana bir salavat getirirse Allah ona on rahmet eder.\" Cuma günü çokça salavat getirmek ayrıca tavsiye edilmiştir. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Salawat",
@@ -242,6 +262,7 @@
   {
     "id": "a0000021-1021-1021-1021-100000000021",
     "arabicText": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+    "transliteration": "Lâ havle ve lâ kuvvete illâ billâh.",
     "turkishTitle": "Lâ havle ve lâ kuvvete illâ billâh",
     "turkishDescription": "\"Güç ve kuvvet ancak Allah'tandır.\" Hz. Peygamber bunun cennet hazinelerinden bir hazine olduğunu söylemiştir. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "La hawla wa la quwwata illa billah",
@@ -254,6 +275,7 @@
   {
     "id": "a0000028-1028-1028-1028-100000000028",
     "arabicText": "سُبْحَانَ اللهِ وَبِحَمْدِهِ، سُبْحَانَ اللهِ الْعَظِيمِ",
+    "transliteration": "Sübhânallâhi ve bihamdihî, sübhânallâhi'l-azîm.",
     "turkishTitle": "Sübhânallâhi ve bihamdihî sübhânallâhi'l-azîm",
     "turkishDescription": "\"Allah'ı hamd ile tesbih ederim; yüce Allah'ı tesbih ederim.\" Hz. Peygamber: \"Dile hafif, mizanda ağır, Rahmân'a sevimli iki cümle.\" Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Subhanallahi wa bihamdihi, subhanallahi'l-'azim",
@@ -266,6 +288,7 @@
   {
     "id": "a0000040-1040-1040-1040-100000000040",
     "arabicText": "سُبْحَانَ اللهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ",
+    "transliteration": "Sübhânallâhi ve'l-hamdü lillâhi ve lâ ilâhe illallâhü vallâhü ekber.",
     "turkishTitle": "Bâkiyât-ı sâlihât (dört kelime)",
     "turkishDescription": "\"Sübhânallah, elhamdülillah, lâ ilâhe illallah, Allâhü ekber.\" Hz. Peygamber: \"Allah'a en sevimli sözler dörttür; hangisinden başlarsan başla.\" Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "The four beloved words",
@@ -278,6 +301,7 @@
   {
     "id": "a0000018-1018-1018-1018-100000000018",
     "arabicText": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhireti haseneten ve kınâ azâbe'n-nâr.",
     "turkishTitle": "Rabbenâ âtinâ",
     "turkishDescription": "\"Rabbimiz! Bize dünyada da iyilik ver, âhirette de iyilik ver; bizi cehennem azabından koru.\" (Bakara 2/201) Hz. Peygamber'in en çok yaptığı dua. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Rabbana atina",
@@ -290,6 +314,7 @@
   {
     "id": "a0000038-1038-1038-1038-100000000038",
     "arabicText": "لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "transliteration": "Lâ ilâhe illâ ente sübhâneke innî küntü mine'z-zâlimîn.",
     "turkishTitle": "Yûnus duası",
     "turkishDescription": "\"Senden başka ilâh yoktur; seni tenzih ederim, ben zalimlerden oldum.\" (Enbiyâ 21/87) Hz. Peygamber: \"Bununla dua eden hiçbir Müslüman yoktur ki duası kabul edilmesin.\" Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Supplication of Yunus",
@@ -302,6 +327,7 @@
   {
     "id": "a0000041-1041-1041-1041-100000000041",
     "arabicText": "حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Hasbünallâhü ve ni'me'l-vekîl.",
     "turkishTitle": "Hasbünallâhü ve ni'me'l-vekîl",
     "turkishDescription": "\"Allah bize yeter, O ne güzel vekildir.\" (Âl-i İmrân 3/173) Hz. İbrâhim ateşe atılırken, Hz. Peygamber de Uhud sonrası tehdit karşısında bunu söylemiştir. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Hasbunallahu wa ni'mal-wakil",
@@ -314,6 +340,7 @@
   {
     "id": "a0000009-1009-1009-1009-100000000009",
     "arabicText": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbi zidnî ilmâ.",
     "turkishTitle": "Rabbi zidnî ilmâ",
     "turkishDescription": "\"Rabbim, ilmimi artır.\" (Tâhâ 20/114) Allah'ın Hz. Peygamber'e öğrettiği ilim duası. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Rabbi zidni 'ilma",
@@ -326,6 +353,7 @@
   {
     "id": "a0000022-1022-1022-1022-100000000022",
     "arabicText": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+    "transliteration": "Allâhümme lâ sehle illâ mâ cealtehû sehlâ, ve ente tec'alü'l-hazne izâ şi'te sehlâ.",
     "turkishTitle": "Allâhümme lâ sehle",
     "turkishDescription": "\"Allah'ım! Senin kolay kıldığından başka kolay yoktur; sen dilersen zoru da kolay kılarsın.\" Zor bir iş karşısında okunur. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Allahumma la sahla",
@@ -338,6 +366,7 @@
   {
     "id": "a0000020-1020-1020-1020-100000000020",
     "arabicText": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "transliteration": "Allâhümme'kfinî bi-halâlike an harâmike ve ağninî bi-fadlike ammen sivâk.",
     "turkishTitle": "Allâhümme'kfinî bi halâlik",
     "turkishDescription": "\"Allah'ım! Helâlinle beni haramından müstağni kıl, lütfunla beni senden başkasına muhtaç etme.\" Hz. Ali'ye borç için öğretilen dua; rızık ve borç sıkıntısında okunur. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Allahumma'kfini bi halalik",
@@ -350,6 +379,7 @@
   {
     "id": "a0000042-1042-1042-1042-100000000042",
     "arabicText": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "transliteration": "Allâhümme innî es'elüke'l-hüdâ ve't-tükâ ve'l-afâfe ve'l-ğınâ.",
     "turkishTitle": "Allâhümme innî es'elüke'l-hüdâ",
     "turkishDescription": "\"Allah'ım! Senden hidayet, takvâ, iffet ve gönül zenginliği dilerim.\" Hz. Peygamber'in sık yaptığı dualardandır. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Allahumma inni as'aluka'l-huda",
@@ -362,6 +392,7 @@
   {
     "id": "a0000043-1043-1043-1043-100000000043",
     "arabicText": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْجُبْنِ وَالْبُخْلِ، وَغَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+    "transliteration": "Allâhümme innî eûzü bike mine'l-hemmi ve'l-hazen, ve'l-aczi ve'l-kesel, ve'l-cübni ve'l-buhl, ve ğalebeti'd-deyni ve kahri'r-ricâl.",
     "turkishTitle": "Kaygı ve borçtan sığınma duası",
     "turkishDescription": "\"Allah'ım! Kaygıdan ve üzüntüden, âcizlikten ve tembellikten, korkaklıktan ve cimrilikten, borcun galebesinden ve insanların baskısından sana sığınırım.\" Hz. Peygamber'in sıkça yaptığı dua; kaygı ve borç sıkıntısında okunur. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Refuge from worry and debt",
@@ -374,6 +405,7 @@
   {
     "id": "a0000044-1044-1044-1044-100000000044",
     "arabicText": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+    "transliteration": "Yâ Hayyü yâ Kayyûm, bi-rahmetike estağîs.",
     "turkishTitle": "Yâ Hayyü yâ Kayyûm",
     "turkishDescription": "\"Ey diri olan, ey her şeyi ayakta tutan! Rahmetinle yardım dilerim.\" Hz. Peygamber'in sıkıntı anında söylediği rivayet edilir. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Ya Hayyu ya Qayyum",
@@ -386,6 +418,7 @@
   {
     "id": "a000000B-100B-100B-100B-10000000000B",
     "arabicText": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+    "transliteration": "Allâhümme rabbe'n-nâs, ezhibi'l-be's, işfi ente'ş-şâfî, lâ şifâe illâ şifâük, şifâen lâ yüğâdiru sekamâ.",
     "turkishTitle": "Şifa duası",
     "turkishDescription": "\"Ey insanların Rabbi olan Allah'ım! Sıkıntıyı gider, şifa ver; şifa veren sensin. Senin şifandan başka şifa yoktur; hiçbir hastalık bırakmayan bir şifa ver.\" Hz. Peygamber hastaları ziyaret ettiğinde bu duayı okurdu. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
     "englishTitle": "Supplication for healing",
@@ -394,5 +427,174 @@
     "targetCount": 11,
     "audioFileName": "ya_shafi",
     "source": "Buhârî, Merdâ 20; Müslim, Selâm 46"
+  },
+  {
+    "id": "a0000045-1045-1045-1045-100000000045",
+    "arabicText": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+    "transliteration": "Rabbi'ğfir lî ve tüb aleyye, inneke ente't-tevvâbü'r-rahîm.",
+    "turkishTitle": "Rabbi'ğfir lî ve tüb aleyye",
+    "turkishDescription": "\"Rabbim, beni bağışla ve tövbemi kabul et; şüphesiz sen tövbeleri çokça kabul eden, çok merhametli olansın.\" İbn Ömer, Hz. Peygamber'in bir mecliste bunu yüz defa söylediğini saymıştır.",
+    "englishTitle": "Rabbi'ghfir li wa tub 'alayya",
+    "englishDescription": "\"My Lord, forgive me and accept my repentance; You are the Accepter of repentance, the Merciful.\" Ibn Umar counted the Prophet saying it a hundred times in one sitting.",
+    "category": "Forgiveness",
+    "targetCount": 100,
+    "audioFileName": null,
+    "source": "Ebû Dâvûd, Vitir 26 (1516); Tirmizî, Deavât 39 (3434)"
+  },
+  {
+    "id": "a0000046-1046-1046-1046-100000000046",
+    "arabicText": "أَسْتَغْفِرُ اللهَ الْعَظِيمَ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+    "transliteration": "Estağfirullâhe'l-azîm ellezî lâ ilâhe illâ hüve'l-hayyü'l-kayyûme ve etûbü ileyh.",
+    "turkishTitle": "Estağfirullâhe'l-azîm (uzun istiğfar)",
+    "turkishDescription": "\"Kendisinden başka ilâh olmayan, diri ve her şeyi ayakta tutan yüce Allah'tan bağışlanma diler ve O'na tövbe ederim.\" Hz. Peygamber: \"Kim bunu söylerse, savaştan kaçmış bile olsa bağışlanır.\" Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
+    "englishTitle": "Astaghfirullaha'l-'azim (long istighfar)",
+    "englishDescription": "\"I seek forgiveness of God the Almighty, besides whom there is no god, the Ever-Living, the Sustainer, and I repent to Him.\" \"Whoever says it is forgiven, even if he fled from battle.\" No specific count is given in the hadith; the target is only a suggestion.",
+    "category": "Forgiveness",
+    "targetCount": 33,
+    "audioFileName": null,
+    "source": "Ebû Dâvûd, Vitir 26 (1517); Tirmizî, Deavât 118 (3577)"
+  },
+  {
+    "id": "a0000047-1047-1047-1047-100000000047",
+    "arabicText": "سُبْحَانَ اللهِ (٣٣) · الْحَمْدُ لِلَّهِ (٣٣) · اللهُ أَكْبَرُ (٣٤)",
+    "transliteration": "Sübhânallah (33), Elhamdülillah (33), Allâhü ekber (34).",
+    "turkishTitle": "Yatarken tesbih (Fâtıma tesbihi)",
+    "turkishDescription": "Hz. Fâtıma'ya öğretilen yatak tesbihi: yatağa girince 33 Sübhânallah, 33 Elhamdülillah, 34 Allâhü ekber (toplam 100). Hz. Ali bunu hiç terk etmediğini söylemiştir.",
+    "englishTitle": "Bedtime tasbih (Fatima's tasbih)",
+    "englishDescription": "Taught to Fatima for bedtime: 33 Subhanallah, 33 Alhamdulillah and 34 Allahu Akbar (100 in total). Ali said he never left it out.",
+    "category": "Daily",
+    "targetCount": 100,
+    "audioFileName": null,
+    "source": "Buhârî, Fezâilü ashâbi'n-nebî 9; Müslim, Zikir 80"
+  },
+  {
+    "id": "a0000048-1048-1048-1048-100000000048",
+    "arabicText": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismike'llâhümme emûtü ve ahyâ.",
+    "turkishTitle": "Uyku duası",
+    "turkishDescription": "\"Allah'ım! Senin adınla ölür, senin adınla dirilirim.\" Hz. Peygamber yatağına girdiğinde bunu söylerdi; bir defa.",
+    "englishTitle": "Supplication before sleep",
+    "englishDescription": "\"In Your name, O God, I die and I live.\" The Prophet said it when going to bed; once.",
+    "category": "MorningEvening",
+    "targetCount": 1,
+    "audioFileName": null,
+    "source": "Buhârî, Deavât 7; Müslim, Zikir 59"
+  },
+  {
+    "id": "a0000049-1049-1049-1049-100000000049",
+    "arabicText": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Elhamdülillâhillezî ahyânâ ba'de mâ emâtenâ ve ileyhi'n-nüşûr.",
+    "turkishTitle": "Uyanınca okunan dua",
+    "turkishDescription": "\"Bizi öldürdükten sonra dirilten Allah'a hamdolsun; dönüş O'nadır.\" Hz. Peygamber uyandığında bunu söylerdi; bir defa.",
+    "englishTitle": "Supplication on waking",
+    "englishDescription": "\"Praise be to God who gave us life after He caused us to die, and to Him is the resurrection.\" Said once on waking.",
+    "category": "MorningEvening",
+    "targetCount": 1,
+    "audioFileName": null,
+    "source": "Buhârî, Deavât 7-8; Müslim, Zikir 59"
+  },
+  {
+    "id": "a0000050-1050-1050-1050-100000000050",
+    "arabicText": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allâhümme e'innî alâ zikrike ve şükrike ve hüsni ibâdetik.",
+    "turkishTitle": "Allâhümme e'innî alâ zikrik",
+    "turkishDescription": "\"Allah'ım! Seni anmak, sana şükretmek ve sana güzelce kulluk etmek için bana yardım et.\" Hz. Peygamber Muâz'a her namazın ardından bunu söylemesini tavsiye etmiştir (günde beş).",
+    "englishTitle": "Allahumma a'inni 'ala dhikrik",
+    "englishDescription": "\"O God, help me to remember You, to thank You and to worship You well.\" The Prophet told Mu'adh to say it after every prayer.",
+    "category": "AfterPrayer",
+    "targetCount": 5,
+    "audioFileName": null,
+    "source": "Ebû Dâvûd, Vitir 26 (1522); Nesâî, Sehv 60"
+  },
+  {
+    "id": "a0000051-1051-1051-1051-100000000051",
+    "arabicText": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+    "transliteration": "Allâhümme innî es'elüke ilmen nâfian ve rızkan tayyiben ve amelen mütekabbelâ.",
+    "turkishTitle": "Faydalı ilim ve helâl rızık duası",
+    "turkishDescription": "\"Allah'ım! Senden faydalı ilim, helâl rızık ve kabul olunan amel dilerim.\" Hz. Peygamber sabah namazının ardından bunu söylerdi; bir defa.",
+    "englishTitle": "Beneficial knowledge and good provision",
+    "englishDescription": "\"O God, I ask You for beneficial knowledge, good provision and accepted deeds.\" Said once after the dawn prayer.",
+    "category": "AfterPrayer",
+    "targetCount": 1,
+    "audioFileName": null,
+    "source": "İbn Mâce, İkâmetü's-salât 32 (925)"
+  },
+  {
+    "id": "a0000052-1052-1052-1052-100000000052",
+    "arabicText": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+    "transliteration": "Yâ mukallibe'l-kulûb, sebbit kalbî alâ dînik.",
+    "turkishTitle": "Yâ mukallibe'l-kulûb",
+    "turkishDescription": "\"Ey kalpleri evirip çeviren! Kalbimi dinin üzere sabit kıl.\" Hz. Peygamber'in en çok yaptığı dualardan biri. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
+    "englishTitle": "Ya muqallib al-qulub",
+    "englishDescription": "\"O Turner of hearts, make my heart firm upon Your religion.\" One of the Prophet's most frequent supplications. No specific count is given in the hadith; the target is only a suggestion.",
+    "category": "General",
+    "targetCount": 33,
+    "audioFileName": null,
+    "source": "Tirmizî, Deavât 89 (3522); Kader 7"
+  },
+  {
+    "id": "a0000053-1053-1053-1053-100000000053",
+    "arabicText": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+    "transliteration": "Allâhümme innî es'elüke'l-cennete ve eûzü bike mine'n-nâr.",
+    "turkishTitle": "Cennet isteme duası",
+    "turkishDescription": "\"Allah'ım! Senden cenneti ister, cehennemden sana sığınırım.\" Hz. Peygamber: \"Kim üç defa cenneti isterse cennet 'Allah'ım, onu cennete koy' der; kim üç defa cehennemden sığınırsa cehennem 'Allah'ım, onu cehennemden koru' der.\"",
+    "englishTitle": "Asking for Paradise",
+    "englishDescription": "\"O God, I ask You for Paradise and seek refuge in You from the Fire.\" \"Whoever asks for Paradise three times, Paradise says: O God, admit him.\"",
+    "category": "Protection",
+    "targetCount": 3,
+    "audioFileName": null,
+    "source": "Tirmizî, Cennet 27 (2572); Nesâî, İstiâze 56"
+  },
+  {
+    "id": "a0000054-1054-1054-1054-100000000054",
+    "arabicText": "لَا إِلٰهَ إِلَّا اللهُ الْعَظِيمُ الْحَلِيمُ، لَا إِلٰهَ إِلَّا اللهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لَا إِلٰهَ إِلَّا اللهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ",
+    "transliteration": "Lâ ilâhe illallâhü'l-azîmü'l-halîm, lâ ilâhe illallâhü rabbü'l-arşi'l-azîm, lâ ilâhe illallâhü rabbü's-semâvâti ve rabbü'l-ardi ve rabbü'l-arşi'l-kerîm.",
+    "turkishTitle": "Sıkıntı duası",
+    "turkishDescription": "\"Azîm ve halîm olan Allah'tan başka ilâh yoktur. Büyük arşın Rabbi Allah'tan başka ilâh yoktur. Göklerin, yerin ve değerli arşın Rabbi Allah'tan başka ilâh yoktur.\" Hz. Peygamber sıkıntı anında bunu söylerdi. Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
+    "englishTitle": "Supplication in distress",
+    "englishDescription": "\"There is no god but God, the Mighty, the Forbearing… Lord of the heavens, the earth and the noble Throne.\" The Prophet said it in times of distress. No specific count is given in the hadith; the target is only a suggestion.",
+    "category": "Protection",
+    "targetCount": 11,
+    "audioFileName": null,
+    "source": "Buhârî, Deavât 27; Müslim, Zikir 83"
+  },
+  {
+    "id": "a0000055-1055-1055-1055-100000000055",
+    "arabicText": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ",
+    "transliteration": "Sübhâne'l-meliki'l-kuddûs.",
+    "turkishTitle": "Sübhâne'l-meliki'l-kuddûs",
+    "turkishDescription": "\"Mülkün sahibi, her eksiklikten uzak olan Allah'ı tesbih ederim.\" Hz. Peygamber vitir namazının ardından üç defa söylerdi, üçüncüde sesini yükseltirdi.",
+    "englishTitle": "Subhana'l-malik al-quddus",
+    "englishDescription": "\"Glory be to the King, the Most Holy.\" Said three times after the witr prayer, raising the voice on the third.",
+    "category": "AfterPrayer",
+    "targetCount": 3,
+    "audioFileName": null,
+    "source": "Nesâî, Kıyâmü'l-leyl 51 (1732); Ebû Dâvûd, Vitir 4 (1430)"
+  },
+  {
+    "id": "a0000056-1056-1056-1056-100000000056",
+    "arabicText": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الْوَهَّابُ",
+    "transliteration": "Rabbenâ lâ tüziğ kulûbenâ ba'de iz hedeytenâ ve heb lenâ min ledünke rahmeh, inneke ente'l-vehhâb.",
+    "turkishTitle": "Rabbenâ lâ tüziğ kulûbenâ",
+    "turkishDescription": "\"Rabbimiz! Bizi doğru yola ilettikten sonra kalplerimizi eğriltme; bize katından bir rahmet bağışla. Şüphesiz sen çok bağışlayansın.\" (Âl-i İmrân 3/8) Hadislerde belirli bir sayı geçmez; hedef yalnızca öneridir.",
+    "englishTitle": "Rabbana la tuzigh qulubana",
+    "englishDescription": "\"Our Lord, let not our hearts deviate after You have guided us, and grant us mercy from Yourself; You are the Bestower.\" (Al 'Imran 3:8) No specific count is given in the hadith; the target is only a suggestion.",
+    "category": "General",
+    "targetCount": 11,
+    "audioFileName": null,
+    "source": "Âl-i İmrân 3/8"
+  },
+  {
+    "id": "a0000057-1057-1057-1057-100000000057",
+    "arabicText": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+    "transliteration": "Allâhümme innî eûzü bike mine'l-küfri ve'l-fakr, ve eûzü bike min azâbi'l-kabr.",
+    "turkishTitle": "Küfür, fakirlik ve kabir azabından sığınma",
+    "turkishDescription": "\"Allah'ım! Küfürden ve fakirlikten sana sığınırım; kabir azabından sana sığınırım.\" Hz. Peygamber'in sabah ve akşam üçer defa söylediği rivayet edilir.",
+    "englishTitle": "Refuge from disbelief, poverty and the grave",
+    "englishDescription": "\"O God, I seek refuge in You from disbelief and poverty, and from the punishment of the grave.\" Reported as said three times morning and evening.",
+    "category": "Protection",
+    "targetCount": 3,
+    "audioFileName": null,
+    "source": "Ebû Dâvûd, Edeb 101 (5090)"
   }
 ]
