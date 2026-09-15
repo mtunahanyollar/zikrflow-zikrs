@@ -1,0 +1,115 @@
+{
+ "version": 1,
+ "source": "Diyanet İşleri Başkanlığı dini günler takvimi (2026-2027)",
+ "note": "Umm al-Qura hesabından farklı olabilen resmi tarihler; kind + tarih eşleşmesi ±3 gün toleransla uygulanır.",
+ "overrides": [
+  {
+   "kind": "miraj",
+   "date": "2026-01-15"
+  },
+  {
+   "kind": "baraat",
+   "date": "2026-02-02"
+  },
+  {
+   "kind": "ramadan_start",
+   "date": "2026-02-19"
+  },
+  {
+   "kind": "qadr",
+   "date": "2026-03-16"
+  },
+  {
+   "kind": "eid_fitr_eve",
+   "date": "2026-03-19"
+  },
+  {
+   "kind": "eid_fitr",
+   "date": "2026-03-20"
+  },
+  {
+   "kind": "eid_adha_eve",
+   "date": "2026-05-26"
+  },
+  {
+   "kind": "eid_adha",
+   "date": "2026-05-27"
+  },
+  {
+   "kind": "hijri_new_year",
+   "date": "2026-06-16"
+  },
+  {
+   "kind": "ashura",
+   "date": "2026-06-25"
+  },
+  {
+   "kind": "mawlid",
+   "date": "2026-08-24"
+  },
+  {
+   "kind": "three_months",
+   "date": "2026-12-10"
+  },
+  {
+   "kind": "raghaib",
+   "date": "2026-12-10"
+  },
+  {
+   "kind": "miraj",
+   "date": "2027-01-04"
+  },
+  {
+   "kind": "baraat",
+   "date": "2027-01-22"
+  },
+  {
+   "kind": "ramadan_start",
+   "date": "2027-02-08"
+  },
+  {
+   "kind": "qadr",
+   "date": "2027-03-05"
+  },
+  {
+   "kind": "eid_fitr_eve",
+   "date": "2027-03-08"
+  },
+  {
+   "kind": "eid_fitr",
+   "date": "2027-03-09"
+  },
+  {
+   "kind": "eid_adha_eve",
+   "date": "2027-05-15"
+  },
+  {
+   "kind": "eid_adha",
+   "date": "2027-05-16"
+  },
+  {
+   "kind": "hijri_new_year",
+   "date": "2027-06-06"
+  },
+  {
+   "kind": "ashura",
+   "date": "2027-06-15"
+  },
+  {
+   "kind": "mawlid",
+   "date": "2027-08-13"
+  },
+  {
+   "kind": "three_months",
+   "date": "2027-11-29"
+  },
+  {
+   "kind": "raghaib",
+   "date": "2027-12-02"
+  },
+  {
+   "kind": "miraj",
+   "date": "2027-12-24"
+  }
+ ]
+}
