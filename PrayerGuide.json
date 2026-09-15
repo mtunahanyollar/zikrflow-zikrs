@@ -1,0 +1,3068 @@
+{
+ "version": 1,
+ "updatedAt": "2026-09-15",
+ "madhab": "hanafi",
+ "disclaimer": {
+  "tr": "Bu bölümdeki bilgiler Diyanet İşleri Başkanlığı yayınlarına dayanır. Hanefî mezhebi esas alınmış, Şafiî farkları ayrıca belirtilmiştir.",
+  "en": "The information in this section is based on publications of the Turkish Presidency of Religious Affairs (Diyanet). The Hanafi school is followed; Shafi'i differences are noted separately."
+ },
+ "sources": [
+  {
+   "id": "dib-ilmihal",
+   "title": "Namaz İlmihali — Diyanet İşleri Başkanlığı Yayınları (Karagöz & Altuntaş, 4. baskı, 2011)",
+   "note": {
+    "tr": "Hükümler bu kitaptan özetlenmiştir; madde sayıları ve sırası kitaba uyar.",
+    "en": "Rulings summarised from this book; item counts and order follow the book."
+   },
+   "url": "https://diyanet.gov.tr"
+  },
+  {
+   "id": "dib-akseki",
+   "title": "Namaz Sûrelerinin Türkçe Terceme ve Tefsiri — A. Hamdi Akseki, DİB Cep Kitapları (21. baskı, 2012)",
+   "note": {
+    "tr": "Sûre ve duaların okunuşu ile Türkçe meali bu kitapçıktan alınmıştır.",
+    "en": "Turkish transliteration and meaning of surahs and duas are taken from this booklet."
+   },
+   "url": "https://diyanet.gov.tr"
+  },
+  {
+   "id": "tanzil",
+   "title": "Tanzil Quran Text (Simple), Tanzil Project",
+   "note": {
+    "tr": "Arapça Kur'an metni Tanzil projesinden alınmıştır. CC BY 3.0 — metin değiştirilmemiştir.",
+    "en": "Arabic Qur'an text from the Tanzil Project. CC BY 3.0 — text unmodified."
+   },
+   "url": "https://tanzil.net"
+  },
+  {
+   "id": "clearquran",
+   "title": "Translation by Talal Itani, ClearQuran.com",
+   "note": {
+    "tr": "İngilizce meal ClearQuran'dan (CC BY-ND 4.0).",
+    "en": "English translation from ClearQuran (CC BY-ND 4.0)."
+   },
+   "url": "https://www.clearquran.com"
+  },
+  {
+   "id": "amiri",
+   "title": "Amiri typeface — Khaled Hosny (SIL Open Font License 1.1)",
+   "note": {
+    "tr": "Arapça metinler Amiri yazı tipiyle gösterilir.",
+    "en": "Arabic text is set in the Amiri typeface."
+   },
+   "url": "https://github.com/aliftype/amiri"
+  },
+  {
+   "id": "kut",
+   "title": "ZikrFlow editör çevirisi",
+   "note": {
+    "tr": "İngilizce açıklamalar ve dua anlamları DİB metinlerinden çevrilmiştir.",
+    "en": "English explanations and dua meanings were translated from the DİB texts."
+   },
+   "url": ""
+  }
+ ],
+ "sections": [
+  {
+   "id": "taharet",
+   "title": {
+    "tr": "Temizlik",
+    "en": "Purification"
+   },
+   "icon": "drop.fill",
+   "kind": "articles",
+   "subtitle": {
+    "tr": "Abdest, gusül, teyemmüm",
+    "en": "Wudu, ghusl, tayammum"
+   },
+   "articles": [
+    {
+     "id": "abdest",
+     "title": {
+      "tr": "Abdest",
+      "en": "Wudu (Ablution)"
+     },
+     "icon": "drop.fill",
+     "summary": {
+      "tr": "Namaz için su ile yapılan temizlik.",
+      "en": "The ritual washing required before prayer."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Abdest, namaz kılmak için usulüne göre su ile yapılan temizliktir. Namaz için abdest almanın farz olduğu Kur'an'da (Mâide 5/6) ve sünnette bildirilmiştir. Abdest alınacak su temiz olmalı ve daha önce abdest ya da gusülde kullanılmamış olmalıdır.",
+        "en": "Wudu is the ritual washing with water performed before prayer. Its obligation is established in the Qur'an (Al-Ma'idah 5:6) and the Sunnah. The water must be clean and not previously used for wudu or ghusl."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Abdestin farzları",
+        "en": "Obligatory acts (fard)"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Yüzü yıkamak.",
+          "en": "Washing the face."
+         }
+        },
+        {
+         "text": {
+          "tr": "Elleri ve kolları dirseklerle birlikte yıkamak.",
+          "en": "Washing the hands and arms including the elbows."
+         }
+        },
+        {
+         "text": {
+          "tr": "Başın dörtte birini meshetmek.",
+          "en": "Wiping a quarter of the head."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ayakları topuklarıyla birlikte yıkamak.",
+          "en": "Washing the feet including the ankles."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Farz olan, bu işlemleri birer kere yapmaktır. Yıkanan uzuvlarda kuru yer kalmamalıdır; suyun ulaşmasını engelleyen (oje, yapışkan vb.) bir şey bulunmamalıdır.",
+        "en": "Doing each of these once is the obligation. No part of the washed limbs may remain dry; nothing that blocks water (nail polish, adhesive, etc.) may remain."
+       }
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şafiî mezhebine göre niyet etmek ve bu sıraya uymak da farzdır.",
+        "en": "In the Shafi'i school, intention and keeping this order are also obligatory."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Abdestin sünnetleri",
+        "en": "Sunnah acts"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Niyet etmek ve eûzü-besmele ile başlamak.",
+          "en": "Making the intention and beginning with a'udhu and basmala."
+         }
+        },
+        {
+         "text": {
+          "tr": "Önce elleri bileklere kadar yıkamak.",
+          "en": "Washing the hands up to the wrists first."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ağza ve burna su vermek (mazmaza ve istinşak).",
+          "en": "Rinsing the mouth and nose."
+         }
+        },
+        {
+         "text": {
+          "tr": "Önce sağ organları yıkamak.",
+          "en": "Washing the right limbs first."
+         }
+        },
+        {
+         "text": {
+          "tr": "Başın tamamını meshetmek.",
+          "en": "Wiping the whole head."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kulakları ve enseyi meshetmek.",
+          "en": "Wiping the ears and the nape."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yıkanan organları üçer defa yıkamak.",
+          "en": "Washing each limb three times."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yıkarken ovalamak.",
+          "en": "Rubbing while washing."
+         }
+        },
+        {
+         "text": {
+          "tr": "Tertibe (sıraya) uymak.",
+          "en": "Keeping the order."
+         }
+        },
+        {
+         "text": {
+          "tr": "Parmak aralarını hilallemek.",
+          "en": "Passing water between the fingers and toes."
+         }
+        },
+        {
+         "text": {
+          "tr": "Misvak veya fırça ile ağız ve dişleri temizlemek.",
+          "en": "Cleaning the mouth and teeth with a miswak or brush."
+         }
+        }
+       ]
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Abdest nasıl alınır",
+        "en": "How to perform wudu"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "“Niyet ettim Allah rızası için abdest almaya” diye niyet edilir, eûzü-besmele çekilir.",
+          "en": "Make the intention: “I intend to perform wudu for the sake of Allah,” then say a'udhu and bismillah."
+         },
+         "icon": "heart.text.square.fill",
+         "media": "wudu_niyet"
+        },
+        {
+         "text": {
+          "tr": "Eller bileklere kadar üç kere yıkanır, parmak araları hilallenir.",
+          "en": "Wash the hands up to the wrists three times, passing water between the fingers."
+         },
+         "icon": "hands.and.sparkles.fill",
+         "media": "wudu_hands"
+        },
+        {
+         "text": {
+          "tr": "Misvak, fırça ya da başka bir yolla ağız ve dişler temizlenir.",
+          "en": "Clean the mouth and teeth with a miswak, a brush or another means."
+         },
+         "icon": "sparkles",
+         "media": "wudu_teeth"
+        },
+        {
+         "text": {
+          "tr": "Sağ avuçla alınan su ile ağız üç kere çalkalanır (mazmaza).",
+          "en": "Rinse the mouth three times with water taken in the right hand."
+         },
+         "icon": "mouth.fill",
+         "media": "wudu_mouth"
+        },
+        {
+         "text": {
+          "tr": "Sağ avuçla su alınıp üç kere burna çekilir, sol elle sümkürülür (istinşak). Oruçlu iken boğaza su kaçırmamaya dikkat edilir.",
+          "en": "Draw water into the nose three times with the right hand and blow it out with the left. When fasting, take care that no water reaches the throat."
+         },
+         "icon": "nose.fill",
+         "media": "wudu_nose"
+        },
+        {
+         "text": {
+          "tr": "Yüz, saç bitiminden çene altına ve iki kulak arasına kadar üç kere yıkanır. Sık sakalı olan parmaklarını sakalın içine sokarak suyu kıl diplerine ulaştırır.",
+          "en": "Wash the face three times, from the hairline to below the chin and from ear to ear. A thick beard is combed through with wet fingers."
+         },
+         "icon": "face.smiling",
+         "media": "wudu_face"
+        },
+        {
+         "text": {
+          "tr": "Sağ kol dirsekle birlikte üç kere yıkanır; sonra sol kol aynı şekilde.",
+          "en": "Wash the right arm including the elbow three times, then the left arm the same way."
+         },
+         "icon": "figure.arms.open",
+         "media": "wudu_arms"
+        },
+        {
+         "text": {
+          "tr": "Sağ el ıslatılarak başın üst ön kısmı ya da tamamı bir kere mesh edilir.",
+          "en": "With a wet right hand wipe the front-top of the head, or the whole head, once."
+         },
+         "icon": "person.crop.circle.fill",
+         "media": "wudu_head"
+        },
+        {
+         "text": {
+          "tr": "Eller ıslatılır; işaret parmaklarıyla kulakların içi, başparmaklarla arkası, kalan parmakların dışıyla ense mesh edilir.",
+          "en": "Wet the hands; wipe the inside of the ears with the index fingers, the back with the thumbs, and the nape with the backs of the remaining fingers."
+         },
+         "icon": "ear.fill",
+         "media": "wudu_ears"
+        },
+        {
+         "text": {
+          "tr": "Sağ ayak, sonra sol ayak topuklarla birlikte üç kere yıkanır; parmak araları hilallenir.",
+          "en": "Wash the right foot then the left, including the ankles, three times; pass water between the toes."
+         },
+         "icon": "shoeprints.fill",
+         "media": "wudu_feet"
+        },
+        {
+         "text": {
+          "tr": "Abdestten sonra kelime-i şahadet getirmek müstehaptır: “Eşhedü en lâ ilâhe illallâhü vahdehû lâ şerîke leh ve eşhedü enne Muhammeden abdühû ve resûlüh.”",
+          "en": "After wudu it is recommended to recite the shahada: “Ash-hadu an lā ilāha illallāhu wahdahu lā sharīka lah, wa ash-hadu anna Muhammadan ‘abduhu wa rasūluh.”"
+         },
+         "icon": "hand.raised.fill",
+         "media": "wudu_shahada"
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Abdesti bozan şeyler",
+        "en": "What invalidates wudu"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "İdrar ve dışkı yollarından idrar, dışkı veya yel çıkması.",
+          "en": "Passing urine, stool or wind."
+         }
+        },
+        {
+         "text": {
+          "tr": "Vücudun herhangi bir yerinden kan, irin gibi sıvıların çıkıp yaranın dışına taşması.",
+          "en": "Blood, pus or similar flowing out of a wound and spreading beyond it."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bayılmak, delirmek, sarhoş olmak, uyumak gibi şuurun kontrolünü kaldıran hâller. Ayakta, yaslanmadan oturarak, rükû ve secde hâlinde uyumak abdesti bozmaz.",
+          "en": "Fainting, madness, intoxication, sleep and similar loss of awareness. Sleeping while standing, sitting unsupported, in ruku or sujud does not break wudu."
+         }
+        },
+        {
+         "text": {
+          "tr": "Cinsel ilişki, ihtilam ve kadınların hayız-nifas hâlinin başlaması.",
+          "en": "Sexual intercourse, a wet dream, and the onset of menstruation or postnatal bleeding."
+         }
+        },
+        {
+         "text": {
+          "tr": "Namazda gülmek. Yalnız kendisi duyacak kadar gülerse sadece namaz, yanındakiler duyacak kadar gülerse hem namaz hem abdest bozulur.",
+          "en": "Laughing in prayer. Laughing audibly only to oneself breaks the prayer; laughing so that others hear it breaks both the prayer and the wudu."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ağız dolusu kusmak.",
+          "en": "Vomiting a mouthful."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şafiî mezhebine göre ön ve arkadan çıkanlar dışında, vücuttan çıkan kan ve irin abdesti bozmaz.",
+        "en": "In the Shafi'i school, blood or pus leaving the body (other than from the front or back passages) does not break wudu."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Mest üzerine mesh: Abdestli iken giyilmiş, topukları örten, bağsız ayakta durabilen mestlerin üzerine, ayakları yıkamak yerine bir kere mesh edilebilir. Süre mukim için bir gün bir gece, yolcu için üç gün üç gecedir ve abdestin bozulduğu andan başlar. Gusül gerektiğinde mestler çıkarılıp ayaklar yıkanır.",
+        "en": "Wiping over khuff (leather socks): socks that cover the ankles, stand on their own and were put on with wudu may be wiped once instead of washing the feet. The period is one day and night for a resident, three days and nights for a traveller, counted from when wudu was last broken. When ghusl is required the socks must be removed and the feet washed."
+       }
+      }
+     ]
+    },
+    {
+     "id": "gusul",
+     "title": {
+      "tr": "Gusül (Boy Abdesti)",
+      "en": "Ghusl (Full Ablution)"
+     },
+     "icon": "shower.fill",
+     "summary": {
+      "tr": "Bütün vücudu yıkayarak yapılan temizlik.",
+      "en": "Washing the whole body."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Gusül, bütün vücudu temiz su ile kuru yer kalmayacak şekilde yıkamaktır. “Eğer cünüp iseniz iyice temizlenin.” (Mâide 5/6)",
+        "en": "Ghusl is washing the entire body with clean water so that no part remains dry. “If you are in a state of major impurity, purify yourselves.” (Al-Ma'idah 5:6)"
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Guslü gerektiren hâller",
+        "en": "When ghusl is obligatory"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Cinsel ilişki (meni gelsin gelmesin).",
+          "en": "Sexual intercourse, whether or not ejaculation occurs."
+         }
+        },
+        {
+         "text": {
+          "tr": "İhtilam olmak.",
+          "en": "A wet dream."
+         }
+        },
+        {
+         "text": {
+          "tr": "Şehvetle meninin gelmesi.",
+          "en": "Ejaculation with desire."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kadınların âdet ve loğusalık hâlinin sona ermesi.",
+          "en": "The end of menstruation or postnatal bleeding."
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Cuma ve bayram namazlarından önce, ihrama girerken ve Arafat'ta vakfe için gusletmek sünnettir.",
+        "en": "Ghusl before Friday and Eid prayers, when entering ihram and for standing at Arafat is Sunnah."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Guslün farzları (Hanefî)",
+        "en": "Obligatory acts of ghusl (Hanafi)"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Ağza su almak (mazmaza).",
+          "en": "Rinsing the mouth."
+         }
+        },
+        {
+         "text": {
+          "tr": "Burna su çekmek (istinşak).",
+          "en": "Rinsing the nose."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bütün vücudu yıkamak.",
+          "en": "Washing the whole body."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şafiî mezhebine göre ağız ve burnun içini yıkamak sünnettir.",
+        "en": "In the Shafi'i school, rinsing the mouth and nose is Sunnah."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Saç, sakal, bıyık ve kaşların diplerine su ulaşmalıdır. Örgülü saçın çözülmesi şart değildir; diplerine su ulaşması yeterlidir. Diş dolgusu ve kaplama gusle engel değildir.",
+        "en": "Water must reach the roots of the hair, beard, moustache and eyebrows. Braided hair need not be undone as long as water reaches the roots. Dental fillings and crowns do not prevent ghusl."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Gusül nasıl alınır",
+        "en": "How to perform ghusl"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Eûzü-besmele çekilir, “Niyet ettim boy abdesti almaya” diye niyet edilir.",
+          "en": "Say a'udhu and bismillah, and make the intention for ghusl."
+         },
+         "icon": "heart.text.square.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Eller bileklere kadar yıkanır; bedende bir pislik varsa giderilir, edep yerleri yıkanır.",
+          "en": "Wash the hands to the wrists; remove any impurity on the body and wash the private parts."
+         },
+         "icon": "hands.and.sparkles.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Namaz abdesti gibi bir abdest alınır. Su birikiyorsa ayakların yıkanması sona bırakılır.",
+          "en": "Perform wudu as for prayer. If water pools, leave the feet to the end."
+         },
+         "icon": "drop.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Başa, sonra sağ ve sol omuza su dökülür; beden ovulur. Bu üçer kere yapılır.",
+          "en": "Pour water over the head, then the right and left shoulders, rubbing the body. Do this three times each."
+         },
+         "icon": "shower.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Baştan ayağa hiçbir yer kuru kalmamalıdır. Yüzük varsa çıkarılır veya altına su ulaştırılır.",
+          "en": "No part of the body from head to toe may remain dry. Remove rings or ensure water reaches beneath them."
+         },
+         "icon": "checkmark.seal.fill",
+         "media": null
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Cünüp iken yapılamayanlar",
+        "en": "Not permitted while in major impurity"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Farz veya nafile namaz kılmak.",
+          "en": "Performing any obligatory or voluntary prayer."
+         }
+        },
+        {
+         "text": {
+          "tr": "Tilâvet secdesi yapmak.",
+          "en": "Performing the prostration of recitation."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kâbe'yi tavaf etmek.",
+          "en": "Circumambulating the Ka'bah."
+         }
+        },
+        {
+         "text": {
+          "tr": "Mushaf'ı ele almak.",
+          "en": "Holding the Mushaf."
+         }
+        },
+        {
+         "text": {
+          "tr": "İbadet amacıyla camiye girmek.",
+          "en": "Entering a mosque for worship."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kur'an okumak. Dua ve zikir niyetiyle Fâtiha, İhlâs, Âyetü'l-Kürsî gibi sûre ve ayetler okunabilir.",
+          "en": "Reciting the Qur'an. Surahs and verses such as Al-Fatiha, Al-Ikhlas and Ayat al-Kursi may be said as supplication or remembrance."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "teyemmum",
+     "title": {
+      "tr": "Teyemmüm",
+      "en": "Tayammum (Dry Ablution)"
+     },
+     "icon": "hand.raised.fill",
+     "summary": {
+      "tr": "Su yokken veya kullanılamazken toprakla temizlik.",
+      "en": "Purification with earth when water is unavailable or cannot be used."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Su bulunmadığında ya da bulunup da (hastalık gibi bir sebeple) kullanılamadığında, abdest ve guslün yerine geçmek üzere temiz toprağa veya toprak cinsinden bir şeye (taş, kum, kiremit, tuğla) eller vurularak yapılan hükmî temizliktir (Mâide 5/6).",
+        "en": "When water is unavailable, or available but cannot be used (for example because of illness), tayammum replaces wudu and ghusl: the hands are struck on clean earth or something of the earth (stone, sand, tile, brick) and the face and arms are wiped (Al-Ma'idah 5:6)."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Teyemmümün farzları",
+        "en": "Obligatory acts"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Niyet etmek.",
+          "en": "Intention."
+         }
+        },
+        {
+         "text": {
+          "tr": "Elleri toprağa vurup yüzü mesh etmek.",
+          "en": "Striking the earth with the hands and wiping the face."
+         }
+        },
+        {
+         "text": {
+          "tr": "Elleri toprağa vurup kolları dirseklerle birlikte mesh etmek.",
+          "en": "Striking the earth again and wiping the arms including the elbows."
+         }
+        }
+       ]
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Teyemmüm nasıl yapılır",
+        "en": "How to perform tayammum"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Niyet edilir, eûzü-besmele çekilir.",
+          "en": "Make the intention and say a'udhu and bismillah."
+         },
+         "icon": "heart.text.square.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Ellerin içi temiz toprağa vurulur, ileri-geri hareket ettirilip silkelenir; iki elin içi ile yüzün tamamı bir kere mesh edilir.",
+          "en": "Strike the palms on clean earth, move them back and forth, shake off the dust, and wipe the whole face once with both palms."
+         },
+         "icon": "face.smiling",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Eller ikinci kez toprağa vurulur. Sol elin içi ile sağ kol, sağ elin içi ile sol kol dirseklerle birlikte bir kere mesh edilir.",
+          "en": "Strike the earth a second time. Wipe the right arm with the left palm and the left arm with the right palm, including the elbows, once each."
+         },
+         "icon": "figure.arms.open",
+         "media": null
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Namazda iken su kullanma imkânı doğarsa teyemmümle kılınan namaz bozulur.",
+        "en": "If water becomes usable during prayer, a prayer begun with tayammum is invalidated."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sartlar",
+   "title": {
+    "tr": "Namazın Şartları",
+    "en": "Rules of Prayer"
+   },
+   "icon": "checklist",
+   "kind": "articles",
+   "subtitle": {
+    "tr": "Farzlar, vacipler, sünnetler, vakitler",
+    "en": "Fard, wajib, sunnah, times"
+   },
+   "articles": [
+    {
+     "id": "farzlar",
+     "title": {
+      "tr": "Namazın Farzları",
+      "en": "Obligatory Elements of Prayer"
+     },
+     "icon": "checklist",
+     "summary": {
+      "tr": "Altı şart ve altı rükün.",
+      "en": "Six conditions and six pillars."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Namazın on iki farzı vardır: altısı namazdan önce yerine getirilmesi gereken şartlar, altısı namazın içindeki rükünlerdir. Bunlardan biri eksik olursa namaz geçerli olmaz, yeniden kılınması gerekir.",
+        "en": "Prayer has twelve obligatory elements: six conditions to be met before it and six pillars within it. If one is missing the prayer is invalid and must be repeated."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Namazın şartları",
+        "en": "Conditions (before prayer)"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Hadesten taharet: abdestsizlik ve cünüplükten temizlenmek (abdest, gusül, gerekirse teyemmüm).",
+          "en": "Purity from ritual impurity: wudu, ghusl, or tayammum when needed."
+         }
+        },
+        {
+         "text": {
+          "tr": "Necasetten taharet: beden, elbise ve namaz kılınacak yerin pisliklerden temiz olması.",
+          "en": "Purity from filth: the body, clothing and place of prayer must be clean."
+         }
+        },
+        {
+         "text": {
+          "tr": "Setr-i avret: örtülmesi gereken yerlerin örtülmesi. Erkekte göbekle diz kapağı arası; kadında el, yüz ve ayaklar dışında bütün beden.",
+          "en": "Covering the awrah: for men from the navel to below the knees; for women the whole body except the hands, face and feet."
+         }
+        },
+        {
+         "text": {
+          "tr": "İstikbal-i kıble: Kâbe yönüne dönmek.",
+          "en": "Facing the qibla (the direction of the Ka'bah)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Vakit: her namazı kendi vaktinde kılmak.",
+          "en": "Time: performing each prayer within its time."
+         }
+        },
+        {
+         "text": {
+          "tr": "Niyet: hangi namazın kılınacağını kalben belirlemek. Dil ile söylemek müstehaptır.",
+          "en": "Intention: determining in the heart which prayer is being performed. Saying it aloud is recommended."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Namazın rükünleri",
+        "en": "Pillars (within prayer)"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "İftitah tekbiri: “Allâhü ekber” diyerek namaza başlamak.",
+          "en": "The opening takbir: beginning with “Allāhu akbar.”"
+         }
+        },
+        {
+         "text": {
+          "tr": "Kıyam: ayakta durmak. Ayakta duramayan oturarak kılar.",
+          "en": "Standing. One who cannot stand prays sitting."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kıraat: Kur'an'dan bir sûre veya en az üç kısa ayet okumak. Kur'an aslî metniyle, kişinin kendi işiteceği bir sesle ve anlamı bozmadan okunmalıdır.",
+          "en": "Recitation: a surah or at least three short verses of the Qur'an, in Arabic, audible to oneself, and without distorting the meaning."
+         }
+        },
+        {
+         "text": {
+          "tr": "Rükû: kıraatten sonra eller dizleri tutacak şekilde eğilip sırtı düz tutmak.",
+          "en": "Bowing: bending after recitation with the hands on the knees and the back straight."
+         }
+        },
+        {
+         "text": {
+          "tr": "Secde: alnı yere koymak. Her rekâtta iki secde vardır. Alınla birlikte burnu koymak vaciptir.",
+          "en": "Prostration: placing the forehead on the ground, twice in every rak'ah. Placing the nose with the forehead is wajib."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ka'de-i âhire: namazın sonunda Tahiyyât'ı okuyacak kadar oturmak.",
+          "en": "The final sitting: sitting at the end long enough to recite the Tashahhud."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Ta'dîl-i erkân: rükû, kavme (rükûdan doğrulma), secde ve celse (iki secde arası oturuş) sırasında uzuvlar sakinleşinceye ve en az “sübhânellâhi'l-azîm” diyecek kadar beklemek. Ebu Yusuf'a ve diğer üç mezhebe göre farz, Ebu Hanîfe ve Muhammed'e göre vaciptir.",
+        "en": "Composure (ta'dil al-arkan): pausing in bowing, in standing after bowing, in prostration and between the two prostrations until the limbs are still, at least long enough to say “subhānallāhil-‘azīm.” Fard according to Abu Yusuf and the other three schools; wajib according to Abu Hanifa and Muhammad."
+       }
+      }
+     ]
+    },
+    {
+     "id": "vacipler",
+     "title": {
+      "tr": "Namazın Vacipleri",
+      "en": "Necessary Acts (Wajib)"
+     },
+     "icon": "list.number",
+     "summary": {
+      "tr": "Terk edilirse sehiv secdesi gerekir.",
+      "en": "If omitted by mistake, the prostration of forgetfulness is due."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Vacip, yapılması istenen fakat gerekliliği farz kadar kesin olmayan şeydir. Bir vacip unutularak terk edilir ya da geciktirilirse namaz geçerlidir; ancak sehiv secdesi yapmak vacip olur. Bir vacip kasten terk edilirse namazın yeniden kılınması gerekir.",
+        "en": "A wajib act is required, but its obligation is less certain than a fard. If a wajib act is forgotten or delayed, the prayer remains valid but the prostration of forgetfulness (sahw) becomes due. If it is left out deliberately, the prayer must be repeated."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Namazın vacipleri",
+        "en": "The wajib acts"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Namaza “Allâhü ekber” diyerek başlamak.",
+          "en": "Beginning the prayer with the words “Allāhu akbar.”"
+         }
+        },
+        {
+         "text": {
+          "tr": "Fâtiha sûresini okumak.",
+          "en": "Reciting Surah Al-Fatiha."
+         }
+        },
+        {
+         "text": {
+          "tr": "Farz namazların ilk iki rekâtında, nafile namazların her rekâtında zamm-ı sûre (Fâtiha'dan sonra bir sûre veya ayetler) okumak.",
+          "en": "Reciting an additional surah or verses after Al-Fatiha in the first two rak'ahs of obligatory prayers and in every rak'ah of voluntary prayers."
+         }
+        },
+        {
+         "text": {
+          "tr": "Zamm-ı sûreyi Fâtiha'dan sonra okumak.",
+          "en": "Reciting the additional surah after Al-Fatiha, not before."
+         }
+        },
+        {
+         "text": {
+          "tr": "Secdede alınla birlikte burnu yere koymak; iki secdeyi peş peşe yapmak.",
+          "en": "Placing the nose with the forehead in prostration, and doing the two prostrations consecutively."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ta'dîl-i erkâna uymak.",
+          "en": "Observing composure in each position."
+         }
+        },
+        {
+         "text": {
+          "tr": "Her oturuşta Tahiyyât duasını okumak.",
+          "en": "Reciting the Tashahhud in every sitting."
+         }
+        },
+        {
+         "text": {
+          "tr": "Üç ve dört rekâtlı namazlarda ikinci rekâttan sonra oturmak (ka'de-i ûlâ).",
+          "en": "Sitting after the second rak'ah in three- and four-rak'ah prayers."
+         }
+        },
+        {
+         "text": {
+          "tr": "Üç ve dört rekâtlı farzlarda, vitirde ve öğlenin ilk sünnetinde ilk oturuşta Tahiyyât'tan sonra hemen üçüncü rekâta kalkmak.",
+          "en": "In three- and four-rak'ah obligatory prayers, in witr and in the first sunnah of Dhuhr, rising to the third rak'ah right after the Tashahhud in the first sitting."
+         }
+        },
+        {
+         "text": {
+          "tr": "Cemaatle kılınan sabah, akşam ve yatsının ilk iki rekâtında, cuma, bayram, teravih ve teravihten sonraki vitirde imamın kıraati açıktan yapması.",
+          "en": "The imam reciting aloud in the first two rak'ahs of congregational Fajr, Maghrib and Isha, and in Friday, Eid, Tarawih and the witr after Tarawih."
+         }
+        },
+        {
+         "text": {
+          "tr": "Öğle ve ikindide kıraati kendi duyacağı bir sesle yapmak.",
+          "en": "Reciting quietly, audible to oneself, in Dhuhr and Asr."
+         }
+        },
+        {
+         "text": {
+          "tr": "İmama uyanın Fâtiha ve sûre okumayıp susması.",
+          "en": "The follower remaining silent instead of reciting Al-Fatiha and a surah behind the imam."
+         }
+        },
+        {
+         "text": {
+          "tr": "Vitir namazında kunut dualarını okumak.",
+          "en": "Reciting the qunut supplications in witr."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bayram namazlarında zevâid tekbirlerini almak.",
+          "en": "The additional takbirs in the Eid prayers."
+         }
+        },
+        {
+         "text": {
+          "tr": "Namazdan selam vererek çıkmak.",
+          "en": "Ending the prayer with the salam."
+         }
+        },
+        {
+         "text": {
+          "tr": "Namazda secde ayeti okunursa tilâvet secdesi yapmak.",
+          "en": "Performing the prostration of recitation if a verse of prostration is recited."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yanılma olursa sehiv secdesi yapmak.",
+          "en": "Performing the prostration of forgetfulness when a mistake is made."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şafiî mezhebine göre imama uyanın da Fâtiha okuması farzdır.",
+        "en": "In the Shafi'i school the follower must also recite Al-Fatiha."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Sehiv secdesi: Son oturuşta Tahiyyât okunduktan sonra sağa selam verilir, iki secde daha yapılır, oturulur; Tahiyyât, Salli, Bârik ve Rabbenâ duaları okunup sağa ve sola selam verilir. Namazda birden çok yanılma olsa da tek sehiv secdesi yeterlidir. Cemaatle namazda imam yanılırsa hem imam hem cemaat sehiv secdesi yapar.",
+        "en": "Prostration of forgetfulness: after the Tashahhud in the final sitting, give salam to the right, perform two more prostrations, sit, recite Tashahhud, Salli, Barik and the Rabbana supplications, then give salam to both sides. One sahw prostration suffices for several mistakes. If the imam errs, both the imam and the congregation perform it."
+       }
+      }
+     ]
+    },
+    {
+     "id": "sunnetler",
+     "title": {
+      "tr": "Namazın Sünnetleri",
+      "en": "Sunnah Acts of Prayer"
+     },
+     "icon": "sparkles",
+     "summary": {
+      "tr": "Terk edilirse namaz geçerlidir, sevabı eksilir.",
+      "en": "Omitting them does not invalidate the prayer but forfeits reward."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Namazın sünnetleri",
+        "en": "The sunnah acts"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Beş vakit namaz ve cuma için ezan ve kamet (erkekler için).",
+          "en": "The adhan and iqamah for the five daily prayers and Friday prayer (for men)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Başlama tekbirinde, kunut ve bayram tekbirlerinde erkeklerin ellerini kulak hizasına, kadınların göğüs hizasına kaldırmaları.",
+          "en": "Raising the hands at the opening, qunut and Eid takbirs: men to ear level, women to chest level."
+         }
+        },
+        {
+         "text": {
+          "tr": "Tekbirden hemen sonra elleri bağlamak.",
+          "en": "Folding the hands right after the takbir."
+         }
+        },
+        {
+         "text": {
+          "tr": "İlk tekbirden sonra Sübhâneke okuyup eûzü-besmele çekmek; diğer rekâtlarda Fâtiha'dan önce yalnız besmele çekmek. Yatsının ilk sünneti ile ikindinin sünnetinde üçüncü rekâta kalkınca da Sübhâneke okumak.",
+          "en": "Reciting Subhanaka then a'udhu-basmala after the first takbir; only the basmala before Al-Fatiha in later rak'ahs. Also reciting Subhanaka when rising to the third rak'ah in the first sunnah of Isha and the sunnah of Asr."
+         }
+        },
+        {
+         "text": {
+          "tr": "Sübhâneke ve eûzü-besmeleyi sessizce okumak.",
+          "en": "Reciting Subhanaka and a'udhu-basmala silently."
+         }
+        },
+        {
+         "text": {
+          "tr": "Fâtiha'dan sonra okuyanın ve işitenin “âmin” demesi.",
+          "en": "Saying “āmīn” after Al-Fatiha, both reciter and listener."
+         }
+        },
+        {
+         "text": {
+          "tr": "Rükûa eğilirken “Allâhü ekber” demek.",
+          "en": "Saying “Allāhu akbar” when bowing."
+         }
+        },
+        {
+         "text": {
+          "tr": "Rükûda üç defa “Sübhâne Rabbiye'l-azîm” demek.",
+          "en": "Saying “Subhāna Rabbiyal-‘azīm” three times in bowing."
+         }
+        },
+        {
+         "text": {
+          "tr": "Rükûdan kalkarken “Semi'allâhü limen hamideh”, ardından “Rabbenâ ve leke'l-hamd” demek.",
+          "en": "Saying “Sami‘allāhu liman hamidah” when rising from bowing, then “Rabbanā wa lakal-hamd.”"
+         }
+        },
+        {
+         "text": {
+          "tr": "Rükûda dizleri ellerle tutmak; dizleri bükmemek, sırtı düz tutmak.",
+          "en": "Holding the knees with the hands in bowing; keeping the knees unbent and the back straight."
+         }
+        },
+        {
+         "text": {
+          "tr": "Rükûdan doğrulunca “sübhânellâhi'l-azîm” diyecek kadar beklemek (kavme).",
+          "en": "Pausing after rising from bowing long enough to say “subhānallāhil-‘azīm.”"
+         }
+        },
+        {
+         "text": {
+          "tr": "Secdeye giderken önce dizleri, sonra elleri, sonra alnı ve burnu koymak; kalkarken tersini yapmak.",
+          "en": "Going down to prostration knees first, then hands, then forehead and nose; rising in reverse order."
+         }
+        },
+        {
+         "text": {
+          "tr": "Secdeye giderken ve kalkarken “Allâhü ekber” demek.",
+          "en": "Saying “Allāhu akbar” going down to and rising from prostration."
+         }
+        },
+        {
+         "text": {
+          "tr": "Secdede ellerin başın iki yanında, parmakların kıbleye yönelik olması.",
+          "en": "In prostration, the hands beside the head with the fingers towards the qibla."
+         }
+        },
+        {
+         "text": {
+          "tr": "Secdede üç kere “Sübhâne Rabbiye'l-a'lâ” demek.",
+          "en": "Saying “Subhāna Rabbiyal-a‘lā” three times in prostration."
+         }
+        },
+        {
+         "text": {
+          "tr": "İki secde arasında “sübhânellâhi'l-azîm” diyecek kadar oturmak (celse).",
+          "en": "Sitting between the two prostrations long enough to say “subhānallāhil-‘azīm.”"
+         }
+        },
+        {
+         "text": {
+          "tr": "Oturuşlarda ve secdeler arasında elleri dizlerin üzerinde tutmak.",
+          "en": "Keeping the hands on the knees in the sittings and between prostrations."
+         }
+        },
+        {
+         "text": {
+          "tr": "Son oturuşta Salli, Bârik, Rabbenâ âtinâ ve Rabbenağfirlî dualarını okumak.",
+          "en": "Reciting Salli, Barik, Rabbana atina and Rabbanaghfirli in the final sitting."
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Ezan: Allâhü ekber (4), Eşhedü en lâ ilâhe illallâh (2), Eşhedü enne Muhammede'r-Resûlullâh (2), Hayye 'ale's-salâh (2), Hayye 'ale'l-felâh (2), [Sabah ezanında: Es-salâtü hayrun mine'n-nevm (2)], Allâhü ekber (2), Lâ ilâhe illallâh (1). Kamet ezana benzer; “Hayye 'ale'l-felâh”tan sonra iki kere “Kad kāmeti's-salâh” denir ve daha hızlı okunur.",
+        "en": "Adhan: Allāhu akbar (4), Ash-hadu an lā ilāha illallāh (2), Ash-hadu anna Muhammadar-Rasūlullāh (2), Hayya ‘alas-salāh (2), Hayya ‘alal-falāh (2), [in the Fajr adhan: As-salātu khayrum minan-nawm (2)], Allāhu akbar (2), Lā ilāha illallāh (1). The iqamah is similar, with “Qad qāmatis-salāh” said twice after “Hayya ‘alal-falāh,” and is recited faster."
+       }
+      }
+     ]
+    },
+    {
+     "id": "mekruhlar",
+     "title": {
+      "tr": "Namazın Mekruhları",
+      "en": "Disliked Acts in Prayer"
+     },
+     "icon": "hand.thumbsdown.fill",
+     "summary": {
+      "tr": "Yapılması hoş görülmeyen davranışlar.",
+      "en": "Behaviour that is disliked in prayer."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Namazın mekruhları",
+        "en": "Disliked acts"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Elbise veya bedenle oynamak, kaşınmak, teri silmek.",
+          "en": "Fiddling with clothing or the body, scratching, wiping sweat."
+         }
+        },
+        {
+         "text": {
+          "tr": "Parmakları çıtlatmak veya birbirine geçirmek.",
+          "en": "Cracking or interlacing the fingers."
+         }
+        },
+        {
+         "text": {
+          "tr": "Özürsüz ellerle yere dayanarak secdeye gitmek ve kalkmak.",
+          "en": "Leaning on the hands to go down to or rise from prostration without need."
+         }
+        },
+        {
+         "text": {
+          "tr": "Başı sağa sola çevirmek. (Göğüs kıbleden çevrilirse namaz bozulur.)",
+          "en": "Turning the head to the sides. (Turning the chest away from the qibla invalidates the prayer.)"
+         }
+        },
+        {
+         "text": {
+          "tr": "Zaruret olmadan namaz yerindeki çakıl, toprak gibi şeylerle meşgul olmak.",
+          "en": "Being occupied with pebbles or dust on the prayer place without need."
+         }
+        },
+        {
+         "text": {
+          "tr": "Gerinmek, esnemek.",
+          "en": "Stretching, yawning."
+         }
+        },
+        {
+         "text": {
+          "tr": "Gözleri yummak, gözleri yukarıya dikmek.",
+          "en": "Closing the eyes, or fixing them upwards."
+         }
+        },
+        {
+         "text": {
+          "tr": "Dağınık, düzgün olmayan kıyafetle namaza durmak.",
+          "en": "Standing in prayer in untidy clothing."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kıraati tamamlamadan rükûa eğilmek.",
+          "en": "Bowing before completing the recitation."
+         }
+        },
+        {
+         "text": {
+          "tr": "İkinci rekâtta, birinci rekâtta okunan sûreden önceki bir sûreyi okumak.",
+          "en": "Reciting in the second rak'ah a surah that comes before the one recited in the first."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kıraatte bile bile ayet atlamak.",
+          "en": "Deliberately skipping verses in recitation."
+         }
+        },
+        {
+         "text": {
+          "tr": "Herkesin gelip geçtiği yerlerde, mezar üzerinde veya sahibinin rızası olmayan yerde namaz kılmak.",
+          "en": "Praying in thoroughfares, on graves, or on property without the owner's consent."
+         }
+        },
+        {
+         "text": {
+          "tr": "Özürsüz secdede yalnız alnı koyup burnu koymamak.",
+          "en": "Placing only the forehead, not the nose, in prostration without excuse."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ön safta yer varken arka safta durmak.",
+          "en": "Standing in a back row while there is space in the front row."
+         }
+        },
+        {
+         "text": {
+          "tr": "İnsan geçmesi muhtemel yerde önüne sütre koymadan namaz kılmak.",
+          "en": "Praying without a sutrah where people may pass in front."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bir kimsenin yüzüne karşı namaz kılmak.",
+          "en": "Praying facing someone's face."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bildiği başka sûre varken iyi bilmediği bir sûreyi okumaya çalışmak.",
+          "en": "Attempting a surah one does not know well while knowing another."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "bozanlar",
+     "title": {
+      "tr": "Namazı Bozan Şeyler",
+      "en": "What Invalidates Prayer"
+     },
+     "icon": "xmark.octagon.fill",
+     "summary": {
+      "tr": "Bunlardan biri olursa namaz yeniden kılınır.",
+      "en": "If any of these occur the prayer must be repeated."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Namazı bozan şeyler",
+        "en": "Invalidators"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Namazda konuşmak.",
+          "en": "Speaking during prayer."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bir şey yemek veya içmek.",
+          "en": "Eating or drinking."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kendi işiteceği kadar gülmek. Başkasının işiteceği kadar gülünce abdest de bozulur.",
+          "en": "Laughing audibly to oneself. Laughing so others hear it also breaks the wudu."
+         }
+        },
+        {
+         "text": {
+          "tr": "Göğsü kıbleden çevirmek.",
+          "en": "Turning the chest away from the qibla."
+         }
+        },
+        {
+         "text": {
+          "tr": "Dışarıdan bakanın namazda olmadığını sanacağı kadar elbise, beden veya başka şeyle oynamak.",
+          "en": "Moving so much that an onlooker would think one is not praying."
+         }
+        },
+        {
+         "text": {
+          "tr": "İhtiyaç yokken öksürmeye çalışmak.",
+          "en": "Forcing a cough without need."
+         }
+        },
+        {
+         "text": {
+          "tr": "Teyemmümle namaz kılarken su kullanma imkânının doğması.",
+          "en": "Water becoming usable during a prayer performed with tayammum."
+         }
+        },
+        {
+         "text": {
+          "tr": "Sabah namazını kılarken güneşin doğması.",
+          "en": "Sunrise occurring during the Fajr prayer."
+         }
+        },
+        {
+         "text": {
+          "tr": "Mest üzerine mesh süresinin namazda dolması.",
+          "en": "The period for wiping over socks expiring during prayer."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yanlış okuma sebebiyle ayetin anlamının bozulması.",
+          "en": "Distorting the meaning of a verse by misreading."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bir rüknü yerine getirecek kadar bir süre avret yerinin açık kalması.",
+          "en": "The awrah remaining uncovered for the duration of a pillar."
+         }
+        },
+        {
+         "text": {
+          "tr": "Farzlardan birini bilerek veya sehven terk etmek.",
+          "en": "Omitting one of the fard elements, deliberately or by mistake."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şafiî mezhebine göre sabah namazının bir rekâtı kılındıktan sonra güneş doğarsa namaz bozulmaz.",
+        "en": "In the Shafi'i school the Fajr prayer is not invalidated if the sun rises after one rak'ah has been completed."
+       }
+      }
+     ]
+    },
+    {
+     "id": "vakitler",
+     "title": {
+      "tr": "Namaz Vakitleri",
+      "en": "Prayer Times"
+     },
+     "icon": "clock.fill",
+     "summary": {
+      "tr": "Her vaktin başlangıcı, sonu ve kerahet vakitleri.",
+      "en": "When each prayer begins and ends, and the disliked times."
+     },
+     "sourceIds": [
+      "dib-ilmihal"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Günlük namazların vakitleri",
+        "en": "Times of the daily prayers"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Sabah: Fecr-i sâdık (tan yerinin ağarması, imsak) ile başlar, güneşin doğuşuna kadar sürer. Ortalık aydınlanınca (isfâr) kılmak müstehaptır.",
+          "en": "Fajr: from true dawn (imsak) until sunrise. Praying once it has become light is recommended."
+         }
+        },
+        {
+         "text": {
+          "tr": "Öğle: Güneşin tepe noktasını geçmesiyle (zeval) başlar, her şeyin gölgesi kendisinin bir misline ulaşıncaya kadar sürer. Yazın serinliğe bırakmak, kışın erken kılmak müstehaptır.",
+          "en": "Dhuhr: from the sun passing its zenith until the shadow of an object equals its length. Delaying it in summer heat and praying it early in winter is recommended."
+         }
+        },
+        {
+         "text": {
+          "tr": "İkindi: Gölgenin bir misli olmasıyla başlar, güneşin batışına kadar sürer. Güneş sararmadan kılmak gerekir.",
+          "en": "Asr: from when the shadow equals the object's length until sunset. It should be prayed before the sun turns yellow."
+         }
+        },
+        {
+         "text": {
+          "tr": "Akşam: Güneşin batmasıyla başlar, ufuktaki kızıllık (şafak) kaybolana kadar sürer. İlk vaktinde kılmak müstehap, özürsüz geciktirmek mekruhtur.",
+          "en": "Maghrib: from sunset until the red twilight disappears. Praying it at its first time is recommended; delaying it without excuse is disliked."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yatsı: Şafağın kaybolmasıyla başlar, fecr-i sâdığa kadar sürer. Gece yarısına kadar geciktirmek caiz, sonrasına özürsüz bırakmak mekruhtur.",
+          "en": "Isha: from the disappearance of twilight until true dawn. Delaying it until midnight is permitted; leaving it later without excuse is disliked."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Ebu Hanîfe'ye göre öğle vakti gölge iki misline ulaşıncaya kadar sürer ve ikindi bu andan itibaren başlar (asr-ı sânî).",
+        "en": "According to Abu Hanifa, Dhuhr lasts until the shadow is twice the object's length, and Asr begins from then."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Vakit çıkmadan bir rekâta yetişen kimse o namazı vaktinde kılmış olur. Hanefîlere göre yalnız sabah namazı istisnadır: sabah namazını kılarken güneş doğarsa namaz bozulur.",
+        "en": "One who completes a rak'ah before the time ends has prayed within the time. In the Hanafi school Fajr is the exception: if the sun rises during Fajr the prayer is invalidated."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Hiçbir namazın kılınamayacağı üç vakit",
+        "en": "Three times when no prayer may be performed"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Güneşin doğmasından yükselmesine kadar (yaklaşık 40–45 dakika).",
+          "en": "From sunrise until the sun has risen (about 40–45 minutes)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Güneşin tepe noktasına yaklaşık 10 dakika kalmasından öğle vakti girinceye kadar.",
+          "en": "From about 10 minutes before the zenith until Dhuhr begins."
+         }
+        },
+        {
+         "text": {
+          "tr": "Güneşin batmasına 45–50 dakika kalmasından akşam vaktine kadar. (O günün ikindi farzı kılınabilir.)",
+          "en": "From 45–50 minutes before sunset until Maghrib. (That day's Asr may still be prayed.)"
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Nafile namazın mekruh olduğu vakitler",
+        "en": "Times when voluntary prayer is disliked"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Sabah vakti girdikten sonra (sabahın sünneti hariç).",
+          "en": "After Fajr has begun (except the sunnah of Fajr)."
+         }
+        },
+        {
+         "text": {
+          "tr": "İkindiyi kıldıktan sonra güneş batıncaya kadar.",
+          "en": "After praying Asr until sunset."
+         }
+        },
+        {
+         "text": {
+          "tr": "Akşam namazının farzından önce.",
+          "en": "Before the obligatory Maghrib prayer."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bayram namazlarından önce; bayram namazından sonra camide.",
+          "en": "Before the Eid prayer; and after it, in the mosque."
+         }
+        },
+        {
+         "text": {
+          "tr": "Farz namazın vakti daralınca.",
+          "en": "When the time of an obligatory prayer is running out."
+         }
+        },
+        {
+         "text": {
+          "tr": "Farz için kamet getirilirken. (İmama yetişebilecek olan sabahın sünnetini kılabilir.)",
+          "en": "While the iqamah is being called. (One who can still catch the imam may pray the sunnah of Fajr.)"
+         }
+        },
+        {
+         "text": {
+          "tr": "Cuma günü hatibin minbere çıkmasından cuma namazı bitinceye kadar.",
+          "en": "On Friday from the imam ascending the minbar until the prayer ends."
+         }
+        },
+        {
+         "text": {
+          "tr": "Cem edilen namazlar arasında.",
+          "en": "Between prayers that are combined."
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bes-vakit",
+   "title": {
+    "tr": "Beş Vakit Namaz",
+    "en": "The Five Daily Prayers"
+   },
+   "icon": "figure.stand",
+   "kind": "prayers",
+   "subtitle": {
+    "tr": "Rekât rekât kılınışı",
+    "en": "Rak'ah by rak'ah"
+   },
+   "prayers": [
+    {
+     "id": "sabah",
+     "prayerType": "fajr",
+     "name": {
+      "tr": "Sabah Namazı",
+      "en": "Fajr Prayer"
+     },
+     "icon": "sun.haze.fill",
+     "totalRakats": 4,
+     "summary": {
+      "tr": "2 sünnet + 2 farz",
+      "en": "2 sunnah + 2 fard"
+     },
+     "units": [
+      {
+       "kind": "sunnah",
+       "rakats": 2,
+       "template": "two-rakat",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü sabah namazının sünnetini kılmaya.",
+        "en": "I intend to pray today's sunnah of Fajr for the sake of Allah."
+       },
+       "emphasis": "muakkad"
+      },
+      {
+       "kind": "fard",
+       "rakats": 2,
+       "template": "two-rakat",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü sabah namazının farzını kılmaya.",
+        "en": "I intend to pray today's obligatory Fajr prayer for the sake of Allah."
+       },
+       "notes": [
+        {
+         "tr": "Erkekler farzdan önce kamet getirir.",
+         "en": "Men call the iqamah before the fard."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ogle",
+     "prayerType": "dhuhr",
+     "name": {
+      "tr": "Öğle Namazı",
+      "en": "Dhuhr Prayer"
+     },
+     "icon": "sun.max.fill",
+     "totalRakats": 10,
+     "summary": {
+      "tr": "4 ilk sünnet + 4 farz + 2 son sünnet",
+      "en": "4 sunnah + 4 fard + 2 sunnah"
+     },
+     "units": [
+      {
+       "kind": "sunnah",
+       "rakats": 4,
+       "template": "four-sunnah-muakkad",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü öğle namazının ilk sünnetini kılmaya.",
+        "en": "I intend to pray today's first sunnah of Dhuhr for the sake of Allah."
+       },
+       "emphasis": "muakkad"
+      },
+      {
+       "kind": "fard",
+       "rakats": 4,
+       "template": "four-fard",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü öğle namazının farzını kılmaya.",
+        "en": "I intend to pray today's obligatory Dhuhr prayer for the sake of Allah."
+       }
+      },
+      {
+       "kind": "sunnah",
+       "rakats": 2,
+       "template": "two-rakat",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü öğle namazının son sünnetini kılmaya.",
+        "en": "I intend to pray today's last sunnah of Dhuhr for the sake of Allah."
+       },
+       "emphasis": "muakkad"
+      }
+     ]
+    },
+    {
+     "id": "ikindi",
+     "prayerType": "asr",
+     "name": {
+      "tr": "İkindi Namazı",
+      "en": "Asr Prayer"
+     },
+     "icon": "sun.min.fill",
+     "totalRakats": 8,
+     "summary": {
+      "tr": "4 sünnet + 4 farz",
+      "en": "4 sunnah + 4 fard"
+     },
+     "units": [
+      {
+       "kind": "sunnah",
+       "rakats": 4,
+       "template": "four-sunnah-ghayr-muakkad",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü ikindi namazının sünnetini kılmaya.",
+        "en": "I intend to pray today's sunnah of Asr for the sake of Allah."
+       },
+       "emphasis": "ghayr-muakkad"
+      },
+      {
+       "kind": "fard",
+       "rakats": 4,
+       "template": "four-fard",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü ikindi namazının farzını kılmaya.",
+        "en": "I intend to pray today's obligatory Asr prayer for the sake of Allah."
+       }
+      }
+     ]
+    },
+    {
+     "id": "aksam",
+     "prayerType": "maghrib",
+     "name": {
+      "tr": "Akşam Namazı",
+      "en": "Maghrib Prayer"
+     },
+     "icon": "sunset.fill",
+     "totalRakats": 5,
+     "summary": {
+      "tr": "3 farz + 2 sünnet",
+      "en": "3 fard + 2 sunnah"
+     },
+     "units": [
+      {
+       "kind": "fard",
+       "rakats": 3,
+       "template": "maghrib-fard",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü akşam namazının farzını kılmaya.",
+        "en": "I intend to pray today's obligatory Maghrib prayer for the sake of Allah."
+       }
+      },
+      {
+       "kind": "sunnah",
+       "rakats": 2,
+       "template": "two-rakat",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü akşam namazının sünnetini kılmaya.",
+        "en": "I intend to pray today's sunnah of Maghrib for the sake of Allah."
+       },
+       "emphasis": "muakkad"
+      }
+     ]
+    },
+    {
+     "id": "yatsi",
+     "prayerType": "isha",
+     "name": {
+      "tr": "Yatsı Namazı",
+      "en": "Isha Prayer"
+     },
+     "icon": "moon.stars.fill",
+     "totalRakats": 13,
+     "summary": {
+      "tr": "4 ilk sünnet + 4 farz + 2 son sünnet + 3 vitir",
+      "en": "4 sunnah + 4 fard + 2 sunnah + 3 witr"
+     },
+     "units": [
+      {
+       "kind": "sunnah",
+       "rakats": 4,
+       "template": "four-sunnah-ghayr-muakkad",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü yatsı namazının ilk sünnetini kılmaya.",
+        "en": "I intend to pray today's first sunnah of Isha for the sake of Allah."
+       },
+       "emphasis": "ghayr-muakkad"
+      },
+      {
+       "kind": "fard",
+       "rakats": 4,
+       "template": "four-fard",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü yatsı namazının farzını kılmaya.",
+        "en": "I intend to pray today's obligatory Isha prayer for the sake of Allah."
+       }
+      },
+      {
+       "kind": "sunnah",
+       "rakats": 2,
+       "template": "two-rakat",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için bugünkü yatsı namazının son sünnetini kılmaya.",
+        "en": "I intend to pray today's last sunnah of Isha for the sake of Allah."
+       },
+       "emphasis": "muakkad"
+      },
+      {
+       "kind": "witr",
+       "rakats": 3,
+       "template": "witr",
+       "intention": {
+        "tr": "Niyet ettim Allah rızası için vitir namazını kılmaya.",
+        "en": "I intend to pray the witr prayer for the sake of Allah."
+       },
+       "notes": [
+        {
+         "tr": "Vitir vaciptir; kamet getirilmez. Üçüncü rekâtta Fâtiha ve sûreden sonra kunut tekbiri alınır: eller kulak hizasına kaldırılıp tekrar bağlanır ve kunut duaları okunur.",
+         "en": "Witr is wajib; no iqamah. In the third rak'ah, after Al-Fatiha and a surah, the qunut takbir is made: the hands are raised to ear level and folded again, then the qunut supplications are recited."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "templates": {
+    "two-rakat": {
+     "name": {
+      "tr": "İki rekâtlı namaz",
+      "en": "Two-rak'ah prayer"
+     },
+     "rakats": [
+      {
+       "n": 1,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 2,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "last"
+      }
+     ]
+    },
+    "maghrib-fard": {
+     "name": {
+      "tr": "Akşam namazının farzı (3 rekât)",
+      "en": "Maghrib obligatory prayer (3 rak'ahs)"
+     },
+     "rakats": [
+      {
+       "n": 1,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 2,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "first"
+      },
+      {
+       "n": 3,
+       "qiyam": [
+        "besmele",
+        "fatiha"
+       ],
+       "sitting": "last"
+      }
+     ]
+    },
+    "witr": {
+     "name": {
+      "tr": "Vitir namazı (3 rekât)",
+      "en": "Witr prayer (3 rak'ahs)"
+     },
+     "rakats": [
+      {
+       "n": 1,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 2,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "first"
+      },
+      {
+       "n": 3,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm",
+        "kunut-tekbiri",
+        "kunut-1",
+        "kunut-2"
+       ],
+       "sitting": "last"
+      }
+     ]
+    },
+    "four-sunnah-muakkad": {
+     "name": {
+      "tr": "Dört rekâtlı sünnet (öğlenin ilk sünneti gibi)",
+      "en": "Four-rak'ah sunnah (like the first sunnah of Dhuhr)"
+     },
+     "rakats": [
+      {
+       "n": 1,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 2,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "first"
+      },
+      {
+       "n": 3,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 4,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "last"
+      }
+     ]
+    },
+    "four-sunnah-ghayr-muakkad": {
+     "name": {
+      "tr": "Dört rekâtlı gayr-i müekked sünnet (ikindi ve yatsının ilk sünneti)",
+      "en": "Four-rak'ah non-emphasised sunnah (first sunnah of Asr and Isha)"
+     },
+     "rakats": [
+      {
+       "n": 1,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 2,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "first-with-salawat"
+      },
+      {
+       "n": 3,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 4,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "last"
+      }
+     ],
+     "note": {
+      "tr": "Bu sünnetler iki rekâtta bir selam verilerek de kılınabilir.",
+      "en": "These may also be prayed as two sets of two rak'ahs."
+     }
+    },
+    "four-fard": {
+     "name": {
+      "tr": "Dört rekâtlı farz",
+      "en": "Four-rak'ah obligatory prayer"
+     },
+     "rakats": [
+      {
+       "n": 1,
+       "qiyam": [
+        "subhaneke",
+        "euzu-besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 2,
+       "qiyam": [
+        "besmele",
+        "fatiha",
+        "zamm"
+       ],
+       "sitting": "first"
+      },
+      {
+       "n": 3,
+       "qiyam": [
+        "besmele",
+        "fatiha"
+       ],
+       "sitting": null
+      },
+      {
+       "n": 4,
+       "qiyam": [
+        "besmele",
+        "fatiha"
+       ],
+       "sitting": "last"
+      }
+     ],
+     "note": {
+      "tr": "Erkekler farzdan önce kamet getirir.",
+      "en": "Men call the iqamah before the obligatory prayer."
+     }
+    }
+   },
+   "positions": {
+    "niyet": {
+     "title": {
+      "tr": "Niyet",
+      "en": "Intention"
+     },
+     "illustration": "pose_standing",
+     "text": {
+      "tr": "Abdestli olarak kıbleye dönülür; iki ayak arası dört parmak kadar açılır. Hangi namazın kılınacağı kalben belirlenir; dille de söylemek müstehaptır.",
+      "en": "Face the qibla with wudu, feet about four fingers apart. Determine in the heart which prayer you are performing; saying it is recommended."
+     }
+    },
+    "tekbir": {
+     "title": {
+      "tr": "İftitah tekbiri",
+      "en": "Opening takbir"
+     },
+     "illustration": "pose_takbir",
+     "text": {
+      "tr": "“Allâhü ekber” denilerek eller, avuç içleri kıbleye dönük, kulak hizasına kaldırılır; sonra sağ el sol elin üstünde olacak şekilde göbeğin altında bağlanır.",
+      "en": "Say “Allāhu akbar” raising the hands, palms towards the qibla, to ear level; then fold them below the navel, right hand over the left."
+     }
+    },
+    "kiyam": {
+     "title": {
+      "tr": "Kıyam",
+      "en": "Standing"
+     },
+     "illustration": "pose_standing",
+     "text": {
+      "tr": "Ayakta, gözler secde yerine bakar; kıraat sessizce yapılır.",
+      "en": "Stand with the eyes on the place of prostration; recite quietly."
+     }
+    },
+    "ruku": {
+     "title": {
+      "tr": "Rükû",
+      "en": "Bowing"
+     },
+     "illustration": "pose_bowing",
+     "text": {
+      "tr": "“Allâhü ekber” denilerek eğilinir; eller dizleri tutar, sırt ve baş düz bir çizgi oluşturur. Üç kere “Sübhâne Rabbiye'l-azîm” denir.",
+      "en": "Say “Allāhu akbar” and bow; hands on the knees, back and head in a straight line. Say “Subhāna Rabbiyal-‘azīm” three times."
+     }
+    },
+    "kavme": {
+     "title": {
+      "tr": "Kavme",
+      "en": "Rising from bowing"
+     },
+     "illustration": "pose_standing",
+     "text": {
+      "tr": "“Semi'allâhü limen hamideh” diyerek doğrulunur, dimdik durulur ve “Rabbenâ ve leke'l-hamd” denir.",
+      "en": "Rise saying “Sami‘allāhu liman hamidah,” stand fully upright and say “Rabbanā wa lakal-hamd.”"
+     }
+    },
+    "secde": {
+     "title": {
+      "tr": "Secde",
+      "en": "Prostration"
+     },
+     "illustration": "pose_prostration",
+     "text": {
+      "tr": "“Allâhü ekber” denilerek önce dizler, sonra eller, sonra burun ve alın yere konur. Eller başın iki yanında, parmaklar kapalı ve kıbleye yönelik; dirsekler yerden kaldırılır; ayak parmakları kıbleye bakar. Üç kere “Sübhâne Rabbiye'l-a'lâ” denir.",
+      "en": "Say “Allāhu akbar”; place the knees, then the hands, then the nose and forehead on the ground. Hands beside the head with fingers together pointing to the qibla; elbows off the ground; toes towards the qibla. Say “Subhāna Rabbiyal-a‘lā” three times."
+     }
+    },
+    "celse": {
+     "title": {
+      "tr": "Celse",
+      "en": "Sitting between prostrations"
+     },
+     "illustration": "pose_sitting",
+     "text": {
+      "tr": "“Allâhü ekber” denilerek secdeden kalkılır, “sübhânellâhi'l-azîm” diyecek kadar oturulur; sonra tekrar “Allâhü ekber” ile ikinci secdeye gidilir.",
+      "en": "Say “Allāhu akbar” and sit up long enough to say “subhānallāhil-‘azīm”; then go into the second prostration with “Allāhu akbar.”"
+     }
+    },
+    "oturus": {
+     "title": {
+      "tr": "Oturuş",
+      "en": "Sitting"
+     },
+     "illustration": "pose_sitting",
+     "text": {
+      "tr": "Sol ayak yatırılıp üzerine oturulur; sağ ayağın parmakları kıbleye gelecek şekilde dikilir. Eller dizlerin üzerine konur.",
+      "en": "Sit on the left foot laid flat, the right foot upright with the toes towards the qibla. Hands on the knees."
+     }
+    },
+    "selam": {
+     "title": {
+      "tr": "Selam",
+      "en": "Salam"
+     },
+     "illustration": "pose_salam",
+     "text": {
+      "tr": "“Es-selâmü aleyküm ve rahmetüllâh” diyerek baş önce sağa, sonra sola çevrilir. Namaz tamamlanmış olur; ardından “Allâhümme ente's-selâm…” duası okunur.",
+      "en": "Say “As-salāmu ‘alaykum wa rahmatullāh” turning the head first to the right, then to the left. The prayer is complete; then recite “Allāhumma antas-salām…”"
+     }
+    }
+   },
+   "womenDifferences": {
+    "title": {
+     "tr": "Kadınlar için farklar",
+     "en": "Differences for women"
+    },
+    "items": [
+     {
+      "tr": "İftitah tekbirinde eller omuz hizasını geçmeyecek şekilde kaldırılır ve göğüs üzerinde bağlanır.",
+      "en": "At the opening takbir the hands are raised no higher than the shoulders and folded on the chest."
+     },
+     {
+      "tr": "Rükûda erkeklere göre biraz daha az eğilinir.",
+      "en": "In bowing, one bends slightly less than men."
+     },
+     {
+      "tr": "Secdede kollar yanlara bitiştirilir.",
+      "en": "In prostration the arms are kept close to the sides."
+     },
+     {
+      "tr": "Oturuşta sol kalça üzerine oturulup ayaklar sağ tarafa yatık çıkarılır.",
+      "en": "In sitting, one sits on the left hip with the feet out to the right."
+     },
+     {
+      "tr": "Kamet getirilmez.",
+      "en": "The iqamah is not called."
+     }
+    ]
+   }
+  },
+  {
+   "id": "sureler",
+   "title": {
+    "tr": "Namaz Sûreleri",
+    "en": "Prayer Surahs"
+   },
+   "icon": "book.closed.fill",
+   "kind": "surahs",
+   "subtitle": {
+    "tr": "Arapça, okunuş ve meal",
+    "en": "Arabic, transliteration and meaning"
+   },
+   "items": [
+    {
+     "id": "fatiha",
+     "number": 1,
+     "name": {
+      "tr": "Fâtiha Sûresi",
+      "en": "Surah Al-Fatiha"
+     },
+     "shortName": {
+      "tr": "Fâtiha",
+      "en": "Al-Fatiha"
+     },
+     "basmala": null,
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+       "en": "In the name of God, the Gracious, the Merciful."
+      },
+      {
+       "n": 2,
+       "ar": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+       "en": "Praise be to God, Lord of the Worlds."
+      },
+      {
+       "n": 3,
+       "ar": "الرَّحْمَٰنِ الرَّحِيمِ",
+       "en": "The Most Gracious, the Most Merciful."
+      },
+      {
+       "n": 4,
+       "ar": "مَالِكِ يَوْمِ الدِّينِ",
+       "en": "Master of the Day of Judgment."
+      },
+      {
+       "n": 5,
+       "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+       "en": "It is You we worship, and upon You we call for help."
+      },
+      {
+       "n": 6,
+       "ar": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+       "en": "Guide us to the straight path."
+      },
+      {
+       "n": 7,
+       "ar": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+       "en": "The path of those You have blessed, not of those against whom there is anger, nor of those who are misguided."
+      }
+     ],
+     "tr_transliteration": "Elhamdülillâhi Rabbi'l-'âlemîn. Er-Rahmâni'r-Rahîm. Mâliki yevmi'd-dîn. İyyâke na'büdü ve iyyâke neste'în. İhdine's-sırâta'l-müstekîm. Sırâta'l-lezîne en'amte 'aleyhim ğayri'l-meğdûbi 'aleyhim ve le'd-dâllîn.",
+     "tr_meaning": "Hamd (övmek, övülmek); O, âlemlerin Rabbi, O Rahmân, Rahîm, O, âhiret gününün mâliki Allah'ın (hakkı)dır, O'na mahsustur. İlâhi! Yalnız Sana ibâdet ve kulluk ederiz, sade Sen'den yardım dileriz. Bizi doğru yola hidâyet eyle. Kendilerine bol bol nîmet verdiğin bahtiyarların yoluna, ki onlar ne azıp sapmış, ne de gazabına uğramışlardır. (Duamızı kabul eyle Allah'ım!)",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ],
+     "whenRead": {
+      "tr": "Her rekâtta okunur.",
+      "en": "Recited in every rak'ah."
+     }
+    },
+    {
+     "id": "fil",
+     "number": 105,
+     "name": {
+      "tr": "Fil Sûresi",
+      "en": "Surah Al-Fil"
+     },
+     "shortName": {
+      "tr": "Fil",
+      "en": "Al-Fil"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+       "en": "Have you not considered how your Lord dealt with the People of the Elephant?"
+      },
+      {
+       "n": 2,
+       "ar": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+       "en": "Did He not make their plan go wrong?"
+      },
+      {
+       "n": 3,
+       "ar": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+       "en": "He sent against them swarms of birds."
+      },
+      {
+       "n": 4,
+       "ar": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+       "en": "Throwing at them rocks of baked clay."
+      },
+      {
+       "n": 5,
+       "ar": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+       "en": "Leaving them like chewed-up leaves."
+      }
+     ],
+     "tr_transliteration": "Elemtera keyfe fe'ale Rabbüke bi-ashâbi'l-fîl. Elem yec'al keydehüm fî tadlîl. Ve ersele 'aleyhim tayran ebâbîl. Termîhim bi-hıcâratin min siccîl. Fece'alehüm ke'asfin me'kûl.",
+     "tr_meaning": "Görmedin mi, nasıl etti Rabb'in Fil sahiplerine? Fendlerini, tedbirlerini (kötü düşüncelerini) bozup büsbütün perişan kılmadı mı? Üzerlerine sert taşlarla atış eden, sürü sürü kuşlar saldı da, hemen onları bir yenik hasıl (güve yiyip tanesiz kalmış ekin yaprağı, saman) gibi kılıverdi.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "kureys",
+     "number": 106,
+     "name": {
+      "tr": "Kureyş Sûresi",
+      "en": "Surah Quraysh"
+     },
+     "shortName": {
+      "tr": "Kureyş",
+      "en": "Quraysh"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "لِإِيلَافِ قُرَيْشٍ",
+       "en": "For the security of Quraish."
+      },
+      {
+       "n": 2,
+       "ar": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+       "en": "Their security during winter and summer journeys."
+      },
+      {
+       "n": 3,
+       "ar": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+       "en": "Let them worship the Lord of this House."
+      },
+      {
+       "n": 4,
+       "ar": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+       "en": "Who has fed them against hunger, and has secured them against fear."
+      }
+     ],
+     "tr_transliteration": "Li îlâfi kurayş. Îlâfihim rihlete'ş-şitâi ve's-sayf. Felya'büdû Rabbe hâze'l-beyt. Ellezî et'amehüm min cû'ın ve âmenehüm min havf.",
+     "tr_meaning": "Kureyş'in birbirleriyle veya başkalarıyla andlaşması, anlaşması için; hele yaz ve kış seferlerine (faydalandıkları) andlaşması için, onlar (Kureyş) bundan böyle bu evin (Kâbe'nin) sahibine (Allah'a) ibâdet etsinler; O (sahip) ki, onları büyük bir açlıktan kurtardı ve müthiş bir korkudan emin kıldı.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "maun",
+     "number": 107,
+     "name": {
+      "tr": "Mâûn Sûresi",
+      "en": "Surah Al-Ma'un"
+     },
+     "shortName": {
+      "tr": "Mâûn",
+      "en": "Al-Ma'un"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+       "en": "Have you considered him who denies the religion?"
+      },
+      {
+       "n": 2,
+       "ar": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+       "en": "It is he who mistreats the orphan."
+      },
+      {
+       "n": 3,
+       "ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+       "en": "And does not encourage the feeding of the poor."
+      },
+      {
+       "n": 4,
+       "ar": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+       "en": "So woe to those who pray."
+      },
+      {
+       "n": 5,
+       "ar": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+       "en": "Those who are heedless of their prayers."
+      },
+      {
+       "n": 6,
+       "ar": "الَّذِينَ هُمْ يُرَاءُونَ",
+       "en": "Those who put on the appearance."
+      },
+      {
+       "n": 7,
+       "ar": "وَيَمْنَعُونَ الْمَاعُونَ",
+       "en": "And withhold the assistance."
+      }
+     ],
+     "tr_transliteration": "Eraeytellezî yükezzibü bi'd-dîn. Fezâlike'l-lezî yedü''u'l-yetîm. Ve lâ yehuddu 'alâ ta'âmi'l-miskîn. Feveylün li'l-müsallîn. Ellezîne hüm 'an salâtihim sâhûn. Ellezîne hüm yürâûn. Ve yemne'ûne'l-mâûn.",
+     "tr_meaning": "Gördün mü o, dîne (ceza gününe ve âhirete) inanmayanı? İşte hak dîne ve ceza gününe inanmayan, o kimsedir ki: Öksüzü itip kakar, çaresizin ve yoksulun yiyeceğine dair teşvikte bulunmaz; ne kendisi doyurur, ne de başkalarının doyurması için kayırır. Vay o namaz kılanların hâline ki, onlar namazlarını gereği gibi ciddi bir vazife olarak yapmazlar. Onlar ki gösteriş için yaparlar ve yardımlığı sakınırlar (kimseye bir damla şey vermek istemezler).",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "kevser",
+     "number": 108,
+     "name": {
+      "tr": "Kevser Sûresi",
+      "en": "Surah Al-Kawthar"
+     },
+     "shortName": {
+      "tr": "Kevser",
+      "en": "Al-Kawthar"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+       "en": "We have given you plenty."
+      },
+      {
+       "n": 2,
+       "ar": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+       "en": "So pray to your Lord and sacrifice."
+      },
+      {
+       "n": 3,
+       "ar": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+       "en": "He who hates you is the loser."
+      }
+     ],
+     "tr_transliteration": "İnnâ a'taynâke'l-kevser. Fesalli li-Rabbike ve'nhar. İnne şâni'eke hüve'l-ebter.",
+     "tr_meaning": "Biz verdik sana (Yâ Muhammed) hakikatte Kevser. Sen de Rabb'in için namaz kıl ve kurban da kesiver. Doğrusu, asıl ebter sana buğz eden (hınç besleyen, diş bileyen)in kendisidir.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "kafirun",
+     "number": 109,
+     "name": {
+      "tr": "Kâfirûn Sûresi",
+      "en": "Surah Al-Kafirun"
+     },
+     "shortName": {
+      "tr": "Kâfirûn",
+      "en": "Al-Kafirun"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+       "en": "Say, “O disbelievers."
+      },
+      {
+       "n": 2,
+       "ar": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+       "en": "I do not worship what you worship."
+      },
+      {
+       "n": 3,
+       "ar": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+       "en": "Nor do you worship what I worship."
+      },
+      {
+       "n": 4,
+       "ar": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+       "en": "Nor do I serve what you serve."
+      },
+      {
+       "n": 5,
+       "ar": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+       "en": "Nor do you serve what I serve."
+      },
+      {
+       "n": 6,
+       "ar": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+       "en": "You have your way, and I have my way.”"
+      }
+     ],
+     "tr_transliteration": "Kul yâ eyyühe'l-kâfirûn. Lâ a'büdü mâ ta'büdûn. Ve lâ entüm 'âbidûne mâ a'büd. Velâ ene 'âbidün mâ 'abettüm. Velâ entüm 'âbidûne mâ a'büd. Leküm dînüküm veliye dîn.",
+     "tr_meaning": "De ki: Ey kâfirler! Tapmam o taptıklarınıza. Siz de tapanlardan değilsiniz benim Mabudum (Allah)'a. Hem ben tapıcı değilim sizin taptıklarınıza. Hem de siz tapıcı değilsiniz benim ibâdet ettiğim (Allah)'a. Size dîniniz, bana da dînim.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "nasr",
+     "number": 110,
+     "name": {
+      "tr": "Nasr Sûresi",
+      "en": "Surah An-Nasr"
+     },
+     "shortName": {
+      "tr": "Nasr",
+      "en": "An-Nasr"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+       "en": "When there comes God’s victory, and conquest."
+      },
+      {
+       "n": 2,
+       "ar": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+       "en": "And you see the people entering God’s religion in multitudes."
+      },
+      {
+       "n": 3,
+       "ar": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
+       "en": "Then celebrate the praise of your Lord, and seek His forgiveness. He is the Accepter of Repentance."
+      }
+     ],
+     "tr_transliteration": "İzâ câe nasrullâhi ve'l-fethu. Ve raeyte'n-nâse yedhulûne fî dînillâhi efvâcâ. Fesebbih bi-hamdi Rabbike vestağfirhu innehû kâne tevvâbâ.",
+     "tr_meaning": "Allah'ın (vaad eylediği) yardımı geldiği ve zafer kazanıldığı (Mekke'nin fethi ile İslâm'a fütûhat kapılarının açıldığı); ve insanların fevç fevç, küme küme Allah'ın dînine girdiklerini gördüğün zaman artık Rabb'ini överek şanını yücelt ve Allah'tan mağfiret iste. Çünkü O, tövbe ile kendisine dönenleri kabul eder.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "tebbet",
+     "number": 111,
+     "name": {
+      "tr": "Tebbet Sûresi",
+      "en": "Surah Al-Masad (Tabbat)"
+     },
+     "shortName": {
+      "tr": "Tebbet",
+      "en": "Al-Masad (Tabbat)"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+       "en": "Condemned are the hands of Abee Lahab, and he is condemned."
+      },
+      {
+       "n": 2,
+       "ar": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+       "en": "His wealth did not avail him, nor did what he acquired."
+      },
+      {
+       "n": 3,
+       "ar": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+       "en": "He will burn in a Flaming Fire."
+      },
+      {
+       "n": 4,
+       "ar": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+       "en": "And his wife—the firewood carrier."
+      },
+      {
+       "n": 5,
+       "ar": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+       "en": "Around her neck is a rope of thorns."
+      }
+     ],
+     "tr_transliteration": "Tebbet yedâ ebî lehebin ve tebb. Mâ ağnâ 'anhü mâlühû ve mâ keseb. Seyaslâ nâran zâte leheb. Vemraetühû hammâlete'l-hatab. Fî cîdihâ hablün min mesed.",
+     "tr_meaning": "Ebû Leheb'in iki eli kurudu, kendisi de (helâk oldu!). Ne malı fayda verdi ona, ne de kazandığı. O, (dünyada benzeri görülmemiş) bir alevli ateşe yaslanacak. Gerdanında hurma liflerinden bükülmüş bir iple odun taşıyan karısı da!",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "ihlas",
+     "number": 112,
+     "name": {
+      "tr": "İhlâs Sûresi",
+      "en": "Surah Al-Ikhlas"
+     },
+     "shortName": {
+      "tr": "İhlâs",
+      "en": "Al-Ikhlas"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+       "en": "Say, “He is God, the One."
+      },
+      {
+       "n": 2,
+       "ar": "اللَّهُ الصَّمَدُ",
+       "en": "God, the Absolute."
+      },
+      {
+       "n": 3,
+       "ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+       "en": "He begets not, nor was He begotten."
+      },
+      {
+       "n": 4,
+       "ar": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+       "en": "And there is nothing comparable to Him.”"
+      }
+     ],
+     "tr_transliteration": "Kul hüvallâhü ahad. Allâhü's-samed. Lem yelid ve lem yûled. Ve lem yekün lehû küfüven ahad.",
+     "tr_meaning": "De ki: O, Allah, birdir. Allah, her yönden eksiksizdir ve her dileğin merciidir, her şey kendisine muhtâc olan Şanlı, Uludur. O, doğurmadı ve doğurulmadı. O'na hiçbir şey denk de olmadı.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "felak",
+     "number": 113,
+     "name": {
+      "tr": "Felâk Sûresi",
+      "en": "Surah Al-Falaq"
+     },
+     "shortName": {
+      "tr": "Felâk",
+      "en": "Al-Falaq"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+       "en": "Say, “I take refuge with the Lord of Daybreak."
+      },
+      {
+       "n": 2,
+       "ar": "مِن شَرِّ مَا خَلَقَ",
+       "en": "From the evil of what He created."
+      },
+      {
+       "n": 3,
+       "ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+       "en": "And from the evil of the darkness as it gathers."
+      },
+      {
+       "n": 4,
+       "ar": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+       "en": "And from the evil of those who practice sorcery."
+      },
+      {
+       "n": 5,
+       "ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+       "en": "And from the evil of an envious when he envies.”"
+      }
+     ],
+     "tr_transliteration": "Kul e'ûzü bi-Rabbi'l-felak. Min şerri mâ halak. Ve min şerri ğâsikın izâ vekab. Ve min şerri'n-neffâsâti fi'l-'ukad. Ve min şerri hâsidin izâ hased.",
+     "tr_meaning": "De ki: Yaratılmışların şerrinden, karanlık çöktüğü zaman gecenin şerrinden, düğümlere üfleyenlerin şerrinden ve haset edenin, içindeki hasedini dışarıya vurduğu vakit, şerrinden; şafak aydınlığının Rabbine (Allah'a) sığınırım.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "nas",
+     "number": 114,
+     "name": {
+      "tr": "Nâs Sûresi",
+      "en": "Surah An-Nas"
+     },
+     "shortName": {
+      "tr": "Nâs",
+      "en": "An-Nas"
+     },
+     "basmala": {
+      "ar": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "tr_transliteration": "Bismillâhi'r-Rahmâni'r-Rahîm.",
+      "tr_meaning": "Rahman ve Rahim olan Allah'ın adı ile.",
+      "en": "In the name of God, the Gracious, the Merciful."
+     },
+     "ayahs": [
+      {
+       "n": 1,
+       "ar": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+       "en": "Say, “I seek refuge in the Lord of mankind."
+      },
+      {
+       "n": 2,
+       "ar": "مَلِكِ النَّاسِ",
+       "en": "The King of mankind."
+      },
+      {
+       "n": 3,
+       "ar": "إِلَٰهِ النَّاسِ",
+       "en": "The God of mankind."
+      },
+      {
+       "n": 4,
+       "ar": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+       "en": "From the evil of the sneaky whisperer."
+      },
+      {
+       "n": 5,
+       "ar": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+       "en": "Who whispers into the hearts of people."
+      },
+      {
+       "n": 6,
+       "ar": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+       "en": "From among jinn and among people.”"
+      }
+     ],
+     "tr_transliteration": "Kul e'ûzü bi-Rabbi'n-nâs. Meliki'n-nâs. İlâhi'n-nâs. Min şerri'l-vesvâsi'l-hânnâs. Ellezî yüvesvisü fî sudûri'n-nâs. Mine'l-cinneti ve'n-nâs.",
+     "tr_meaning": "De ki: Sığınırım Rabb'ine nâsın. Melikine nâsın. İlâhına nâsın; şerrinden o sinsi vesvâsın. Ki, fiskos eder sinelerinde (kalplerinde) nâsın; gerek cinden (olsun o sinsi) gerekse insden.",
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    },
+    {
+     "id": "ayetel-kursi",
+     "number": 2,
+     "ayahRange": [
+      255,
+      255
+     ],
+     "name": {
+      "tr": "Âyetü'l-Kürsî",
+      "en": "Ayat al-Kursi"
+     },
+     "shortName": {
+      "tr": "Âyetü'l-Kürsî",
+      "en": "Ayat al-Kursi"
+     },
+     "basmala": null,
+     "ayahs": [
+      {
+       "n": 255,
+       "ar": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+       "en": "God! There is no god except He, the Living, the Everlasting. Neither slumber overtakes Him, nor sleep. To Him belongs everything in the heavens and everything on earth. Who is he that can intercede with Him except with His permission? He knows what is before them, and what is behind them; and they cannot grasp any of His knowledge, except as He wills. His Throne extends over the heavens and the earth, and their preservation does not burden Him. He is the Most High, the Great."
+      }
+     ],
+     "tr_transliteration": "Allâhü lâ ilâhe illâ hüve'l-hayyü'l-kayyûm. Lâ te'huzühû sinetün ve lâ nevm. Lehû mâ fi's-semâvâti ve mâ fi'l-ard. Men-ze'l-lezî yeşfe'u 'indehû illâ bi-iznih. Ya'lemü mâ beyne eydîhim ve mâ halfehüm. Ve lâ yuhîtûne bi-şey'in min 'ılmihî illâ bimâ şâe, vesi'a kürsiyyühü's-semâvâti ve'l-arda ve lâ yeûdühû hifzuhumâ ve hüve'l-aliyyü'l-azîm.",
+     "tr_meaning": "Allah, O Allah'tır. O, yegâne hak mâbuddur ki O'ndan başka İlâh yok, yalnız O; daima yaşayan, duran, tutan, her an bütün hilkat üzerinde hâkim, Hayy ü Kayyum ancak O'dur. Ne gaflet basar O'nu, ne uyku. Göklerde, yerde ne varsa hepsi O'nundur. Kimin haddine ki izni olmaksızın O'nun yanında şefaat edebilsin? Allah, yarattıklarının işlediklerini, işleyenlerini, geçmişlerini, geleceklerini bilir. Onlar ise O'nun bildiklerinden yalnız dilediği kadarını kavrayabilir; başka bir şey bilemezler. O'nun kürsüsü, ilmi bütün gökleri ve yeri kucaklamıştır ve bunların koruyuculuğu, bunları görüp gözetmek kendisine bir ağırlık da vermez. O, öyle ulu, öyle büyük ve yücedir.",
+     "whenRead": {
+      "tr": "Namazlardan sonra okunması tavsiye edilir.",
+      "en": "Recommended after the prayers."
+     },
+     "sourceIds": [
+      "tanzil",
+      "dib-akseki",
+      "clearquran"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dualar",
+   "title": {
+    "tr": "Namaz Duaları",
+    "en": "Prayer Supplications"
+   },
+   "icon": "hands.and.sparkles.fill",
+   "kind": "duas",
+   "subtitle": {
+    "tr": "Sübhâneke'den Kunut'a",
+    "en": "From Subhanaka to Qunut"
+   },
+   "items": [
+    {
+     "id": "subhaneke",
+     "name": {
+      "tr": "Sübhâneke",
+      "en": "Subhanaka"
+     },
+     "ar": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ (وَجَلَّ ثَنَاؤُكَ) وَلَا إِلٰهَ غَيْرُكَ",
+     "tr_transliteration": "Sübhâneke'llâhümme ve bi hamdik. Ve tebâra-k'esmük. Ve te'âlâ ceddük. (Ve celle senâük.) Ve lâ ilâhe ğayrük.",
+     "tr_meaning": "Allah'ım! Sen eksik sıfatlardan pâk ve uzaksın. Seni dâima böyle takdîs eder ve överim; Senin adın mübarektir, azamet ve celâlin yüksektir. Seni öğmek yücedir ve Senden gayrı İlâh yoktur.",
+     "en_meaning": "Glory be to You, O Allah, and praise be to You. Blessed is Your name, exalted is Your majesty (and sublime is Your praise), and there is no god but You.",
+     "whenRead": {
+      "tr": "Her namazın başında, iftitah tekbirinden sonra okunur. “Ve celle senâük” yalnız cenaze namazında okunur. İkindinin sünneti ile yatsının ilk sünnetinde üçüncü rekâta kalkınca da okunur.",
+      "en": "Recited at the start of every prayer after the opening takbir. “Wa jalla thanā'uk” is said only in the funeral prayer. Also recited when rising to the third rak'ah in the sunnah of Asr and the first sunnah of Isha."
+     },
+     "arabicSource": "dib-akseki",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-akseki",
+      "kut"
+     ]
+    },
+    {
+     "id": "tahiyyat",
+     "name": {
+      "tr": "Ettehiyyâtü (Tahiyyât)",
+      "en": "At-Tahiyyat (Tashahhud)"
+     },
+     "ar": "اَلتَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ اَلسَّلَامُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِحِينَ اَشْهَدُ اَنْ لَا إِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+     "tr_transliteration": "Ettehıyyâtü lillâhi ve's-salevâtü ve't-tayyibâtü esselâmü 'aleyke eyyühennebiyyü ve rahmetüllâhi ve berakâtühû esselâmü 'aleynâ ve 'alâ 'ıbâdi'l-lâhi's-sâlihîn. Eşhedü en lâ ilâhe illallâhü ve eşhedü enne Muhammeden 'abdühû ve rasûlüh.",
+     "tr_meaning": "Dil ile, beden ve mal ile olan ibâdetlerin hepsi yalnız Allahu Teâlâ'yadır. O'ndan başkasına ibâdet olmaz. Ey mertebesi yüce olan Nebî “Muhammed”! Allah'ın rahmeti ve bereketleri ile selâm ve selâmetlik Sana olsun! Selâm ve selâmetlik bizim üzerimize ve Allah'ın iyi kullarına olsun! Şahadet ederim ki: Allah'tan başka İlâh yoktur; yine şahadet ederim ki; Muhammed O'nun kulu ve resûlü “elçisi”dir.",
+     "en_meaning": "All greetings, prayers and good things are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and messenger.",
+     "whenRead": {
+      "tr": "Namazların her oturuşunda okunur.",
+      "en": "Recited in every sitting of the prayer."
+     },
+     "arabicSource": "dib-akseki",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-akseki",
+      "kut"
+     ]
+    },
+    {
+     "id": "salli",
+     "name": {
+      "tr": "Allâhümme Salli",
+      "en": "Allahumma Salli"
+     },
+     "ar": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرَاهِيمَ وَعَلٰى اٰلِ اِبْرَاهِيمَ اِنَّكَ حَمِيدٌ مَجِيدٌ",
+     "tr_transliteration": "Allâhümme salli alâ Muhammedin ve 'alâ âli Muhammed. Kemâ salleyte 'alâ İbrahîme ve 'alâ âli İbrahîm. İnneke hamîdün mecîd.",
+     "tr_meaning": "Allah'ım! Muhammed'e ve onun evlât ve etbaına (yakınlarına), İbrahim'e ve âline rahmet ettiğin gibi, rahmet et. Muhakkak ki Sen öğülmüş, öğülmeye lâyık ve şanlısın.",
+     "en_meaning": "O Allah, send Your mercy upon Muhammad and upon the family of Muhammad, as You sent mercy upon Ibrahim and the family of Ibrahim. Truly You are Praiseworthy, Glorious.",
+     "whenRead": {
+      "tr": "Son oturuşta Tahiyyât'tan sonra okunur. İkindi ve yatsının ilk sünnetinde ilk oturuşta da okunur.",
+      "en": "Recited after the Tashahhud in the final sitting; also in the first sitting of the sunnah of Asr and the first sunnah of Isha."
+     },
+     "arabicSource": "dib-akseki",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-akseki",
+      "kut"
+     ]
+    },
+    {
+     "id": "barik",
+     "name": {
+      "tr": "Allâhümme Bârik",
+      "en": "Allahumma Barik"
+     },
+     "ar": "اَللّٰهُمَّ بَارِكْ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى اِبْرَاهِيمَ وَعَلٰى اٰلِ اِبْرَاهِيمَ اِنَّكَ حَمِيدٌ مَجِيدٌ",
+     "tr_transliteration": "Allâhümme bârik 'alâ Muhammedin ve 'alâ âli Muhammed. Kemâ bârekte 'alâ İbrahime ve 'alâ âli İbrahim. İnneke hamîdün mecîd.",
+     "tr_meaning": "Allah'ım! Muhammed'i ve âlini, İbrahim'i ve etbaını mübarek kıldığın gibi mübarek kıl. Şüphe yok ki, öğülmüş yalnız Sensin, gerçekten şan ve şeref sahibi de Sensin!",
+     "en_meaning": "O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim. Truly You are Praiseworthy, Glorious.",
+     "whenRead": {
+      "tr": "Allâhümme Salli'den hemen sonra okunur.",
+      "en": "Recited right after Allahumma Salli."
+     },
+     "arabicSource": "dib-akseki",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-akseki",
+      "kut"
+     ]
+    },
+    {
+     "id": "rabbena-atina",
+     "name": {
+      "tr": "Rabbenâ Âtinâ",
+      "en": "Rabbana Atina"
+     },
+     "ar": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+     "tr_transliteration": "Rabbenâ âtinâ fi'd-dünyâ haseneten ve fi'l-âhirati haseneten ve kınâ 'azâbe'n-nâr.",
+     "tr_meaning": "Ey bizim Rabbimiz! Bize dünyada da iyilik ve güzellik, âhirette de iyilik, güzellik ver ve bizi, ey merhameti çok bol olan Allah'ım, rahmetinle ateş azabından koru.",
+     "en_meaning": "Our Lord, give us goodness in this world, and goodness in the Hereafter, and protect us from the torment of the Fire.",
+     "whenRead": {
+      "tr": "Son oturuşta Bârik'ten sonra okunur (Bakara 2/201).",
+      "en": "Recited after Barik in the final sitting (Al-Baqarah 2:201)."
+     },
+     "arabicSource": "tanzil",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "rabbenagfirli",
+     "name": {
+      "tr": "Rabbenağfirlî",
+      "en": "Rabbanaghfirli"
+     },
+     "ar": "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+     "tr_transliteration": "Rabbenağfirlî ve li vâlideyye ve li'l-mü'minîne yevme yekûmü'l-hısâb.",
+     "tr_meaning": "Ey bizim Rabbimiz! Herkesin hesabına bakıldığı gün beni, anamı ve babamı ve mü'minleri yarlığa; günahlarımızı affet.",
+     "en_meaning": "“Our Lord, forgive me, and my parents, and the believers, on the Day the Reckoning takes place.”",
+     "whenRead": {
+      "tr": "Rabbenâ Âtinâ'dan sonra, selamdan önce okunur (İbrâhim 14/41).",
+      "en": "Recited after Rabbana Atina, before the salam (Ibrahim 14:41)."
+     },
+     "arabicSource": "tanzil",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "kunut-1",
+     "name": {
+      "tr": "Kunut Duası 1",
+      "en": "Qunut 1"
+     },
+     "ar": "اَللّٰهُمَّ اِنَّا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنَسْتَهْدِيكَ وَنُؤْمِنُ بِكَ وَنَتُوبُ اِلَيْكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِي عَلَيْكَ الْخَيْرَ كُلَّهُ نَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ يَفْجُرُكَ",
+     "tr_transliteration": "Allâhümme innâ neste'înüke ve nesteğfiruke ve nestehdîke ve nü'minü bike ve netûbü ileyke ve netevekkelü aleyke ve nüsnî 'aleyke'l-hayra küllehû neşküruke ve lâ nekfüruke ve nahle'u ve netrukü men yefcürük.",
+     "tr_meaning": "Allah'ım! Biz Senden yardım isteriz, günahlarımızı örterek bizi rüsvay etmemeni isteriz; râzı olduğun şeylere bizi hidâyet etmeni isteriz. Allah'ım, Sana îman ederiz, tövbe edip Sana döneriz; işlerimizde Sana dayanır ve Sana güveniriz; Seni överiz, bütün hayırların Sende olduğunu ikrar ederiz; verdiğin bunca nîmetlerden dolayı Sana şükrederiz ve nankörlük yapmayız. Sana karşı nankörlük eden fâcirleri bırakır ve ondan ayrılırız, onunla olan rabıtamızı keseriz.",
+     "en_meaning": "O Allah, we seek Your help and Your forgiveness, and we ask You for guidance. We believe in You, we turn to You in repentance, we rely on You, and we praise You for all that is good. We thank You and we are not ungrateful to You, and we cast off and forsake whoever disobeys You.",
+     "whenRead": {
+      "tr": "Vitir namazının üçüncü rekâtında, kunut tekbirinden sonra okunur.",
+      "en": "Recited in the third rak'ah of witr after the qunut takbir."
+     },
+     "arabicSource": "dib-akseki",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-akseki",
+      "kut"
+     ]
+    },
+    {
+     "id": "kunut-2",
+     "name": {
+      "tr": "Kunut Duası 2",
+      "en": "Qunut 2"
+     },
+     "ar": "اَللّٰهُمَّ اِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّي وَنَسْجُدُ وَاِلَيْكَ نَسْعٰى وَنَحْفِدُ نَرْجُو رَحْمَتَكَ وَنَخْشٰى عَذَابَكَ اِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ",
+     "tr_transliteration": "Allâhümme iyyâke na'büdü ve leke nüsallî ve nescüdü ve ileyke nes'â ve nahfidü nercû rahmeteke ve nahşâ 'azâbeke inne 'azâbeke bi'l-küffâri mülhık.",
+     "tr_meaning": "Allah'ım! Biz ancak Sana ibâdet ve kulluk ederiz, ancak Senin için namaz kılarız ve Sana yalvarırız, yalnız Sana secde eder, yalnız Sana koşar ve Sana yaklaştıracak şeyleri kazanmaya çalışırız. İbâdetini sevinçle yaparız, rahmetini ve ihsanının devamını ve çok olmasını dileriz. Yasak ettiklerini yapamaz ve azabından korkarız. Şüphe yok ki, azabın kâfirlere ulaşır.",
+     "en_meaning": "O Allah, You alone we worship; for You we pray and prostrate; to You we hasten and strive. We hope for Your mercy and fear Your punishment; truly Your punishment overtakes the disbelievers.",
+     "whenRead": {
+      "tr": "Kunut Duası 1'in hemen ardından okunur.",
+      "en": "Recited right after Qunut 1."
+     },
+     "arabicSource": "dib-akseki",
+     "arabicVerified": true,
+     "sourceIds": [
+      "dib-akseki",
+      "kut"
+     ]
+    },
+    {
+     "id": "euzu-besmele",
+     "name": {
+      "tr": "Eûzü-Besmele",
+      "en": "A'udhu and Basmala"
+     },
+     "ar": "أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ ۝ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+     "tr_transliteration": "E'ûzü billâhi mine'ş-şeytâni'r-racîm. Bismillâhi'r-Rahmâni'r-Rahîm.",
+     "tr_meaning": "Kovulmuş şeytandan Allah'a sığınırım. Rahmân ve Rahîm olan Allah'ın adıyla.",
+     "en_meaning": "I seek refuge in Allah from the accursed devil. In the name of Allah, the Most Gracious, the Most Merciful.",
+     "whenRead": {
+      "tr": "İlk rekâtta Sübhâneke'den sonra; diğer rekâtlarda yalnız besmele.",
+      "en": "After Subhanaka in the first rak'ah; only the basmala in later rak'ahs."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "tekbir",
+     "name": {
+      "tr": "Tekbir",
+      "en": "Takbir"
+     },
+     "ar": "اَللّٰهُ أَكْبَرُ",
+     "tr_transliteration": "Allâhü ekber.",
+     "tr_meaning": "Allah en büyüktür.",
+     "en_meaning": "Allah is the Greatest.",
+     "whenRead": {
+      "tr": "Namaza başlarken ve her hareket geçişinde.",
+      "en": "At the start of prayer and at every change of position."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "ruku-tesbihi",
+     "name": {
+      "tr": "Rükû tesbihi",
+      "en": "Tasbih of bowing"
+     },
+     "ar": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+     "tr_transliteration": "Sübhâne Rabbiye'l-azîm.",
+     "tr_meaning": "Yüce Rabbimi tenzih ederim.",
+     "en_meaning": "Glory be to my Lord, the Magnificent.",
+     "whenRead": {
+      "tr": "Rükûda üç kere.",
+      "en": "Three times in bowing."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "semiallahu",
+     "name": {
+      "tr": "Rükûdan kalkarken",
+      "en": "Rising from bowing"
+     },
+     "ar": "سَمِعَ اللّٰهُ لِمَنْ حَمِدَهُ ۝ رَبَّنَا وَلَكَ الْحَمْدُ",
+     "tr_transliteration": "Semi'allâhü limen hamideh. Rabbenâ ve leke'l-hamd.",
+     "tr_meaning": "Allah kendisine hamd edeni işitti. Rabbimiz, hamd yalnız Sanadır.",
+     "en_meaning": "Allah hears the one who praises Him. Our Lord, to You belongs all praise.",
+     "whenRead": {
+      "tr": "Rükûdan doğrulurken ve doğrulunca.",
+      "en": "While and after rising from bowing."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "secde-tesbihi",
+     "name": {
+      "tr": "Secde tesbihi",
+      "en": "Tasbih of prostration"
+     },
+     "ar": "سُبْحَانَ رَبِّيَ الْأَعْلٰى",
+     "tr_transliteration": "Sübhâne Rabbiye'l-a'lâ.",
+     "tr_meaning": "En yüce Rabbimi tenzih ederim.",
+     "en_meaning": "Glory be to my Lord, the Most High.",
+     "whenRead": {
+      "tr": "Her secdede üç kere.",
+      "en": "Three times in each prostration."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "selam",
+     "name": {
+      "tr": "Selam",
+      "en": "Salam"
+     },
+     "ar": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ",
+     "tr_transliteration": "Es-selâmü aleyküm ve rahmetüllâh.",
+     "tr_meaning": "Allah'ın selâmı ve rahmeti üzerinize olsun.",
+     "en_meaning": "Peace and the mercy of Allah be upon you.",
+     "whenRead": {
+      "tr": "Namazın sonunda önce sağa, sonra sola.",
+      "en": "At the end of prayer, first to the right, then to the left."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    },
+    {
+     "id": "allahumme-entesselam",
+     "name": {
+      "tr": "Allâhümme ente's-selâm",
+      "en": "Allahumma antas-salam"
+     },
+     "ar": "اَللّٰهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+     "tr_transliteration": "Allâhümme ente's-selâmü ve minke's-selâm, tebârekte yâ ze'l-celâli ve'l-ikrâm.",
+     "tr_meaning": "Allah'ım! Sen selâmsın, selâmet Sendendir. Ey celâl ve ikram sahibi, Sen ne yücesin!",
+     "en_meaning": "O Allah, You are Peace and from You comes peace; blessed are You, O Possessor of Majesty and Honour.",
+     "whenRead": {
+      "tr": "Selamdan hemen sonra okunur.",
+      "en": "Recited right after the salam."
+     },
+     "arabicSource": "editor",
+     "arabicVerified": false,
+     "sourceIds": [
+      "dib-ilmihal",
+      "kut"
+     ]
+    }
+   ]
+  }
+ ]
+}
