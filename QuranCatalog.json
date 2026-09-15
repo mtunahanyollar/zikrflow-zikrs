@@ -1,0 +1,1749 @@
+{
+ "version": 1,
+ "license": {
+  "audio": "mp3quran.net — recitations may be copied and redistributed with attribution; reciters retain their rights.",
+  "metadata": "Tanzil quran-data (CC BY 3.0)"
+ },
+ "reciters": [
+  {
+   "id": "afs",
+   "name": "Mishary Rashid Alafasy",
+   "nameTr": "Mişari Raşid el-Afâsî",
+   "urlTemplate": "https://server8.mp3quran.net/afs/{sss}.mp3",
+   "source": "mp3quran.net"
+  },
+  {
+   "id": "husr",
+   "name": "Mahmoud Khalil Al-Hussary",
+   "nameTr": "Mahmud Halil el-Husarî",
+   "urlTemplate": "https://server13.mp3quran.net/husr/{sss}.mp3",
+   "source": "mp3quran.net"
+  },
+  {
+   "id": "minsh",
+   "name": "Mohammed Siddiq Al-Minshawi",
+   "nameTr": "Muhammed Sıddîk el-Minşâvî",
+   "urlTemplate": "https://server10.mp3quran.net/minsh/{sss}.mp3",
+   "source": "mp3quran.net"
+  },
+  {
+   "id": "basit",
+   "name": "Abdulbasit Abdulsamad",
+   "nameTr": "Abdülbâsıt Abdüssamed",
+   "urlTemplate": "https://server7.mp3quran.net/basit/{sss}.mp3",
+   "source": "mp3quran.net"
+  }
+ ],
+ "chapters": [
+  {
+   "number": 1,
+   "nameAr": "الفاتحة",
+   "nameTr": "Fâtiha",
+   "nameEn": "Al-Faatiha",
+   "meaningEn": "The Opening",
+   "ayahs": 7,
+   "type": "meccan",
+   "sizes": {
+    "afs": 837734,
+    "husr": 935074,
+    "minsh": 840426,
+    "basit": 188417
+   }
+  },
+  {
+   "number": 2,
+   "nameAr": "البقرة",
+   "nameTr": "Bakara",
+   "nameEn": "Al-Baqara",
+   "meaningEn": "The Cow",
+   "ayahs": 286,
+   "type": "medinan",
+   "sizes": {
+    "afs": 120641555,
+    "husr": 191343486,
+    "minsh": 131473974,
+    "basit": 38764378
+   }
+  },
+  {
+   "number": 3,
+   "nameAr": "آل عمران",
+   "nameTr": "Âl-i İmrân",
+   "nameEn": "Aal-i-Imraan",
+   "meaningEn": "The Family of Imraan",
+   "ayahs": 200,
+   "type": "medinan",
+   "sizes": {
+    "afs": 74404818,
+    "husr": 110238502,
+    "minsh": 83325503,
+    "basit": 21076554
+   }
+  },
+  {
+   "number": 4,
+   "nameAr": "النساء",
+   "nameTr": "Nisâ",
+   "nameEn": "An-Nisaa",
+   "meaningEn": "The Women",
+   "ayahs": 176,
+   "type": "medinan",
+   "sizes": {
+    "afs": 76576952,
+    "husr": 110449989,
+    "minsh": 82724895,
+    "basit": 21132561
+   }
+  },
+  {
+   "number": 5,
+   "nameAr": "المائدة",
+   "nameTr": "Mâide",
+   "nameEn": "Al-Maaida",
+   "meaningEn": "The Table",
+   "ayahs": 120,
+   "type": "medinan",
+   "sizes": {
+    "afs": 60279889,
+    "husr": 88944322,
+    "minsh": 64577947,
+    "basit": 16260411
+   }
+  },
+  {
+   "number": 6,
+   "nameAr": "الأنعام",
+   "nameTr": "En'âm",
+   "nameEn": "Al-An'aam",
+   "meaningEn": "The Cattle",
+   "ayahs": 165,
+   "type": "meccan",
+   "sizes": {
+    "afs": 69373425,
+    "husr": 100446136,
+    "minsh": 64035432,
+    "basit": 19440453
+   }
+  },
+  {
+   "number": 7,
+   "nameAr": "الأعراف",
+   "nameTr": "A'râf",
+   "nameEn": "Al-A'raaf",
+   "meaningEn": "The Heights",
+   "ayahs": 206,
+   "type": "meccan",
+   "sizes": {
+    "afs": 79569122,
+    "husr": 103644778,
+    "minsh": 69929911,
+    "basit": 22812548
+   }
+  },
+  {
+   "number": 8,
+   "nameAr": "الأنفال",
+   "nameTr": "Enfâl",
+   "nameEn": "Al-Anfaal",
+   "meaningEn": "The Spoils of War",
+   "ayahs": 75,
+   "type": "medinan",
+   "sizes": {
+    "afs": 29181216,
+    "husr": 40040585,
+    "minsh": 28529382,
+    "basit": 6672427
+   }
+  },
+  {
+   "number": 9,
+   "nameAr": "التوبة",
+   "nameTr": "Tevbe",
+   "nameEn": "At-Tawba",
+   "meaningEn": "The Repentance",
+   "ayahs": 129,
+   "type": "medinan",
+   "sizes": {
+    "afs": 58000339,
+    "husr": 82992581,
+    "minsh": 51989420,
+    "basit": 13108371
+   }
+  },
+  {
+   "number": 10,
+   "nameAr": "يونس",
+   "nameTr": "Yûnus",
+   "nameEn": "Yunus",
+   "meaningEn": "Jonas",
+   "ayahs": 109,
+   "type": "meccan",
+   "sizes": {
+    "afs": 43054115,
+    "husr": 57096240,
+    "minsh": 41665833,
+    "basit": 9520401
+   }
+  },
+  {
+   "number": 11,
+   "nameAr": "هود",
+   "nameTr": "Hûd",
+   "nameEn": "Hud",
+   "meaningEn": "Hud",
+   "ayahs": 123,
+   "type": "meccan",
+   "sizes": {
+    "afs": 44350623,
+    "husr": 52869834,
+    "minsh": 46037684,
+    "basit": 9764489
+   }
+  },
+  {
+   "number": 12,
+   "nameAr": "يوسف",
+   "nameTr": "Yûsuf",
+   "nameEn": "Yusuf",
+   "meaningEn": "Joseph",
+   "ayahs": 111,
+   "type": "meccan",
+   "sizes": {
+    "afs": 40406761,
+    "husr": 54904462,
+    "minsh": 43226075,
+    "basit": 8824499
+   }
+  },
+  {
+   "number": 13,
+   "nameAr": "الرعد",
+   "nameTr": "Ra'd",
+   "nameEn": "Ar-Ra'd",
+   "meaningEn": "The Thunder",
+   "ayahs": 43,
+   "type": "medinan",
+   "sizes": {
+    "afs": 19471188,
+    "husr": 26161831,
+    "minsh": 18473700,
+    "basit": 4268326
+   }
+  },
+  {
+   "number": 14,
+   "nameAr": "ابراهيم",
+   "nameTr": "İbrâhim",
+   "nameEn": "Ibrahim",
+   "meaningEn": "Abraham",
+   "ayahs": 52,
+   "type": "meccan",
+   "sizes": {
+    "afs": 19643805,
+    "husr": 26516678,
+    "minsh": 17897334,
+    "basit": 4056420
+   }
+  },
+  {
+   "number": 15,
+   "nameAr": "الحجر",
+   "nameTr": "Hicr",
+   "nameEn": "Al-Hijr",
+   "meaningEn": "The Rock",
+   "ayahs": 99,
+   "type": "meccan",
+   "sizes": {
+    "afs": 15282819,
+    "husr": 21807114,
+    "minsh": 13727773,
+    "basit": 3340456
+   }
+  },
+  {
+   "number": 16,
+   "nameAr": "النحل",
+   "nameTr": "Nahl",
+   "nameEn": "An-Nahl",
+   "meaningEn": "The Bee",
+   "ayahs": 128,
+   "type": "meccan",
+   "sizes": {
+    "afs": 40468621,
+    "husr": 55998265,
+    "minsh": 35682751,
+    "basit": 9868352
+   }
+  },
+  {
+   "number": 17,
+   "nameAr": "الإسراء",
+   "nameTr": "İsrâ",
+   "nameEn": "Al-Israa",
+   "meaningEn": "The Night Journey",
+   "ayahs": 111,
+   "type": "meccan",
+   "sizes": {
+    "afs": 33825578,
+    "husr": 48360479,
+    "minsh": 30735368,
+    "basit": 8904329
+   }
+  },
+  {
+   "number": 18,
+   "nameAr": "الكهف",
+   "nameTr": "Kehf",
+   "nameEn": "Al-Kahf",
+   "meaningEn": "The Cave",
+   "ayahs": 110,
+   "type": "meccan",
+   "sizes": {
+    "afs": 31938492,
+    "husr": 45935480,
+    "minsh": 33646454,
+    "basit": 9328349
+   }
+  },
+  {
+   "number": 19,
+   "nameAr": "مريم",
+   "nameTr": "Meryem",
+   "nameEn": "Maryam",
+   "meaningEn": "Mary",
+   "ayahs": 98,
+   "type": "meccan",
+   "sizes": {
+    "afs": 20530713,
+    "husr": 23789492,
+    "minsh": 20252532,
+    "basit": 5632544
+   }
+  },
+  {
+   "number": 20,
+   "nameAr": "طه",
+   "nameTr": "Tâhâ",
+   "nameEn": "Taa-Haa",
+   "meaningEn": "Taa-Haa",
+   "ayahs": 135,
+   "type": "meccan",
+   "sizes": {
+    "afs": 26050700,
+    "husr": 36903378,
+    "minsh": 26035413,
+    "basit": 7656512
+   }
+  },
+  {
+   "number": 21,
+   "nameAr": "الأنبياء",
+   "nameTr": "Enbiyâ",
+   "nameEn": "Al-Anbiyaa",
+   "meaningEn": "The Prophets",
+   "ayahs": 112,
+   "type": "meccan",
+   "sizes": {
+    "afs": 25129522,
+    "husr": 35307165,
+    "minsh": 27530463,
+    "basit": 7324443
+   }
+  },
+  {
+   "number": 22,
+   "nameAr": "الحج",
+   "nameTr": "Hac",
+   "nameEn": "Al-Hajj",
+   "meaningEn": "The Pilgrimage",
+   "ayahs": 78,
+   "type": "medinan",
+   "sizes": {
+    "afs": 28365777,
+    "husr": 40564704,
+    "minsh": 26544492,
+    "basit": 7480342
+   }
+  },
+  {
+   "number": 23,
+   "nameAr": "المؤمنون",
+   "nameTr": "Mü'minûn",
+   "nameEn": "Al-Muminoon",
+   "meaningEn": "The Believers",
+   "ayahs": 118,
+   "type": "meccan",
+   "sizes": {
+    "afs": 23771156,
+    "husr": 34081329,
+    "minsh": 22634074,
+    "basit": 6152486
+   }
+  },
+  {
+   "number": 24,
+   "nameAr": "النور",
+   "nameTr": "Nûr",
+   "nameEn": "An-Noor",
+   "meaningEn": "The Light",
+   "ayahs": 64,
+   "type": "medinan",
+   "sizes": {
+    "afs": 29455396,
+    "husr": 42893153,
+    "minsh": 28033260,
+    "basit": 6624571
+   }
+  },
+  {
+   "number": 25,
+   "nameAr": "الفرقان",
+   "nameTr": "Furkān",
+   "nameEn": "Al-Furqaan",
+   "meaningEn": "The Criterion",
+   "ayahs": 77,
+   "type": "meccan",
+   "sizes": {
+    "afs": 17632169,
+    "husr": 28169711,
+    "minsh": 17313449,
+    "basit": 4060391
+   }
+  },
+  {
+   "number": 26,
+   "nameAr": "الشعراء",
+   "nameTr": "Şuarâ",
+   "nameEn": "Ash-Shu'araa",
+   "meaningEn": "The Poets",
+   "ayahs": 227,
+   "type": "meccan",
+   "sizes": {
+    "afs": 29327506,
+    "husr": 47661243,
+    "minsh": 25874513,
+    "basit": 7412424
+   }
+  },
+  {
+   "number": 27,
+   "nameAr": "النمل",
+   "nameTr": "Neml",
+   "nameEn": "An-Naml",
+   "meaningEn": "The Ant",
+   "ayahs": 93,
+   "type": "meccan",
+   "sizes": {
+    "afs": 25160030,
+    "husr": 41008159,
+    "minsh": 23499241,
+    "basit": 7484522
+   }
+  },
+  {
+   "number": 28,
+   "nameAr": "القصص",
+   "nameTr": "Kasas",
+   "nameEn": "Al-Qasas",
+   "meaningEn": "The Stories",
+   "ayahs": 88,
+   "type": "meccan",
+   "sizes": {
+    "afs": 30467277,
+    "husr": 50449859,
+    "minsh": 28401486,
+    "basit": 9000460
+   }
+  },
+  {
+   "number": 29,
+   "nameAr": "العنكبوت",
+   "nameTr": "Ankebût",
+   "nameEn": "Al-Ankaboot",
+   "meaningEn": "The Spider",
+   "ayahs": 69,
+   "type": "meccan",
+   "sizes": {
+    "afs": 20338457,
+    "husr": 32734665,
+    "minsh": 19915667,
+    "basit": 5952492
+   }
+  },
+  {
+   "number": 30,
+   "nameAr": "الروم",
+   "nameTr": "Rûm",
+   "nameEn": "Ar-Room",
+   "meaningEn": "The Romans",
+   "ayahs": 60,
+   "type": "meccan",
+   "sizes": {
+    "afs": 18743522,
+    "husr": 27651437,
+    "minsh": 16540639,
+    "basit": 4712407
+   }
+  },
+  {
+   "number": 31,
+   "nameAr": "لقمان",
+   "nameTr": "Lokmân",
+   "nameEn": "Luqman",
+   "meaningEn": "Luqman",
+   "ayahs": 34,
+   "type": "meccan",
+   "sizes": {
+    "afs": 11448042,
+    "husr": 18462183,
+    "minsh": 10147533,
+    "basit": 2464414
+   }
+  },
+  {
+   "number": 32,
+   "nameAr": "السجدة",
+   "nameTr": "Secde",
+   "nameEn": "As-Sajda",
+   "meaningEn": "The Prostration",
+   "ayahs": 30,
+   "type": "meccan",
+   "sizes": {
+    "afs": 8390675,
+    "husr": 13254837,
+    "minsh": 7180865,
+    "basit": 1796515
+   }
+  },
+  {
+   "number": 33,
+   "nameAr": "الأحزاب",
+   "nameTr": "Ahzâb",
+   "nameEn": "Al-Ahzaab",
+   "meaningEn": "The Clans",
+   "ayahs": 73,
+   "type": "medinan",
+   "sizes": {
+    "afs": 27887216,
+    "husr": 38910842,
+    "minsh": 26528193,
+    "basit": 6380482
+   }
+  },
+  {
+   "number": 34,
+   "nameAr": "سبإ",
+   "nameTr": "Sebe'",
+   "nameEn": "Saba",
+   "meaningEn": "Sheba",
+   "ayahs": 54,
+   "type": "meccan",
+   "sizes": {
+    "afs": 18291705,
+    "husr": 23646548,
+    "minsh": 17280840,
+    "basit": 4128518
+   }
+  },
+  {
+   "number": 35,
+   "nameAr": "فاطر",
+   "nameTr": "Fâtır",
+   "nameEn": "Faatir",
+   "meaningEn": "The Originator",
+   "ayahs": 45,
+   "type": "meccan",
+   "sizes": {
+    "afs": 16916201,
+    "husr": 22874160,
+    "minsh": 16005229,
+    "basit": 3888401
+   }
+  },
+  {
+   "number": 36,
+   "nameAr": "يس",
+   "nameTr": "Yâsîn",
+   "nameEn": "Yaseen",
+   "meaningEn": "Yaseen",
+   "ayahs": 83,
+   "type": "meccan",
+   "sizes": {
+    "afs": 16963851,
+    "husr": 22915958,
+    "minsh": 15251650,
+    "basit": 3488414
+   }
+  },
+  {
+   "number": 37,
+   "nameAr": "الصافات",
+   "nameTr": "Sâffât",
+   "nameEn": "As-Saaffaat",
+   "meaningEn": "Those drawn up in Ranks",
+   "ayahs": 182,
+   "type": "meccan",
+   "sizes": {
+    "afs": 23199804,
+    "husr": 33069864,
+    "minsh": 20070308,
+    "basit": 4568420
+   }
+  },
+  {
+   "number": 38,
+   "nameAr": "ص",
+   "nameTr": "Sâd",
+   "nameEn": "Saad",
+   "meaningEn": "The letter Saad",
+   "ayahs": 88,
+   "type": "meccan",
+   "sizes": {
+    "afs": 17121417,
+    "husr": 24343700,
+    "minsh": 15996030,
+    "basit": 3980352
+   }
+  },
+  {
+   "number": 39,
+   "nameAr": "الزمر",
+   "nameTr": "Zümer",
+   "nameEn": "Az-Zumar",
+   "meaningEn": "The Groups",
+   "ayahs": 75,
+   "type": "meccan",
+   "sizes": {
+    "afs": 26082467,
+    "husr": 37183834,
+    "minsh": 24110299,
+    "basit": 6864479
+   }
+  },
+  {
+   "number": 40,
+   "nameAr": "غافر",
+   "nameTr": "Mü'min",
+   "nameEn": "Al-Ghaafir",
+   "meaningEn": "The Forgiver",
+   "ayahs": 85,
+   "type": "meccan",
+   "sizes": {
+    "afs": 25088558,
+    "husr": 37586743,
+    "minsh": 23012735,
+    "basit": 6796352
+   }
+  },
+  {
+   "number": 41,
+   "nameAr": "فصلت",
+   "nameTr": "Fussilet",
+   "nameEn": "Fussilat",
+   "meaningEn": "Explained in detail",
+   "ayahs": 54,
+   "type": "meccan",
+   "sizes": {
+    "afs": 18572994,
+    "husr": 23868073,
+    "minsh": 15537539,
+    "basit": 4840512
+   }
+  },
+  {
+   "number": 42,
+   "nameAr": "الشورى",
+   "nameTr": "Şûrâ",
+   "nameEn": "Ash-Shura",
+   "meaningEn": "Consultation",
+   "ayahs": 53,
+   "type": "meccan",
+   "sizes": {
+    "afs": 18722625,
+    "husr": 27488855,
+    "minsh": 16217978,
+    "basit": 5184492
+   }
+  },
+  {
+   "number": 43,
+   "nameAr": "الزخرف",
+   "nameTr": "Zuhruf",
+   "nameEn": "Az-Zukhruf",
+   "meaningEn": "Ornaments of gold",
+   "ayahs": 89,
+   "type": "meccan",
+   "sizes": {
+    "afs": 19659690,
+    "husr": 30033393,
+    "minsh": 16391015,
+    "basit": 5312388
+   }
+  },
+  {
+   "number": 44,
+   "nameAr": "الدخان",
+   "nameTr": "Duhân",
+   "nameEn": "Ad-Dukhaan",
+   "meaningEn": "The Smoke",
+   "ayahs": 59,
+   "type": "meccan",
+   "sizes": {
+    "afs": 9232862,
+    "husr": 13466742,
+    "minsh": 6905430,
+    "basit": 2188352
+   }
+  },
+  {
+   "number": 45,
+   "nameAr": "الجاثية",
+   "nameTr": "Câsiye",
+   "nameEn": "Al-Jaathiya",
+   "meaningEn": "Crouching",
+   "ayahs": 37,
+   "type": "meccan",
+   "sizes": {
+    "afs": 10396461,
+    "husr": 17183655,
+    "minsh": 9323325,
+    "basit": 3028450
+   }
+  },
+  {
+   "number": 46,
+   "nameAr": "الأحقاف",
+   "nameTr": "Ahkāf",
+   "nameEn": "Al-Ahqaf",
+   "meaningEn": "The Dunes",
+   "ayahs": 35,
+   "type": "meccan",
+   "sizes": {
+    "afs": 15325452,
+    "husr": 18493536,
+    "minsh": 11563583,
+    "basit": 4060391
+   }
+  },
+  {
+   "number": 47,
+   "nameAr": "محمد",
+   "nameTr": "Muhammed",
+   "nameEn": "Muhammad",
+   "meaningEn": "Muhammad",
+   "ayahs": 38,
+   "type": "medinan",
+   "sizes": {
+    "afs": 11812505,
+    "husr": 17497121,
+    "minsh": 10336037,
+    "basit": 3380371
+   }
+  },
+  {
+   "number": 48,
+   "nameAr": "الفتح",
+   "nameTr": "Fetih",
+   "nameEn": "Al-Fath",
+   "meaningEn": "The Victory",
+   "ayahs": 29,
+   "type": "medinan",
+   "sizes": {
+    "afs": 11551697,
+    "husr": 16448041,
+    "minsh": 11577791,
+    "basit": 3224473
+   }
+  },
+  {
+   "number": 49,
+   "nameAr": "الحجرات",
+   "nameTr": "Hucurât",
+   "nameEn": "Al-Hujuraat",
+   "meaningEn": "The Inner Apartments",
+   "ayahs": 18,
+   "type": "medinan",
+   "sizes": {
+    "afs": 8023707,
+    "husr": 12482869,
+    "minsh": 7510218,
+    "basit": 2020332
+   }
+  },
+  {
+   "number": 50,
+   "nameAr": "ق",
+   "nameTr": "Kāf",
+   "nameEn": "Qaaf",
+   "meaningEn": "The letter Qaaf",
+   "ayahs": 45,
+   "type": "meccan",
+   "sizes": {
+    "afs": 8964526,
+    "husr": 12682221,
+    "minsh": 7139893,
+    "basit": 1984388
+   }
+  },
+  {
+   "number": 51,
+   "nameAr": "الذاريات",
+   "nameTr": "Zâriyât",
+   "nameEn": "Adh-Dhaariyat",
+   "meaningEn": "The Winnowing Winds",
+   "ayahs": 60,
+   "type": "meccan",
+   "sizes": {
+    "afs": 8721281,
+    "husr": 11025027,
+    "minsh": 7016191,
+    "basit": 2152407
+   }
+  },
+  {
+   "number": 52,
+   "nameAr": "الطور",
+   "nameTr": "Tûr",
+   "nameEn": "At-Tur",
+   "meaningEn": "The Mount",
+   "ayahs": 49,
+   "type": "meccan",
+   "sizes": {
+    "afs": 7771673,
+    "husr": 9592255,
+    "minsh": 6022263,
+    "basit": 1852522
+   }
+  },
+  {
+   "number": 53,
+   "nameAr": "النجم",
+   "nameTr": "Necm",
+   "nameEn": "An-Najm",
+   "meaningEn": "The Star",
+   "ayahs": 62,
+   "type": "meccan",
+   "sizes": {
+    "afs": 7389660,
+    "husr": 10999525,
+    "minsh": 10005641,
+    "basit": 2044365
+   }
+  },
+  {
+   "number": 54,
+   "nameAr": "القمر",
+   "nameTr": "Kamer",
+   "nameEn": "Al-Qamar",
+   "meaningEn": "The Moon",
+   "ayahs": 55,
+   "type": "meccan",
+   "sizes": {
+    "afs": 7729461,
+    "husr": 11738061,
+    "minsh": 7258591,
+    "basit": 2168499
+   }
+  },
+  {
+   "number": 55,
+   "nameAr": "الرحمن",
+   "nameTr": "Rahmân",
+   "nameEn": "Ar-Rahmaan",
+   "meaningEn": "The Beneficent",
+   "ayahs": 78,
+   "type": "medinan",
+   "sizes": {
+    "afs": 10872933,
+    "husr": 16500290,
+    "minsh": 8522920,
+    "basit": 2476326
+   }
+  },
+  {
+   "number": 56,
+   "nameAr": "الواقعة",
+   "nameTr": "Vâkıa",
+   "nameEn": "Al-Waaqia",
+   "meaningEn": "The Inevitable",
+   "ayahs": 96,
+   "type": "meccan",
+   "sizes": {
+    "afs": 11477721,
+    "husr": 15954855,
+    "minsh": 10043875,
+    "basit": 2484476
+   }
+  },
+  {
+   "number": 57,
+   "nameAr": "الحديد",
+   "nameTr": "Hadîd",
+   "nameEn": "Al-Hadid",
+   "meaningEn": "The Iron",
+   "ayahs": 29,
+   "type": "medinan",
+   "sizes": {
+    "afs": 12945592,
+    "husr": 17768794,
+    "minsh": 13671757,
+    "basit": 3212561
+   }
+  },
+  {
+   "number": 58,
+   "nameAr": "المجادلة",
+   "nameTr": "Mücâdele",
+   "nameEn": "Al-Mujaadila",
+   "meaningEn": "The Pleading Woman",
+   "ayahs": 22,
+   "type": "medinan",
+   "sizes": {
+    "afs": 9818843,
+    "husr": 16023823,
+    "minsh": 9535235,
+    "basit": 2712473
+   }
+  },
+  {
+   "number": 59,
+   "nameAr": "الحشر",
+   "nameTr": "Haşr",
+   "nameEn": "Al-Hashr",
+   "meaningEn": "The Exile",
+   "ayahs": 24,
+   "type": "medinan",
+   "sizes": {
+    "afs": 10031163,
+    "husr": 13495580,
+    "minsh": 9143599,
+    "basit": 2764509
+   }
+  },
+  {
+   "number": 60,
+   "nameAr": "الممتحنة",
+   "nameTr": "Mümtehine",
+   "nameEn": "Al-Mumtahana",
+   "meaningEn": "She that is to be examined",
+   "ayahs": 13,
+   "type": "medinan",
+   "sizes": {
+    "afs": 7230423,
+    "husr": 9720164,
+    "minsh": 7531958,
+    "basit": 2328368
+   }
+  },
+  {
+   "number": 61,
+   "nameAr": "الصف",
+   "nameTr": "Saf",
+   "nameEn": "As-Saff",
+   "meaningEn": "The Ranks",
+   "ayahs": 14,
+   "type": "medinan",
+   "sizes": {
+    "afs": 4690061,
+    "husr": 6787333,
+    "minsh": 4259744,
+    "basit": 1264453
+   }
+  },
+  {
+   "number": 62,
+   "nameAr": "الجمعة",
+   "nameTr": "Cum'a",
+   "nameEn": "Al-Jumu'a",
+   "meaningEn": "Friday",
+   "ayahs": 11,
+   "type": "medinan",
+   "sizes": {
+    "afs": 3424902,
+    "husr": 5278088,
+    "minsh": 3354868,
+    "basit": 1008453
+   }
+  },
+  {
+   "number": 63,
+   "nameAr": "المنافقون",
+   "nameTr": "Münâfikūn",
+   "nameEn": "Al-Munaafiqoon",
+   "meaningEn": "The Hypocrites",
+   "ayahs": 11,
+   "type": "medinan",
+   "sizes": {
+    "afs": 4139196,
+    "husr": 6271999,
+    "minsh": 3651205,
+    "basit": 1096433
+   }
+  },
+  {
+   "number": 64,
+   "nameAr": "التغابن",
+   "nameTr": "Teğâbün",
+   "nameEn": "At-Taghaabun",
+   "meaningEn": "Mutual Disillusion",
+   "ayahs": 18,
+   "type": "medinan",
+   "sizes": {
+    "afs": 5199557,
+    "husr": 8133169,
+    "minsh": 4587432,
+    "basit": 1412411
+   }
+  },
+  {
+   "number": 65,
+   "nameAr": "الطلاق",
+   "nameTr": "Talâk",
+   "nameEn": "At-Talaaq",
+   "meaningEn": "Divorce",
+   "ayahs": 12,
+   "type": "medinan",
+   "sizes": {
+    "afs": 5785115,
+    "husr": 8710783,
+    "minsh": 6005561,
+    "basit": 1724417
+   }
+  },
+  {
+   "number": 66,
+   "nameAr": "التحريم",
+   "nameTr": "Tahrîm",
+   "nameEn": "At-Tahrim",
+   "meaningEn": "The Prohibition",
+   "ayahs": 12,
+   "type": "medinan",
+   "sizes": {
+    "afs": 5728692,
+    "husr": 9289658,
+    "minsh": 5879758,
+    "basit": 1716476
+   }
+  },
+  {
+   "number": 67,
+   "nameAr": "الملك",
+   "nameTr": "Mülk",
+   "nameEn": "Al-Mulk",
+   "meaningEn": "The Sovereignty",
+   "ayahs": 30,
+   "type": "meccan",
+   "sizes": {
+    "afs": 7293947,
+    "husr": 10795979,
+    "minsh": 6673458,
+    "basit": 1976447
+   }
+  },
+  {
+   "number": 68,
+   "nameAr": "القلم",
+   "nameTr": "Kalem",
+   "nameEn": "Al-Qalam",
+   "meaningEn": "The Pen",
+   "ayahs": 52,
+   "type": "meccan",
+   "sizes": {
+    "afs": 7304397,
+    "husr": 10910084,
+    "minsh": 6851929,
+    "basit": 1868404
+   }
+  },
+  {
+   "number": 69,
+   "nameAr": "الحاقة",
+   "nameTr": "Hâkka",
+   "nameEn": "Al-Haaqqa",
+   "meaningEn": "The Reality",
+   "ayahs": 52,
+   "type": "meccan",
+   "sizes": {
+    "afs": 6501498,
+    "husr": 7698906,
+    "minsh": 6305240,
+    "basit": 1680531
+   }
+  },
+  {
+   "number": 70,
+   "nameAr": "المعارج",
+   "nameTr": "Meâric",
+   "nameEn": "Al-Ma'aarij",
+   "meaningEn": "The Ascending Stairways",
+   "ayahs": 44,
+   "type": "meccan",
+   "sizes": {
+    "afs": 5093813,
+    "husr": 6962464,
+    "minsh": 5293781,
+    "basit": 1404469
+   }
+  },
+  {
+   "number": 71,
+   "nameAr": "نوح",
+   "nameTr": "Nûh",
+   "nameEn": "Nooh",
+   "meaningEn": "Noah",
+   "ayahs": 28,
+   "type": "meccan",
+   "sizes": {
+    "afs": 4501977,
+    "husr": 6740097,
+    "minsh": 5323444,
+    "basit": 1424322
+   }
+  },
+  {
+   "number": 72,
+   "nameAr": "الجن",
+   "nameTr": "Cin",
+   "nameEn": "Al-Jinn",
+   "meaningEn": "The Jinn",
+   "ayahs": 28,
+   "type": "meccan",
+   "sizes": {
+    "afs": 5365483,
+    "husr": 8259385,
+    "minsh": 6033145,
+    "basit": 1660469
+   }
+  },
+  {
+   "number": 73,
+   "nameAr": "المزمل",
+   "nameTr": "Müzzemmil",
+   "nameEn": "Al-Muzzammil",
+   "meaningEn": "The Enshrouded One",
+   "ayahs": 20,
+   "type": "meccan",
+   "sizes": {
+    "afs": 3912244,
+    "husr": 6172525,
+    "minsh": 4355885,
+    "basit": 1192355
+   }
+  },
+  {
+   "number": 74,
+   "nameAr": "المدثر",
+   "nameTr": "Müddessir",
+   "nameEn": "Al-Muddaththir",
+   "meaningEn": "The Cloaked One",
+   "ayahs": 56,
+   "type": "meccan",
+   "sizes": {
+    "afs": 5197471,
+    "husr": 7125058,
+    "minsh": 6000140,
+    "basit": 1628496
+   }
+  },
+  {
+   "number": 75,
+   "nameAr": "القيامة",
+   "nameTr": "Kıyâme",
+   "nameEn": "Al-Qiyaama",
+   "meaningEn": "The Resurrection",
+   "ayahs": 40,
+   "type": "meccan",
+   "sizes": {
+    "afs": 3394391,
+    "husr": 4881863,
+    "minsh": 3773245,
+    "basit": 1012424
+   }
+  },
+  {
+   "number": 76,
+   "nameAr": "الانسان",
+   "nameTr": "İnsân",
+   "nameEn": "Al-Insaan",
+   "meaningEn": "Man",
+   "ayahs": 31,
+   "type": "medinan",
+   "sizes": {
+    "afs": 5046999,
+    "husr": 8429914,
+    "minsh": 6388412,
+    "basit": 1468417
+   }
+  },
+  {
+   "number": 77,
+   "nameAr": "المرسلات",
+   "nameTr": "Mürselât",
+   "nameEn": "Al-Mursalaat",
+   "meaningEn": "The Emissaries",
+   "ayahs": 50,
+   "type": "meccan",
+   "sizes": {
+    "afs": 4569693,
+    "husr": 7177297,
+    "minsh": 5058890,
+    "basit": 1148469
+   }
+  },
+  {
+   "number": 78,
+   "nameAr": "النبإ",
+   "nameTr": "Nebe'",
+   "nameEn": "An-Naba",
+   "meaningEn": "The Announcement",
+   "ayahs": 40,
+   "type": "meccan",
+   "sizes": {
+    "afs": 4682121,
+    "husr": 6496017,
+    "minsh": 5057630,
+    "basit": 1124437
+   }
+  },
+  {
+   "number": 79,
+   "nameAr": "النازعات",
+   "nameTr": "Nâziât",
+   "nameEn": "An-Naazi'aat",
+   "meaningEn": "Those who drag forth",
+   "ayahs": 46,
+   "type": "meccan",
+   "sizes": {
+    "afs": 4109937,
+    "husr": 6442940,
+    "minsh": 4757539,
+    "basit": 1040427
+   }
+  },
+  {
+   "number": 80,
+   "nameAr": "عبس",
+   "nameTr": "Abese",
+   "nameEn": "Abasa",
+   "meaningEn": "He frowned",
+   "ayahs": 42,
+   "type": "meccan",
+   "sizes": {
+    "afs": 3533567,
+    "husr": 4555429,
+    "minsh": 3789120,
+    "basit": 856316
+   }
+  },
+  {
+   "number": 81,
+   "nameAr": "التكوير",
+   "nameTr": "Tekvîr",
+   "nameEn": "At-Takwir",
+   "meaningEn": "The Overthrowing",
+   "ayahs": 29,
+   "type": "meccan",
+   "sizes": {
+    "afs": 2540081,
+    "husr": 3464143,
+    "minsh": 2649351,
+    "basit": 596345
+   }
+  },
+  {
+   "number": 82,
+   "nameAr": "الإنفطار",
+   "nameTr": "İnfitâr",
+   "nameEn": "Al-Infitaar",
+   "meaningEn": "The Cleaving",
+   "ayahs": 19,
+   "type": "meccan",
+   "sizes": {
+    "afs": 2195266,
+    "husr": 2907424,
+    "minsh": 2072152,
+    "basit": 472420
+   }
+  },
+  {
+   "number": 83,
+   "nameAr": "المطففين",
+   "nameTr": "Mutaffifîn",
+   "nameEn": "Al-Mutaffifin",
+   "meaningEn": "Defrauding",
+   "ayahs": 36,
+   "type": "meccan",
+   "sizes": {
+    "afs": 4971354,
+    "husr": 6541167,
+    "minsh": 4553999,
+    "basit": 1020365
+   }
+  },
+  {
+   "number": 84,
+   "nameAr": "الإنشقاق",
+   "nameTr": "İnşikāk",
+   "nameEn": "Al-Inshiqaaq",
+   "meaningEn": "The Splitting Open",
+   "ayahs": 25,
+   "type": "meccan",
+   "sizes": {
+    "afs": 2570176,
+    "husr": 3783468,
+    "minsh": 2853319,
+    "basit": 592375
+   }
+  },
+  {
+   "number": 85,
+   "nameAr": "البروج",
+   "nameTr": "Bürûc",
+   "nameEn": "Al-Burooj",
+   "meaningEn": "The Constellations",
+   "ayahs": 22,
+   "type": "meccan",
+   "sizes": {
+    "afs": 3177886,
+    "husr": 3890878,
+    "minsh": 2878809,
+    "basit": 580463
+   }
+  },
+  {
+   "number": 86,
+   "nameAr": "الطارق",
+   "nameTr": "Târık",
+   "nameEn": "At-Taariq",
+   "meaningEn": "The Morning Star",
+   "ayahs": 17,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1610539,
+    "husr": 2223638,
+    "minsh": 1689715,
+    "basit": 372319
+   }
+  },
+  {
+   "number": 87,
+   "nameAr": "الأعلى",
+   "nameTr": "A'lâ",
+   "nameEn": "Al-A'laa",
+   "meaningEn": "The Most High",
+   "ayahs": 19,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1731746,
+    "husr": 2623205,
+    "minsh": 1868181,
+    "basit": 420384
+   }
+  },
+  {
+   "number": 88,
+   "nameAr": "الغاشية",
+   "nameTr": "Gāşiye",
+   "nameEn": "Al-Ghaashiya",
+   "meaningEn": "The Overwhelming",
+   "ayahs": 26,
+   "type": "meccan",
+   "sizes": {
+    "afs": 2153472,
+    "husr": 3546487,
+    "minsh": 2417390,
+    "basit": 520486
+   }
+  },
+  {
+   "number": 89,
+   "nameAr": "الفجر",
+   "nameTr": "Fecr",
+   "nameEn": "Al-Fajr",
+   "meaningEn": "The Dawn",
+   "ayahs": 30,
+   "type": "meccan",
+   "sizes": {
+    "afs": 3414450,
+    "husr": 5219568,
+    "minsh": 3654121,
+    "basit": 772515
+   }
+  },
+  {
+   "number": 90,
+   "nameAr": "البلد",
+   "nameTr": "Beled",
+   "nameEn": "Al-Balad",
+   "meaningEn": "The City",
+   "ayahs": 20,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1927352,
+    "husr": 2947544,
+    "minsh": 2108092,
+    "basit": 456538
+   }
+  },
+  {
+   "number": 91,
+   "nameAr": "الشمس",
+   "nameTr": "Şems",
+   "nameEn": "Ash-Shams",
+   "meaningEn": "The Sun",
+   "ayahs": 15,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1357675,
+    "husr": 2048098,
+    "minsh": 1594840,
+    "basit": 340554
+   }
+  },
+  {
+   "number": 92,
+   "nameAr": "الليل",
+   "nameTr": "Leyl",
+   "nameEn": "Al-Lail",
+   "meaningEn": "The Night",
+   "ayahs": 21,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1792768,
+    "husr": 2687989,
+    "minsh": 2060443,
+    "basit": 452358
+   }
+  },
+  {
+   "number": 93,
+   "nameAr": "الضحى",
+   "nameTr": "Duhâ",
+   "nameEn": "Ad-Dhuhaa",
+   "meaningEn": "The Morning Hours",
+   "ayahs": 11,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1048801,
+    "husr": 1534422,
+    "minsh": 1127976,
+    "basit": 256336
+   }
+  },
+  {
+   "number": 94,
+   "nameAr": "الشرح",
+   "nameTr": "İnşirâh",
+   "nameEn": "Ash-Sharh",
+   "meaningEn": "The Consolation",
+   "ayahs": 8,
+   "type": "meccan",
+   "sizes": {
+    "afs": 695209,
+    "husr": 1034547,
+    "minsh": 720470,
+    "basit": 156443
+   }
+  },
+  {
+   "number": 95,
+   "nameAr": "التين",
+   "nameTr": "Tîn",
+   "nameEn": "At-Tin",
+   "meaningEn": "The Fig",
+   "ayahs": 8,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1045874,
+    "husr": 1372252,
+    "minsh": 912307,
+    "basit": 200329
+   }
+  },
+  {
+   "number": 96,
+   "nameAr": "العلق",
+   "nameTr": "Alak",
+   "nameEn": "Al-Alaq",
+   "meaningEn": "The Clot",
+   "ayahs": 19,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1529037,
+    "husr": 2526659,
+    "minsh": 1808415,
+    "basit": 408473
+   }
+  },
+  {
+   "number": 97,
+   "nameAr": "القدر",
+   "nameTr": "Kadir",
+   "nameEn": "Al-Qadr",
+   "meaningEn": "The Power, Fate",
+   "ayahs": 5,
+   "type": "meccan",
+   "sizes": {
+    "afs": 729480,
+    "husr": 1094729,
+    "minsh": 790683,
+    "basit": 164384
+   }
+  },
+  {
+   "number": 98,
+   "nameAr": "البينة",
+   "nameTr": "Beyyine",
+   "nameEn": "Al-Bayyina",
+   "meaningEn": "The Evidence",
+   "ayahs": 8,
+   "type": "medinan",
+   "sizes": {
+    "afs": 2030173,
+    "husr": 3031142,
+    "minsh": 2475902,
+    "basit": 496453
+   }
+  },
+  {
+   "number": 99,
+   "nameAr": "الزلزلة",
+   "nameTr": "Zilzâl",
+   "nameEn": "Az-Zalzala",
+   "meaningEn": "The Earthquake",
+   "ayahs": 8,
+   "type": "medinan",
+   "sizes": {
+    "afs": 966885,
+    "husr": 1454182,
+    "minsh": 1008865,
+    "basit": 220391
+   }
+  },
+  {
+   "number": 100,
+   "nameAr": "العاديات",
+   "nameTr": "Âdiyât",
+   "nameEn": "Al-Aadiyaat",
+   "meaningEn": "The Chargers",
+   "ayahs": 11,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1127380,
+    "husr": 1539861,
+    "minsh": 1070721,
+    "basit": 232512
+   }
+  },
+  {
+   "number": 101,
+   "nameAr": "القارعة",
+   "nameTr": "Kāria",
+   "nameEn": "Al-Qaari'a",
+   "meaningEn": "The Calamity",
+   "ayahs": 11,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1007844,
+    "husr": 1465882,
+    "minsh": 1022238,
+    "basit": 224362
+   }
+  },
+  {
+   "number": 102,
+   "nameAr": "التكاثر",
+   "nameTr": "Tekâsür",
+   "nameEn": "At-Takaathur",
+   "meaningEn": "Competition",
+   "ayahs": 8,
+   "type": "meccan",
+   "sizes": {
+    "afs": 1008681,
+    "husr": 1199644,
+    "minsh": 807409,
+    "basit": 184447
+   }
+  },
+  {
+   "number": 103,
+   "nameAr": "العصر",
+   "nameTr": "Asr",
+   "nameEn": "Al-Asr",
+   "meaningEn": "The Declining Day, Epoch",
+   "ayahs": 3,
+   "type": "meccan",
+   "sizes": {
+    "afs": 445686,
+    "husr": 660469,
+    "minsh": 447538,
+    "basit": 92496
+   }
+  },
+  {
+   "number": 104,
+   "nameAr": "الهمزة",
+   "nameTr": "Hümeze",
+   "nameEn": "Al-Humaza",
+   "meaningEn": "The Traducer",
+   "ayahs": 9,
+   "type": "meccan",
+   "sizes": {
+    "afs": 935537,
+    "husr": 1282816,
+    "minsh": 909807,
+    "basit": 204509
+   }
+  },
+  {
+   "number": 105,
+   "nameAr": "الفيل",
+   "nameTr": "Fîl",
+   "nameEn": "Al-Fil",
+   "meaningEn": "The Elephant",
+   "ayahs": 5,
+   "type": "meccan",
+   "sizes": {
+    "afs": 786321,
+    "husr": 954292,
+    "minsh": 615138,
+    "basit": 136381
+   }
+  },
+  {
+   "number": 106,
+   "nameAr": "قريش",
+   "nameTr": "Kureyş",
+   "nameEn": "Quraish",
+   "meaningEn": "Quraysh",
+   "ayahs": 4,
+   "type": "meccan",
+   "sizes": {
+    "afs": 687684,
+    "husr": 828907,
+    "minsh": 551192,
+    "basit": 120499
+   }
+  },
+  {
+   "number": 107,
+   "nameAr": "الماعون",
+   "nameTr": "Mâûn",
+   "nameEn": "Al-Maa'un",
+   "meaningEn": "Almsgiving",
+   "ayahs": 7,
+   "type": "meccan",
+   "sizes": {
+    "afs": 928012,
+    "husr": 1115629,
+    "minsh": 682851,
+    "basit": 156443
+   }
+  },
+  {
+   "number": 108,
+   "nameAr": "الكوثر",
+   "nameTr": "Kevser",
+   "nameEn": "Al-Kawthar",
+   "meaningEn": "Abundance",
+   "ayahs": 3,
+   "type": "meccan",
+   "sizes": {
+    "afs": 399295,
+    "husr": 546372,
+    "minsh": 350160,
+    "basit": 76404
+   }
+  },
+  {
+   "number": 109,
+   "nameAr": "الكافرون",
+   "nameTr": "Kâfirûn",
+   "nameEn": "Al-Kaafiroon",
+   "meaningEn": "The Disbelievers",
+   "ayahs": 6,
+   "type": "meccan",
+   "sizes": {
+    "afs": 875351,
+    "husr": 1067985,
+    "minsh": 742205,
+    "basit": 164384
+   }
+  },
+  {
+   "number": 110,
+   "nameAr": "النصر",
+   "nameTr": "Nasr",
+   "nameEn": "An-Nasr",
+   "meaningEn": "Divine Support",
+   "ayahs": 3,
+   "type": "medinan",
+   "sizes": {
+    "afs": 566058,
+    "husr": 809263,
+    "minsh": 541997,
+    "basit": 112349
+   }
+  },
+  {
+   "number": 111,
+   "nameAr": "المسد",
+   "nameTr": "Tebbet",
+   "nameEn": "Al-Masad",
+   "meaningEn": "The Palm Fibre",
+   "ayahs": 5,
+   "type": "meccan",
+   "sizes": {
+    "afs": 672221,
+    "husr": 894528,
+    "minsh": 587139,
+    "basit": 132411
+   }
+  },
+  {
+   "number": 112,
+   "nameAr": "الإخلاص",
+   "nameTr": "İhlâs",
+   "nameEn": "Al-Ikhlaas",
+   "meaningEn": "Sincerity",
+   "ayahs": 4,
+   "type": "meccan",
+   "sizes": {
+    "afs": 354155,
+    "husr": 581061,
+    "minsh": 311705,
+    "basit": 72433
+   }
+  },
+  {
+   "number": 113,
+   "nameAr": "الفلق",
+   "nameTr": "Felak",
+   "nameEn": "Al-Falaq",
+   "meaningEn": "The Dawn",
+   "ayahs": 5,
+   "type": "meccan",
+   "sizes": {
+    "afs": 535966,
+    "husr": 796726,
+    "minsh": 488500,
+    "basit": 116528
+   }
+  },
+  {
+   "number": 114,
+   "nameAr": "الناس",
+   "nameTr": "Nâs",
+   "nameEn": "An-Naas",
+   "meaningEn": "Mankind",
+   "ayahs": 6,
+   "type": "meccan",
+   "sizes": {
+    "afs": 807637,
+    "husr": 934230,
+    "minsh": 624333,
+    "basit": 140352
+   }
+  }
+ ]
+}
