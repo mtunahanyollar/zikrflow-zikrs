@@ -1,37 +1,42 @@
 {
- "version": 1,
+ "version": 2,
  "license": {
-  "audio": "mp3quran.net — recitations may be copied and redistributed with attribution; reciters retain their rights.",
-  "metadata": "Tanzil quran-data (CC BY 3.0)"
+  "audio": "Recitations from QuranicAudio.com / Quran.com (free for personal, non-commercial use; reciters retain their rights).",
+  "metadata": "Tanzil quran-data (CC BY 3.0)",
+  "timings": "Verse timestamps from the Quran.com API"
  },
  "reciters": [
   {
-   "id": "afs",
+   "id": "afasy",
    "name": "Mishary Rashid Alafasy",
    "nameTr": "Mişari Raşid el-Afâsî",
-   "urlTemplate": "https://server8.mp3quran.net/afs/{sss}.mp3",
-   "source": "mp3quran.net"
+   "urlTemplate": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/{n}.mp3",
+   "source": "quranicaudio.com",
+   "hasTimings": true
   },
   {
-   "id": "husr",
+   "id": "husary",
    "name": "Mahmoud Khalil Al-Hussary",
    "nameTr": "Mahmud Halil el-Husarî",
-   "urlTemplate": "https://server13.mp3quran.net/husr/{sss}.mp3",
-   "source": "mp3quran.net"
+   "urlTemplate": "https://download.quranicaudio.com/qdc/khalil_al_husary/murattal/{n}.mp3",
+   "source": "quranicaudio.com",
+   "hasTimings": true
   },
   {
-   "id": "minsh",
+   "id": "minshawi",
    "name": "Mohammed Siddiq Al-Minshawi",
    "nameTr": "Muhammed Sıddîk el-Minşâvî",
-   "urlTemplate": "https://server10.mp3quran.net/minsh/{sss}.mp3",
-   "source": "mp3quran.net"
+   "urlTemplate": "https://download.quranicaudio.com/qdc/siddiq_minshawi/murattal/{n}.mp3",
+   "source": "quranicaudio.com",
+   "hasTimings": true
   },
   {
-   "id": "basit",
-   "name": "Abdulbasit Abdulsamad",
+   "id": "abdulbaset",
+   "name": "Abdul Basit Abdul Samad",
    "nameTr": "Abdülbâsıt Abdüssamed",
-   "urlTemplate": "https://server7.mp3quran.net/basit/{sss}.mp3",
-   "source": "mp3quran.net"
+   "urlTemplate": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/{n}.mp3",
+   "source": "quranicaudio.com",
+   "hasTimings": true
   }
  ],
  "chapters": [
@@ -44,11 +49,15 @@
    "ayahs": 7,
    "type": "meccan",
    "sizes": {
-    "afs": 837734,
-    "husr": 935074,
-    "minsh": 840426,
-    "basit": 188417
-   }
+    "afasy": 793327,
+    "husary": 386026,
+    "minshawi": 703469,
+    "abdulbaset": 1003773
+   },
+   "startPage": 1,
+   "endPage": 1,
+   "startJuz": 1,
+   "endJuz": 1
   },
   {
    "number": 2,
@@ -59,11 +68,15 @@
    "ayahs": 286,
    "type": "medinan",
    "sizes": {
-    "afs": 120641555,
-    "husr": 191343486,
-    "minsh": 131473974,
-    "basit": 38764378
-   }
+    "afasy": 116226409,
+    "husary": 95778386,
+    "minshawi": 131506891,
+    "abdulbaset": 137079340
+   },
+   "startPage": 2,
+   "endPage": 49,
+   "startJuz": 1,
+   "endJuz": 3
   },
   {
    "number": 3,
@@ -74,11 +87,15 @@
    "ayahs": 200,
    "type": "medinan",
    "sizes": {
-    "afs": 74404818,
-    "husr": 110238502,
-    "minsh": 83325503,
-    "basit": 21076554
-   }
+    "afasy": 76668294,
+    "husary": 55183932,
+    "minshawi": 83106630,
+    "abdulbaset": 126316296
+   },
+   "startPage": 50,
+   "endPage": 76,
+   "startJuz": 3,
+   "endJuz": 4
   },
   {
    "number": 4,
@@ -89,11 +106,15 @@
    "ayahs": 176,
    "type": "medinan",
    "sizes": {
-    "afs": 76576952,
-    "husr": 110449989,
-    "minsh": 82724895,
-    "basit": 21132561
-   }
+    "afasy": 76307607,
+    "husary": 55253743,
+    "minshawi": 83934604,
+    "abdulbaset": 126684147
+   },
+   "startPage": 77,
+   "endPage": 106,
+   "startJuz": 4,
+   "endJuz": 6
   },
   {
    "number": 5,
@@ -104,11 +125,15 @@
    "ayahs": 120,
    "type": "medinan",
    "sizes": {
-    "afs": 60279889,
-    "husr": 88944322,
-    "minsh": 64577947,
-    "basit": 16260411
-   }
+    "afasy": 60115473,
+    "husary": 44468750,
+    "minshawi": 64360323,
+    "abdulbaset": 97441320
+   },
+   "startPage": 106,
+   "endPage": 127,
+   "startJuz": 6,
+   "endJuz": 7
   },
   {
    "number": 6,
@@ -119,11 +144,15 @@
    "ayahs": 165,
    "type": "meccan",
    "sizes": {
-    "afs": 69373425,
-    "husr": 100446136,
-    "minsh": 64035432,
-    "basit": 19440453
-   }
+    "afasy": 69403345,
+    "husary": 50929547,
+    "minshawi": 63731708,
+    "abdulbaset": 116516559
+   },
+   "startPage": 128,
+   "endPage": 150,
+   "startJuz": 7,
+   "endJuz": 8
   },
   {
    "number": 7,
@@ -134,11 +163,15 @@
    "ayahs": 206,
    "type": "meccan",
    "sizes": {
-    "afs": 79569122,
-    "husr": 103644778,
-    "minsh": 69929911,
-    "basit": 22812548
-   }
+    "afasy": 76685848,
+    "husary": 51870142,
+    "minshawi": 69790035,
+    "abdulbaset": 136759840
+   },
+   "startPage": 151,
+   "endPage": 176,
+   "startJuz": 8,
+   "endJuz": 9
   },
   {
    "number": 8,
@@ -149,11 +182,15 @@
    "ayahs": 75,
    "type": "medinan",
    "sizes": {
-    "afs": 29181216,
-    "husr": 40040585,
-    "minsh": 28529382,
-    "basit": 6672427
-   }
+    "afasy": 29137616,
+    "husary": 19965291,
+    "minshawi": 28465156,
+    "abdulbaset": 39807520
+   },
+   "startPage": 177,
+   "endPage": 186,
+   "startJuz": 9,
+   "endJuz": 10
   },
   {
    "number": 9,
@@ -164,11 +201,15 @@
    "ayahs": 129,
    "type": "medinan",
    "sizes": {
-    "afs": 58000339,
-    "husr": 82992581,
-    "minsh": 51989420,
-    "basit": 13108371
-   }
+    "afasy": 57993909,
+    "husary": 41509599,
+    "minshawi": 51807336,
+    "abdulbaset": 78524396
+   },
+   "startPage": 187,
+   "endPage": 207,
+   "startJuz": 10,
+   "endJuz": 11
   },
   {
    "number": 10,
@@ -179,11 +220,15 @@
    "ayahs": 109,
    "type": "meccan",
    "sizes": {
-    "afs": 43054115,
-    "husr": 57096240,
-    "minsh": 41665833,
-    "basit": 9520401
-   }
+    "afasy": 43023875,
+    "husary": 28471791,
+    "minshawi": 41586570,
+    "abdulbaset": 56991914
+   },
+   "startPage": 208,
+   "endPage": 221,
+   "startJuz": 11,
+   "endJuz": 11
   },
   {
    "number": 11,
@@ -194,11 +239,15 @@
    "ayahs": 123,
    "type": "meccan",
    "sizes": {
-    "afs": 44350623,
-    "husr": 52869834,
-    "minsh": 46037684,
-    "basit": 9764489
-   }
+    "afasy": 44335010,
+    "husary": 26362553,
+    "minshawi": 45930835,
+    "abdulbaset": 58333562
+   },
+   "startPage": 221,
+   "endPage": 235,
+   "startJuz": 11,
+   "endJuz": 12
   },
   {
    "number": 12,
@@ -209,11 +258,15 @@
    "ayahs": 111,
    "type": "meccan",
    "sizes": {
-    "afs": 40406761,
-    "husr": 54904462,
-    "minsh": 43226075,
-    "basit": 8824499
-   }
+    "afasy": 40255734,
+    "husary": 27387808,
+    "minshawi": 43197380,
+    "abdulbaset": 52831546
+   },
+   "startPage": 235,
+   "endPage": 248,
+   "startJuz": 12,
+   "endJuz": 13
   },
   {
    "number": 13,
@@ -224,11 +277,15 @@
    "ayahs": 43,
    "type": "medinan",
    "sizes": {
-    "afs": 19471188,
-    "husr": 26161831,
-    "minsh": 18473700,
-    "basit": 4268326
-   }
+    "afasy": 19405036,
+    "husary": 12958639,
+    "minshawi": 24721904,
+    "abdulbaset": 25488240
+   },
+   "startPage": 249,
+   "endPage": 255,
+   "startJuz": 13,
+   "endJuz": 13
   },
   {
    "number": 14,
@@ -239,11 +296,15 @@
    "ayahs": 52,
    "type": "meccan",
    "sizes": {
-    "afs": 19643805,
-    "husr": 26516678,
-    "minsh": 17897334,
-    "basit": 4056420
-   }
+    "afasy": 9709392,
+    "husary": 13210872,
+    "minshawi": 17768747,
+    "abdulbaset": 24241886
+   },
+   "startPage": 255,
+   "endPage": 261,
+   "startJuz": 13,
+   "endJuz": 13
   },
   {
    "number": 15,
@@ -254,11 +315,15 @@
    "ayahs": 99,
    "type": "meccan",
    "sizes": {
-    "afs": 15282819,
-    "husr": 21807114,
-    "minsh": 13727773,
-    "basit": 3340456
-   }
+    "afasy": 15271395,
+    "husary": 10813854,
+    "minshawi": 13707434,
+    "abdulbaset": 19932936
+   },
+   "startPage": 262,
+   "endPage": 267,
+   "startJuz": 14,
+   "endJuz": 14
   },
   {
    "number": 16,
@@ -269,11 +334,15 @@
    "ayahs": 128,
    "type": "meccan",
    "sizes": {
-    "afs": 40468621,
-    "husr": 55998265,
-    "minsh": 35682751,
-    "basit": 9868352
-   }
+    "afasy": 40482674,
+    "husary": 27982346,
+    "minshawi": 35598459,
+    "abdulbaset": 58974650
+   },
+   "startPage": 267,
+   "endPage": 281,
+   "startJuz": 14,
+   "endJuz": 14
   },
   {
    "number": 17,
@@ -284,11 +353,15 @@
    "ayahs": 111,
    "type": "meccan",
    "sizes": {
-    "afs": 33825578,
-    "husr": 48360479,
-    "minsh": 30735368,
-    "basit": 8904329
-   }
+    "afasy": 31802511,
+    "husary": 24160336,
+    "minshawi": 30710848,
+    "abdulbaset": 53289785
+   },
+   "startPage": 282,
+   "endPage": 293,
+   "startJuz": 15,
+   "endJuz": 15
   },
   {
    "number": 18,
@@ -299,11 +372,15 @@
    "ayahs": 110,
    "type": "meccan",
    "sizes": {
-    "afs": 31938492,
-    "husr": 45935480,
-    "minsh": 33646454,
-    "basit": 9328349
-   }
+    "afasy": 31936670,
+    "husary": 22890777,
+    "minshawi": 33545445,
+    "abdulbaset": 55849631
+   },
+   "startPage": 293,
+   "endPage": 304,
+   "startJuz": 15,
+   "endJuz": 16
   },
   {
    "number": 19,
@@ -314,11 +391,15 @@
    "ayahs": 98,
    "type": "meccan",
    "sizes": {
-    "afs": 20530713,
-    "husr": 23789492,
-    "minsh": 20252532,
-    "basit": 5632544
-   }
+    "afasy": 20360877,
+    "husary": 11871919,
+    "minshawi": 20217565,
+    "abdulbaset": 33680449
+   },
+   "startPage": 305,
+   "endPage": 312,
+   "startJuz": 16,
+   "endJuz": 16
   },
   {
    "number": 20,
@@ -329,11 +410,15 @@
    "ayahs": 135,
    "type": "meccan",
    "sizes": {
-    "afs": 26050700,
-    "husr": 36903378,
-    "minsh": 26035413,
-    "basit": 7656512
-   }
+    "afasy": 26032157,
+    "husary": 18415676,
+    "minshawi": 26039736,
+    "abdulbaset": 45736480
+   },
+   "startPage": 312,
+   "endPage": 321,
+   "startJuz": 16,
+   "endJuz": 16
   },
   {
    "number": 21,
@@ -344,11 +429,15 @@
    "ayahs": 112,
    "type": "meccan",
    "sizes": {
-    "afs": 25129522,
-    "husr": 35307165,
-    "minsh": 27530463,
-    "basit": 7324443
-   }
+    "afasy": 25109309,
+    "husary": 17832636,
+    "minshawi": 27441574,
+    "abdulbaset": 43831789
+   },
+   "startPage": 322,
+   "endPage": 331,
+   "startJuz": 17,
+   "endJuz": 17
   },
   {
    "number": 22,
@@ -359,11 +448,15 @@
    "ayahs": 78,
    "type": "medinan",
    "sizes": {
-    "afs": 28365777,
-    "husr": 40564704,
-    "minsh": 26544492,
-    "basit": 7480342
-   }
+    "afasy": 28261147,
+    "husary": 20212931,
+    "minshawi": 26489461,
+    "abdulbaset": 44747172
+   },
+   "startPage": 332,
+   "endPage": 341,
+   "startJuz": 17,
+   "endJuz": 17
   },
   {
    "number": 23,
@@ -374,11 +467,15 @@
    "ayahs": 118,
    "type": "meccan",
    "sizes": {
-    "afs": 23771156,
-    "husr": 34081329,
-    "minsh": 22634074,
-    "basit": 6152486
-   }
+    "afasy": 23783955,
+    "husary": 17003616,
+    "minshawi": 22551868,
+    "abdulbaset": 36782486
+   },
+   "startPage": 342,
+   "endPage": 349,
+   "startJuz": 18,
+   "endJuz": 18
   },
   {
    "number": 24,
@@ -389,11 +486,15 @@
    "ayahs": 64,
    "type": "medinan",
    "sizes": {
-    "afs": 29455396,
-    "husr": 42893153,
-    "minsh": 28033260,
-    "basit": 6624571
-   }
+    "afasy": 31331902,
+    "husary": 21385525,
+    "minshawi": 27898401,
+    "abdulbaset": 39624392
+   },
+   "startPage": 350,
+   "endPage": 359,
+   "startJuz": 18,
+   "endJuz": 18
   },
   {
    "number": 25,
@@ -404,11 +505,15 @@
    "ayahs": 77,
    "type": "meccan",
    "sizes": {
-    "afs": 17632169,
-    "husr": 28169711,
-    "minsh": 17313449,
-    "basit": 4060391
-   }
+    "afasy": 18831575,
+    "husary": 14032987,
+    "minshawi": 17234593,
+    "abdulbaset": 24167853
+   },
+   "startPage": 359,
+   "endPage": 366,
+   "startJuz": 18,
+   "endJuz": 19
   },
   {
    "number": 26,
@@ -419,11 +524,15 @@
    "ayahs": 227,
    "type": "meccan",
    "sizes": {
-    "afs": 29327506,
-    "husr": 47661243,
-    "minsh": 25874513,
-    "basit": 7412424
-   }
+    "afasy": 31467664,
+    "husary": 24174273,
+    "minshawi": 25890104,
+    "abdulbaset": 44365366
+   },
+   "startPage": 367,
+   "endPage": 376,
+   "startJuz": 19,
+   "endJuz": 19
   },
   {
    "number": 27,
@@ -434,11 +543,15 @@
    "ayahs": 93,
    "type": "meccan",
    "sizes": {
-    "afs": 25160030,
-    "husr": 41008159,
-    "minsh": 23499241,
-    "basit": 7484522
-   }
+    "afasy": 26751897,
+    "husary": 20462027,
+    "minshawi": 23437100,
+    "abdulbaset": 44777837
+   },
+   "startPage": 377,
+   "endPage": 385,
+   "startJuz": 19,
+   "endJuz": 20
   },
   {
    "number": 28,
@@ -449,11 +562,15 @@
    "ayahs": 88,
    "type": "meccan",
    "sizes": {
-    "afs": 30467277,
-    "husr": 50449859,
-    "minsh": 28401486,
-    "basit": 9000460
-   }
+    "afasy": 32527257,
+    "husary": 25103465,
+    "minshawi": 28394516,
+    "abdulbaset": 53869131
+   },
+   "startPage": 385,
+   "endPage": 396,
+   "startJuz": 20,
+   "endJuz": 20
   },
   {
    "number": 29,
@@ -464,11 +581,15 @@
    "ayahs": 69,
    "type": "meccan",
    "sizes": {
-    "afs": 20338457,
-    "husr": 32734665,
-    "minsh": 19915667,
-    "basit": 5952492
-   }
+    "afasy": 21717587,
+    "husary": 16302298,
+    "minshawi": 19789575,
+    "abdulbaset": 35586970
+   },
+   "startPage": 396,
+   "endPage": 404,
+   "startJuz": 20,
+   "endJuz": 21
   },
   {
    "number": 30,
@@ -479,11 +600,15 @@
    "ayahs": 60,
    "type": "meccan",
    "sizes": {
-    "afs": 18743522,
-    "husr": 27651437,
-    "minsh": 16540639,
-    "basit": 4712407
-   }
+    "afasy": 18561583,
+    "husary": 13765292,
+    "minshawi": 16473904,
+    "abdulbaset": 28027914
+   },
+   "startPage": 404,
+   "endPage": 410,
+   "startJuz": 21,
+   "endJuz": 21
   },
   {
    "number": 31,
@@ -494,11 +619,15 @@
    "ayahs": 34,
    "type": "meccan",
    "sizes": {
-    "afs": 11448042,
-    "husr": 18462183,
-    "minsh": 10147533,
-    "basit": 2464414
-   }
+    "afasy": 10438978,
+    "husary": 8971939,
+    "minshawi": 10095012,
+    "abdulbaset": 14681696
+   },
+   "startPage": 411,
+   "endPage": 414,
+   "startJuz": 21,
+   "endJuz": 21
   },
   {
    "number": 32,
@@ -509,11 +638,15 @@
    "ayahs": 30,
    "type": "meccan",
    "sizes": {
-    "afs": 8390675,
-    "husr": 13254837,
-    "minsh": 7180865,
-    "basit": 1796515
-   }
+    "afasy": 7624859,
+    "husary": 6555926,
+    "minshawi": 7130426,
+    "abdulbaset": 10677438
+   },
+   "startPage": 415,
+   "endPage": 417,
+   "startJuz": 21,
+   "endJuz": 21
   },
   {
    "number": 33,
@@ -524,11 +657,15 @@
    "ayahs": 73,
    "type": "medinan",
    "sizes": {
-    "afs": 27887216,
-    "husr": 38910842,
-    "minsh": 26528193,
-    "basit": 6380482
-   }
+    "afasy": 25530211,
+    "husary": 19425498,
+    "minshawi": 26414228,
+    "abdulbaset": 38155538
+   },
+   "startPage": 418,
+   "endPage": 427,
+   "startJuz": 21,
+   "endJuz": 22
   },
   {
    "number": 34,
@@ -539,11 +676,15 @@
    "ayahs": 54,
    "type": "meccan",
    "sizes": {
-    "afs": 18291705,
-    "husr": 23646548,
-    "minsh": 17280840,
-    "basit": 4128518
-   }
+    "afasy": 16629780,
+    "husary": 11768699,
+    "minshawi": 17202826,
+    "abdulbaset": 24544071
+   },
+   "startPage": 428,
+   "endPage": 434,
+   "startJuz": 22,
+   "endJuz": 22
   },
   {
    "number": 35,
@@ -554,11 +695,15 @@
    "ayahs": 45,
    "type": "meccan",
    "sizes": {
-    "afs": 16916201,
-    "husr": 22874160,
-    "minsh": 16005229,
-    "basit": 3888401
-   }
+    "afasy": 15448215,
+    "husary": 11353049,
+    "minshawi": 15962737,
+    "abdulbaset": 23216214
+   },
+   "startPage": 434,
+   "endPage": 440,
+   "startJuz": 22,
+   "endJuz": 22
   },
   {
    "number": 36,
@@ -569,11 +714,15 @@
    "ayahs": 83,
    "type": "meccan",
    "sizes": {
-    "afs": 16963851,
-    "husr": 22915958,
-    "minsh": 15251650,
-    "basit": 3488414
-   }
+    "afasy": 16902690,
+    "husary": 11421989,
+    "minshawi": 15237579,
+    "abdulbaset": 20820681
+   },
+   "startPage": 440,
+   "endPage": 445,
+   "startJuz": 22,
+   "endJuz": 23
   },
   {
    "number": 37,
@@ -584,11 +733,15 @@
    "ayahs": 182,
    "type": "meccan",
    "sizes": {
-    "afs": 23199804,
-    "husr": 33069864,
-    "minsh": 20070308,
-    "basit": 4568420
-   }
+    "afasy": 11618643,
+    "husary": 16520001,
+    "minshawi": 20039936,
+    "abdulbaset": 27286301
+   },
+   "startPage": 446,
+   "endPage": 452,
+   "startJuz": 23,
+   "endJuz": 23
   },
   {
    "number": 38,
@@ -599,11 +752,15 @@
    "ayahs": 88,
    "type": "meccan",
    "sizes": {
-    "afs": 17121417,
-    "husr": 24343700,
-    "minsh": 15996030,
-    "basit": 3980352
-   }
+    "afasy": 16944064,
+    "husary": 12113501,
+    "minshawi": 15946022,
+    "abdulbaset": 23666355
+   },
+   "startPage": 453,
+   "endPage": 458,
+   "startJuz": 23,
+   "endJuz": 23
   },
   {
    "number": 39,
@@ -614,11 +771,15 @@
    "ayahs": 75,
    "type": "meccan",
    "sizes": {
-    "afs": 26082467,
-    "husr": 37183834,
-    "minsh": 24110299,
-    "basit": 6864479
-   }
+    "afasy": 26045970,
+    "husary": 18537541,
+    "minshawi": 24092881,
+    "abdulbaset": 41068923
+   },
+   "startPage": 458,
+   "endPage": 467,
+   "startJuz": 23,
+   "endJuz": 24
   },
   {
    "number": 40,
@@ -629,11 +790,15 @@
    "ayahs": 85,
    "type": "meccan",
    "sizes": {
-    "afs": 25088558,
-    "husr": 37586743,
-    "minsh": 23012735,
-    "basit": 6796352
-   }
+    "afasy": 25064177,
+    "husary": 18733143,
+    "minshawi": 22918833,
+    "abdulbaset": 40655425
+   },
+   "startPage": 467,
+   "endPage": 476,
+   "startJuz": 24,
+   "endJuz": 24
   },
   {
    "number": 41,
@@ -644,11 +809,15 @@
    "ayahs": 54,
    "type": "meccan",
    "sizes": {
-    "afs": 18572994,
-    "husr": 23868073,
-    "minsh": 15537539,
-    "basit": 4840512
-   }
+    "afasy": 18373502,
+    "husary": 11872983,
+    "minshawi": 15463273,
+    "abdulbaset": 28812269
+   },
+   "startPage": 477,
+   "endPage": 482,
+   "startJuz": 24,
+   "endJuz": 25
   },
   {
    "number": 42,
@@ -659,11 +828,15 @@
    "ayahs": 53,
    "type": "meccan",
    "sizes": {
-    "afs": 18722625,
-    "husr": 27488855,
-    "minsh": 16217978,
-    "basit": 5184492
-   }
+    "afasy": 18630133,
+    "husary": 13671046,
+    "minshawi": 16184257,
+    "abdulbaset": 30980851
+   },
+   "startPage": 483,
+   "endPage": 489,
+   "startJuz": 25,
+   "endJuz": 25
   },
   {
    "number": 43,
@@ -674,11 +847,15 @@
    "ayahs": 89,
    "type": "meccan",
    "sizes": {
-    "afs": 19659690,
-    "husr": 30033393,
-    "minsh": 16391015,
-    "basit": 5312388
-   }
+    "afasy": 19612318,
+    "husary": 14965027,
+    "minshawi": 16390734,
+    "abdulbaset": 31751985
+   },
+   "startPage": 489,
+   "endPage": 495,
+   "startJuz": 25,
+   "endJuz": 25
   },
   {
    "number": 44,
@@ -689,11 +866,15 @@
    "ayahs": 59,
    "type": "meccan",
    "sizes": {
-    "afs": 9232862,
-    "husr": 13466742,
-    "minsh": 6905430,
-    "basit": 2188352
-   }
+    "afasy": 9171712,
+    "husary": 6658942,
+    "minshawi": 6854994,
+    "abdulbaset": 13024015
+   },
+   "startPage": 496,
+   "endPage": 498,
+   "startJuz": 25,
+   "endJuz": 25
   },
   {
    "number": 45,
@@ -704,11 +885,15 @@
    "ayahs": 37,
    "type": "meccan",
    "sizes": {
-    "afs": 10396461,
-    "husr": 17183655,
-    "minsh": 9323325,
-    "basit": 3028450
-   }
+    "afasy": 10206171,
+    "husary": 8492332,
+    "minshawi": 9181351,
+    "abdulbaset": 17934254
+   },
+   "startPage": 499,
+   "endPage": 502,
+   "startJuz": 25,
+   "endJuz": 25
   },
   {
    "number": 46,
@@ -719,11 +904,15 @@
    "ayahs": 35,
    "type": "meccan",
    "sizes": {
-    "afs": 15325452,
-    "husr": 18493536,
-    "minsh": 11563583,
-    "basit": 4060391
-   }
+    "afasy": 15217920,
+    "husary": 9185514,
+    "minshawi": 11487236,
+    "abdulbaset": 24236242
+   },
+   "startPage": 502,
+   "endPage": 506,
+   "startJuz": 26,
+   "endJuz": 26
   },
   {
    "number": 47,
@@ -734,11 +923,15 @@
    "ayahs": 38,
    "type": "medinan",
    "sizes": {
-    "afs": 11812505,
-    "husr": 17497121,
-    "minsh": 10336037,
-    "basit": 3380371
-   }
+    "afasy": 11715839,
+    "husary": 8650736,
+    "minshawi": 10291871,
+    "abdulbaset": 20164902
+   },
+   "startPage": 507,
+   "endPage": 510,
+   "startJuz": 26,
+   "endJuz": 26
   },
   {
    "number": 48,
@@ -749,11 +942,15 @@
    "ayahs": 29,
    "type": "medinan",
    "sizes": {
-    "afs": 11551697,
-    "husr": 16448041,
-    "minsh": 11577791,
-    "basit": 3224473
-   }
+    "afasy": 11470921,
+    "husary": 8130174,
+    "minshawi": 11521090,
+    "abdulbaset": 19234526
+   },
+   "startPage": 511,
+   "endPage": 515,
+   "startJuz": 26,
+   "endJuz": 26
   },
   {
    "number": 49,
@@ -764,11 +961,15 @@
    "ayahs": 18,
    "type": "medinan",
    "sizes": {
-    "afs": 8023707,
-    "husr": 12482869,
-    "minsh": 7510218,
-    "basit": 2020332
-   }
+    "afasy": 7933735,
+    "husary": 6125435,
+    "minshawi": 7446405,
+    "abdulbaset": 12004041
+   },
+   "startPage": 515,
+   "endPage": 517,
+   "startJuz": 26,
+   "endJuz": 26
   },
   {
    "number": 50,
@@ -779,11 +980,15 @@
    "ayahs": 45,
    "type": "meccan",
    "sizes": {
-    "afs": 8964526,
-    "husr": 12682221,
-    "minsh": 7139893,
-    "basit": 1984388
-   }
+    "afasy": 8941423,
+    "husary": 6236180,
+    "minshawi": 7009218,
+    "abdulbaset": 11771447
+   },
+   "startPage": 518,
+   "endPage": 520,
+   "startJuz": 26,
+   "endJuz": 26
   },
   {
    "number": 51,
@@ -794,11 +999,15 @@
    "ayahs": 60,
    "type": "meccan",
    "sizes": {
-    "afs": 8721281,
-    "husr": 11025027,
-    "minsh": 7016191,
-    "basit": 2152407
-   }
+    "afasy": 8806415,
+    "husary": 5466290,
+    "minshawi": 6938167,
+    "abdulbaset": 12693673
+   },
+   "startPage": 520,
+   "endPage": 523,
+   "startJuz": 26,
+   "endJuz": 27
   },
   {
    "number": 52,
@@ -809,11 +1018,15 @@
    "ayahs": 49,
    "type": "meccan",
    "sizes": {
-    "afs": 7771673,
-    "husr": 9592255,
-    "minsh": 6022263,
-    "basit": 1852522
-   }
+    "afasy": 7851383,
+    "husary": 2397248,
+    "minshawi": 5973100,
+    "abdulbaset": 10993416
+   },
+   "startPage": 523,
+   "endPage": 525,
+   "startJuz": 27,
+   "endJuz": 27
   },
   {
    "number": 53,
@@ -824,11 +1037,15 @@
    "ayahs": 62,
    "type": "meccan",
    "sizes": {
-    "afs": 7389660,
-    "husr": 10999525,
-    "minsh": 10005641,
-    "basit": 2044365
-   }
+    "afasy": 7468528,
+    "husary": 5437875,
+    "minshawi": 6700350,
+    "abdulbaset": 12146983
+   },
+   "startPage": 526,
+   "endPage": 528,
+   "startJuz": 27,
+   "endJuz": 27
   },
   {
    "number": 54,
@@ -839,11 +1056,15 @@
    "ayahs": 55,
    "type": "meccan",
    "sizes": {
-    "afs": 7729461,
-    "husr": 11738061,
-    "minsh": 7258591,
-    "basit": 2168499
-   }
+    "afasy": 7821286,
+    "husary": 5814455,
+    "minshawi": 7206915,
+    "abdulbaset": 12879248
+   },
+   "startPage": 528,
+   "endPage": 531,
+   "startJuz": 27,
+   "endJuz": 27
   },
   {
    "number": 55,
@@ -854,11 +1075,15 @@
    "ayahs": 78,
    "type": "medinan",
    "sizes": {
-    "afs": 10872933,
-    "husr": 16500290,
-    "minsh": 8522920,
-    "basit": 2476326
-   }
+    "afasy": 11050845,
+    "husary": 8203085,
+    "minshawi": 8493399,
+    "abdulbaset": 14718686
+   },
+   "startPage": 531,
+   "endPage": 534,
+   "startJuz": 27,
+   "endJuz": 27
   },
   {
    "number": 56,
@@ -869,11 +1094,15 @@
    "ayahs": 96,
    "type": "meccan",
    "sizes": {
-    "afs": 11477721,
-    "husr": 15954855,
-    "minsh": 10043875,
-    "basit": 2484476
-   }
+    "afasy": 11682380,
+    "husary": 7937044,
+    "minshawi": 10035658,
+    "abdulbaset": 14795799
+   },
+   "startPage": 534,
+   "endPage": 537,
+   "startJuz": 27,
+   "endJuz": 27
   },
   {
    "number": 57,
@@ -884,11 +1113,15 @@
    "ayahs": 29,
    "type": "medinan",
    "sizes": {
-    "afs": 12945592,
-    "husr": 17768794,
-    "minsh": 13671757,
-    "basit": 3212561
-   }
+    "afasy": 13139830,
+    "husary": 8803294,
+    "minshawi": 13500962,
+    "abdulbaset": 19166190
+   },
+   "startPage": 537,
+   "endPage": 541,
+   "startJuz": 27,
+   "endJuz": 27
   },
   {
    "number": 58,
@@ -899,11 +1132,15 @@
    "ayahs": 22,
    "type": "medinan",
    "sizes": {
-    "afs": 9818843,
-    "husr": 16023823,
-    "minsh": 9535235,
-    "basit": 2712473
-   }
+    "afasy": 9680804,
+    "husary": 7906152,
+    "minshawi": 9446341,
+    "abdulbaset": 16051558
+   },
+   "startPage": 542,
+   "endPage": 545,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 59,
@@ -914,11 +1151,15 @@
    "ayahs": 24,
    "type": "medinan",
    "sizes": {
-    "afs": 10031163,
-    "husr": 13495580,
-    "minsh": 9143599,
-    "basit": 2764509
-   }
+    "afasy": 10191758,
+    "husary": 6642237,
+    "minshawi": 9092329,
+    "abdulbaset": 16476622
+   },
+   "startPage": 545,
+   "endPage": 548,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 60,
@@ -929,11 +1170,15 @@
    "ayahs": 13,
    "type": "medinan",
    "sizes": {
-    "afs": 7230423,
-    "husr": 9720164,
-    "minsh": 7531958,
-    "basit": 2328368
-   }
+    "afasy": 7144632,
+    "husary": 4771250,
+    "minshawi": 7466467,
+    "abdulbaset": 13865422
+   },
+   "startPage": 549,
+   "endPage": 551,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 61,
@@ -944,11 +1189,15 @@
    "ayahs": 14,
    "type": "medinan",
    "sizes": {
-    "afs": 4690061,
-    "husr": 6787333,
-    "minsh": 4259744,
-    "basit": 1264453
-   }
+    "afasy": 4587558,
+    "husary": 3287285,
+    "minshawi": 4196772,
+    "abdulbaset": 7479424
+   },
+   "startPage": 551,
+   "endPage": 552,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 62,
@@ -959,11 +1208,15 @@
    "ayahs": 11,
    "type": "medinan",
    "sizes": {
-    "afs": 3424902,
-    "husr": 5278088,
-    "minsh": 3354868,
-    "basit": 1008453
-   }
+    "afasy": 3334935,
+    "husary": 2573415,
+    "minshawi": 3292727,
+    "abdulbaset": 5938408
+   },
+   "startPage": 553,
+   "endPage": 554,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 63,
@@ -974,11 +1227,15 @@
    "ayahs": 11,
    "type": "medinan",
    "sizes": {
-    "afs": 4139196,
-    "husr": 6271999,
-    "minsh": 3651205,
-    "basit": 1096433
-   }
+    "afasy": 4031255,
+    "husary": 3039646,
+    "minshawi": 3584880,
+    "abdulbaset": 6473813
+   },
+   "startPage": 554,
+   "endPage": 555,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 64,
@@ -989,11 +1246,15 @@
    "ayahs": 18,
    "type": "medinan",
    "sizes": {
-    "afs": 5199557,
-    "husr": 8133169,
-    "minsh": 4587432,
-    "basit": 1412411
-   }
+    "afasy": 5108330,
+    "husary": 3977752,
+    "minshawi": 4529467,
+    "abdulbaset": 8363407
+   },
+   "startPage": 556,
+   "endPage": 557,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 65,
@@ -1004,11 +1265,15 @@
    "ayahs": 12,
    "type": "medinan",
    "sizes": {
-    "afs": 5785115,
-    "husr": 8710783,
-    "minsh": 6005561,
-    "basit": 1724417
-   }
+    "afasy": 5704346,
+    "husary": 4273044,
+    "minshawi": 5935484,
+    "abdulbaset": 10216639
+   },
+   "startPage": 558,
+   "endPage": 559,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 66,
@@ -1019,11 +1284,15 @@
    "ayahs": 12,
    "type": "medinan",
    "sizes": {
-    "afs": 5728692,
-    "husr": 9289658,
-    "minsh": 5879758,
-    "basit": 1716476
-   }
+    "afasy": 5651264,
+    "husary": 4561017,
+    "minshawi": 5718144,
+    "abdulbaset": 10194695
+   },
+   "startPage": 560,
+   "endPage": 561,
+   "startJuz": 28,
+   "endJuz": 28
   },
   {
    "number": 67,
@@ -1034,11 +1303,15 @@
    "ayahs": 30,
    "type": "meccan",
    "sizes": {
-    "afs": 7293947,
-    "husr": 10795979,
-    "minsh": 6673458,
-    "basit": 1976447
-   }
+    "afasy": 7107428,
+    "husary": 5302260,
+    "minshawi": 6602961,
+    "abdulbaset": 11610950
+   },
+   "startPage": 562,
+   "endPage": 564,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 68,
@@ -1049,11 +1322,15 @@
    "ayahs": 52,
    "type": "meccan",
    "sizes": {
-    "afs": 7304397,
-    "husr": 10910084,
-    "minsh": 6851929,
-    "basit": 1868404
-   }
+    "afasy": 7229458,
+    "husary": 5385004,
+    "minshawi": 6807344,
+    "abdulbaset": 11098114
+   },
+   "startPage": 564,
+   "endPage": 566,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 69,
@@ -1064,11 +1341,15 @@
    "ayahs": 52,
    "type": "meccan",
    "sizes": {
-    "afs": 6501498,
-    "husr": 7698906,
-    "minsh": 6305240,
-    "basit": 1680531
-   }
+    "afasy": 6418200,
+    "husary": 3772935,
+    "minshawi": 6265252,
+    "abdulbaset": 9957086
+   },
+   "startPage": 566,
+   "endPage": 568,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 70,
@@ -1079,11 +1360,15 @@
    "ayahs": 44,
    "type": "meccan",
    "sizes": {
-    "afs": 5093813,
-    "husr": 6962464,
-    "minsh": 5293781,
-    "basit": 1404469
-   }
+    "afasy": 5025983,
+    "husary": 3433557,
+    "minshawi": 5244592,
+    "abdulbaset": 8314506
+   },
+   "startPage": 568,
+   "endPage": 570,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 71,
@@ -1094,11 +1379,15 @@
    "ayahs": 28,
    "type": "meccan",
    "sizes": {
-    "afs": 4501977,
-    "husr": 6740097,
-    "minsh": 5323444,
-    "basit": 1424322
-   }
+    "afasy": 4439176,
+    "husary": 3289786,
+    "minshawi": 5265494,
+    "abdulbaset": 8421086
+   },
+   "startPage": 570,
+   "endPage": 571,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 72,
@@ -1109,11 +1398,15 @@
    "ayahs": 28,
    "type": "meccan",
    "sizes": {
-    "afs": 5365483,
-    "husr": 8259385,
-    "minsh": 6033145,
-    "basit": 1660469
-   }
+    "afasy": 5288886,
+    "husary": 4049010,
+    "minshawi": 5955961,
+    "abdulbaset": 9842983
+   },
+   "startPage": 572,
+   "endPage": 573,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 73,
@@ -1124,11 +1417,15 @@
    "ayahs": 20,
    "type": "meccan",
    "sizes": {
-    "afs": 3912244,
-    "husr": 6172525,
-    "minsh": 4355885,
-    "basit": 1192355
-   }
+    "afasy": 3824362,
+    "husary": 2988024,
+    "minshawi": 4295409,
+    "abdulbaset": 7028654
+   },
+   "startPage": 574,
+   "endPage": 575,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 74,
@@ -1139,11 +1436,15 @@
    "ayahs": 56,
    "type": "meccan",
    "sizes": {
-    "afs": 5197471,
-    "husr": 7125058,
-    "minsh": 6000140,
-    "basit": 1628496
-   }
+    "afasy": 5151783,
+    "husary": 3496455,
+    "minshawi": 5960981,
+    "abdulbaset": 9658663
+   },
+   "startPage": 575,
+   "endPage": 577,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 75,
@@ -1154,11 +1455,15 @@
    "ayahs": 40,
    "type": "meccan",
    "sizes": {
-    "afs": 3394391,
-    "husr": 4881863,
-    "minsh": 3773245,
-    "basit": 1012424
-   }
+    "afasy": 3327818,
+    "husary": 2378630,
+    "minshawi": 3725315,
+    "abdulbaset": 5952828
+   },
+   "startPage": 577,
+   "endPage": 578,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 76,
@@ -1169,11 +1474,15 @@
    "ayahs": 31,
    "type": "medinan",
    "sizes": {
-    "afs": 5046999,
-    "husr": 8429914,
-    "minsh": 6388412,
-    "basit": 1468417
-   }
+    "afasy": 4986701,
+    "husary": 4123824,
+    "minshawi": 6318749,
+    "abdulbaset": 8700073
+   },
+   "startPage": 578,
+   "endPage": 580,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 77,
@@ -1184,11 +1493,15 @@
    "ayahs": 50,
    "type": "meccan",
    "sizes": {
-    "afs": 4569693,
-    "husr": 7177297,
-    "minsh": 5058890,
-    "basit": 1148469
-   }
+    "afasy": 4529863,
+    "husary": 3519443,
+    "minshawi": 4912736,
+    "abdulbaset": 6768475
+   },
+   "startPage": 580,
+   "endPage": 581,
+   "startJuz": 29,
+   "endJuz": 29
   },
   {
    "number": 78,
@@ -1199,11 +1512,15 @@
    "ayahs": 40,
    "type": "meccan",
    "sizes": {
-    "afs": 4682121,
-    "husr": 6496017,
-    "minsh": 5057630,
-    "basit": 1124437
-   }
+    "afasy": 3630300,
+    "husary": 3160005,
+    "minshawi": 4950768,
+    "abdulbaset": 6512058
+   },
+   "startPage": 582,
+   "endPage": 583,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 79,
@@ -1214,11 +1531,15 @@
    "ayahs": 46,
    "type": "meccan",
    "sizes": {
-    "afs": 4109937,
-    "husr": 6442940,
-    "minsh": 4757539,
-    "basit": 1040427
-   }
+    "afasy": 3799271,
+    "husary": 3150804,
+    "minshawi": 4695818,
+    "abdulbaset": 6121475
+   },
+   "startPage": 583,
+   "endPage": 584,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 80,
@@ -1229,11 +1550,15 @@
    "ayahs": 42,
    "type": "meccan",
    "sizes": {
-    "afs": 3533567,
-    "husr": 4555429,
-    "minsh": 3789120,
-    "basit": 856316
-   }
+    "afasy": 3240879,
+    "husary": 2204343,
+    "minshawi": 3721132,
+    "abdulbaset": 5023077
+   },
+   "startPage": 585,
+   "endPage": 585,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 81,
@@ -1244,11 +1569,15 @@
    "ayahs": 29,
    "type": "meccan",
    "sizes": {
-    "afs": 2540081,
-    "husr": 3464143,
-    "minsh": 2649351,
-    "basit": 596345
-   }
+    "afasy": 2021282,
+    "husary": 1670819,
+    "minshawi": 2569238,
+    "abdulbaset": 3459492
+   },
+   "startPage": 586,
+   "endPage": 586,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 82,
@@ -1259,11 +1588,15 @@
    "ayahs": 19,
    "type": "meccan",
    "sizes": {
-    "afs": 2195266,
-    "husr": 2907424,
-    "minsh": 2072152,
-    "basit": 472420
-   }
+    "afasy": 1675865,
+    "husary": 1374076,
+    "minshawi": 1994961,
+    "abdulbaset": 2732870
+   },
+   "startPage": 587,
+   "endPage": 587,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 83,
@@ -1274,11 +1607,15 @@
    "ayahs": 36,
    "type": "meccan",
    "sizes": {
-    "afs": 4971354,
-    "husr": 6541167,
-    "minsh": 4553999,
-    "basit": 1020365
-   }
+    "afasy": 4600502,
+    "husary": 3188430,
+    "minshawi": 4492689,
+    "abdulbaset": 5996714
+   },
+   "startPage": 587,
+   "endPage": 589,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 84,
@@ -1289,11 +1626,15 @@
    "ayahs": 25,
    "type": "meccan",
    "sizes": {
-    "afs": 2570176,
-    "husr": 3783468,
-    "minsh": 2853319,
-    "basit": 592375
-   }
+    "afasy": 2326810,
+    "husary": 1788688,
+    "minshawi": 2779890,
+    "abdulbaset": 3454477
+   },
+   "startPage": 589,
+   "endPage": 589,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 85,
@@ -1304,11 +1645,15 @@
    "ayahs": 22,
    "type": "meccan",
    "sizes": {
-    "afs": 3177886,
-    "husr": 3890878,
-    "minsh": 2878809,
-    "basit": 580463
-   }
+    "afasy": 2886039,
+    "husary": 1837590,
+    "minshawi": 2804135,
+    "abdulbaset": 3380498
+   },
+   "startPage": 590,
+   "endPage": 590,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 86,
@@ -1319,11 +1664,15 @@
    "ayahs": 17,
    "type": "meccan",
    "sizes": {
-    "afs": 1610539,
-    "husr": 2223638,
-    "minsh": 1689715,
-    "basit": 372319
-   }
+    "afasy": 1408977,
+    "husary": 1016301,
+    "minshawi": 1605008,
+    "abdulbaset": 2109066
+   },
+   "startPage": 591,
+   "endPage": 591,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 87,
@@ -1334,11 +1683,15 @@
    "ayahs": 19,
    "type": "meccan",
    "sizes": {
-    "afs": 1731746,
-    "husr": 2623205,
-    "minsh": 1868181,
-    "basit": 420384
-   }
+    "afasy": 1531855,
+    "husary": 1211071,
+    "minshawi": 1797685,
+    "abdulbaset": 2416267
+   },
+   "startPage": 591,
+   "endPage": 592,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 88,
@@ -1349,11 +1702,15 @@
    "ayahs": 26,
    "type": "meccan",
    "sizes": {
-    "afs": 2153472,
-    "husr": 3546487,
-    "minsh": 2417390,
-    "basit": 520486
-   }
+    "afasy": 1945633,
+    "husary": 1687960,
+    "minshawi": 2344793,
+    "abdulbaset": 3018754
+   },
+   "startPage": 592,
+   "endPage": 592,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 89,
@@ -1364,11 +1721,15 @@
    "ayahs": 30,
    "type": "meccan",
    "sizes": {
-    "afs": 3414450,
-    "husr": 5219568,
-    "minsh": 3654121,
-    "basit": 772515
-   }
+    "afasy": 3125111,
+    "husary": 2524923,
+    "minshawi": 3533471,
+    "abdulbaset": 4515884
+   },
+   "startPage": 593,
+   "endPage": 594,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 90,
@@ -1379,11 +1740,15 @@
    "ayahs": 20,
    "type": "meccan",
    "sizes": {
-    "afs": 1927352,
-    "husr": 2947544,
-    "minsh": 2108092,
-    "basit": 456538
-   }
+    "afasy": 1701130,
+    "husary": 1389121,
+    "minshawi": 2025056,
+    "abdulbaset": 2620021
+   },
+   "startPage": 594,
+   "endPage": 594,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 91,
@@ -1394,11 +1759,15 @@
    "ayahs": 15,
    "type": "meccan",
    "sizes": {
-    "afs": 1357675,
-    "husr": 2048098,
-    "minsh": 1594840,
-    "basit": 340554
-   }
+    "afasy": 1169905,
+    "husary": 938983,
+    "minshawi": 1511803,
+    "abdulbaset": 1933523
+   },
+   "startPage": 595,
+   "endPage": 595,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 92,
@@ -1409,11 +1778,15 @@
    "ayahs": 21,
    "type": "meccan",
    "sizes": {
-    "afs": 1792768,
-    "husr": 2687989,
-    "minsh": 2060443,
-    "basit": 452358
-   }
+    "afasy": 1597058,
+    "husary": 1250777,
+    "minshawi": 1974066,
+    "abdulbaset": 2605601
+   },
+   "startPage": 595,
+   "endPage": 596,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 93,
@@ -1424,11 +1797,15 @@
    "ayahs": 11,
    "type": "meccan",
    "sizes": {
-    "afs": 1048801,
-    "husr": 1534422,
-    "minsh": 1127976,
-    "basit": 256336
-   }
+    "afasy": 879843,
+    "husary": 666893,
+    "minshawi": 1039927,
+    "abdulbaset": 1429464
+   },
+   "startPage": 596,
+   "endPage": 596,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 94,
@@ -1439,11 +1816,15 @@
    "ayahs": 8,
    "type": "meccan",
    "sizes": {
-    "afs": 695209,
-    "husr": 1034547,
-    "minsh": 720470,
-    "basit": 156443
-   }
+    "afasy": 546314,
+    "husary": 414865,
+    "minshawi": 626563,
+    "abdulbaset": 829484
+   },
+   "startPage": 596,
+   "endPage": 596,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 95,
@@ -1454,11 +1835,15 @@
    "ayahs": 8,
    "type": "meccan",
    "sizes": {
-    "afs": 1045874,
-    "husr": 1372252,
-    "minsh": 912307,
-    "basit": 200329
-   }
+    "afasy": 948390,
+    "husary": 589363,
+    "minshawi": 824261,
+    "abdulbaset": 1095306
+   },
+   "startPage": 597,
+   "endPage": 597,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 96,
@@ -1469,11 +1854,15 @@
    "ayahs": 19,
    "type": "meccan",
    "sizes": {
-    "afs": 1529037,
-    "husr": 2526659,
-    "minsh": 1808415,
-    "basit": 408473
-   }
+    "afasy": 1340013,
+    "husary": 1163424,
+    "minshawi": 1728306,
+    "abdulbaset": 2320345
+   },
+   "startPage": 597,
+   "endPage": 597,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 97,
@@ -1484,11 +1873,15 @@
    "ayahs": 5,
    "type": "meccan",
    "sizes": {
-    "afs": 729480,
-    "husr": 1094729,
-    "minsh": 790683,
-    "basit": 164384
-   }
+    "afasy": 573481,
+    "husary": 448930,
+    "minshawi": 693856,
+    "abdulbaset": 871489
+   },
+   "startPage": 598,
+   "endPage": 598,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 98,
@@ -1499,11 +1892,15 @@
    "ayahs": 8,
    "type": "medinan",
    "sizes": {
-    "afs": 2030173,
-    "husr": 3031142,
-    "minsh": 2475902,
-    "basit": 496453
-   }
+    "afasy": 1812310,
+    "husary": 1402921,
+    "minshawi": 2400384,
+    "abdulbaset": 2858885
+   },
+   "startPage": 598,
+   "endPage": 599,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 99,
@@ -1514,11 +1911,15 @@
    "ayahs": 8,
    "type": "medinan",
    "sizes": {
-    "afs": 966885,
-    "husr": 1454182,
-    "minsh": 1008865,
-    "basit": 220391
-   }
+    "afasy": 799179,
+    "husary": 619248,
+    "minshawi": 923317,
+    "abdulbaset": 1202512
+   },
+   "startPage": 599,
+   "endPage": 599,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 100,
@@ -1529,11 +1930,15 @@
    "ayahs": 11,
    "type": "meccan",
    "sizes": {
-    "afs": 1127380,
-    "husr": 1539861,
-    "minsh": 1070721,
-    "basit": 232512
-   }
+    "afasy": 962598,
+    "husary": 666474,
+    "minshawi": 983920,
+    "abdulbaset": 1284641
+   },
+   "startPage": 599,
+   "endPage": 600,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 101,
@@ -1544,11 +1949,15 @@
    "ayahs": 11,
    "type": "meccan",
    "sizes": {
-    "afs": 1007844,
-    "husr": 1465882,
-    "minsh": 1022238,
-    "basit": 224362
-   }
+    "afasy": 852677,
+    "husary": 634919,
+    "minshawi": 934182,
+    "abdulbaset": 1228218
+   },
+   "startPage": 600,
+   "endPage": 600,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 102,
@@ -1559,11 +1968,15 @@
    "ayahs": 8,
    "type": "meccan",
    "sizes": {
-    "afs": 1008681,
-    "husr": 1199644,
-    "minsh": 807409,
-    "basit": 184447
-   }
+    "afasy": 845571,
+    "husary": 511621,
+    "minshawi": 717682,
+    "abdulbaset": 985592
+   },
+   "startPage": 600,
+   "endPage": 600,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 103,
@@ -1574,11 +1987,15 @@
    "ayahs": 3,
    "type": "meccan",
    "sizes": {
-    "afs": 445686,
-    "husr": 660469,
-    "minsh": 447538,
-    "basit": 92496
-   }
+    "afasy": 322289,
+    "husary": 237861,
+    "minshawi": 353220,
+    "abdulbaset": 447051
+   },
+   "startPage": 601,
+   "endPage": 601,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 104,
@@ -1589,11 +2006,15 @@
    "ayahs": 9,
    "type": "meccan",
    "sizes": {
-    "afs": 935537,
-    "husr": 1282816,
-    "minsh": 909807,
-    "basit": 204509
-   }
+    "afasy": 763234,
+    "husary": 545266,
+    "minshawi": 825931,
+    "abdulbaset": 1103457
+   },
+   "startPage": 601,
+   "endPage": 601,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 105,
@@ -1604,11 +2025,15 @@
    "ayahs": 5,
    "type": "meccan",
    "sizes": {
-    "afs": 786321,
-    "husr": 954292,
-    "minsh": 615138,
-    "basit": 136381
-   }
+    "afasy": 631996,
+    "husary": 374533,
+    "minshawi": 527509,
+    "abdulbaset": 707858
+   },
+   "startPage": 601,
+   "endPage": 601,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 106,
@@ -1619,11 +2044,15 @@
    "ayahs": 4,
    "type": "meccan",
    "sizes": {
-    "afs": 687684,
-    "husr": 828907,
-    "minsh": 551192,
-    "basit": 120499
-   }
+    "afasy": 528342,
+    "husary": 323752,
+    "minshawi": 461053,
+    "abdulbaset": 621340
+   },
+   "startPage": 602,
+   "endPage": 602,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 107,
@@ -1634,11 +2063,15 @@
    "ayahs": 7,
    "type": "meccan",
    "sizes": {
-    "afs": 928012,
-    "husr": 1115629,
-    "minsh": 682851,
-    "basit": 156443
-   }
+    "afasy": 771176,
+    "husary": 455407,
+    "minshawi": 597726,
+    "abdulbaset": 833873
+   },
+   "startPage": 602,
+   "endPage": 602,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 108,
@@ -1649,11 +2082,15 @@
    "ayahs": 3,
    "type": "meccan",
    "sizes": {
-    "afs": 399295,
-    "husr": 546372,
-    "minsh": 350160,
-    "basit": 76404
-   }
+    "afasy": 248728,
+    "husary": 182481,
+    "minshawi": 260851,
+    "abdulbaset": 339218
+   },
+   "startPage": 602,
+   "endPage": 602,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 109,
@@ -1664,11 +2101,15 @@
    "ayahs": 6,
    "type": "meccan",
    "sizes": {
-    "afs": 875351,
-    "husr": 1067985,
-    "minsh": 742205,
-    "basit": 164384
-   }
+    "afasy": 713080,
+    "husary": 436182,
+    "minshawi": 657912,
+    "abdulbaset": 870862
+   },
+   "startPage": 603,
+   "endPage": 603,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 110,
@@ -1679,11 +2120,15 @@
    "ayahs": 3,
    "type": "medinan",
    "sizes": {
-    "afs": 566058,
-    "husr": 809263,
-    "minsh": 541997,
-    "basit": 112349
-   }
+    "afasy": 402956,
+    "husary": 307660,
+    "minshawi": 452694,
+    "abdulbaset": 559274
+   },
+   "startPage": 603,
+   "endPage": 603,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 111,
@@ -1694,11 +2139,15 @@
    "ayahs": 5,
    "type": "meccan",
    "sizes": {
-    "afs": 672221,
-    "husr": 894528,
-    "minsh": 587139,
-    "basit": 132411
-   }
+    "afasy": 508697,
+    "husary": 348410,
+    "minshawi": 507029,
+    "abdulbaset": 685915
+   },
+   "startPage": 603,
+   "endPage": 603,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 112,
@@ -1709,11 +2158,15 @@
    "ayahs": 4,
    "type": "meccan",
    "sizes": {
-    "afs": 354155,
-    "husr": 581061,
-    "minsh": 311705,
-    "basit": 72433
-   }
+    "afasy": 214038,
+    "husary": 202126,
+    "minshawi": 231176,
+    "abdulbaset": 329813
+   },
+   "startPage": 604,
+   "endPage": 604,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 113,
@@ -1724,11 +2177,15 @@
    "ayahs": 5,
    "type": "meccan",
    "sizes": {
-    "afs": 535966,
-    "husr": 796726,
-    "minsh": 488500,
-    "basit": 116528
-   }
+    "afasy": 381639,
+    "husary": 294493,
+    "minshawi": 405464,
+    "abdulbaset": 588112
+   },
+   "startPage": 604,
+   "endPage": 604,
+   "startJuz": 30,
+   "endJuz": 30
   },
   {
    "number": 114,
@@ -1739,11 +2196,3195 @@
    "ayahs": 6,
    "type": "meccan",
    "sizes": {
-    "afs": 807637,
-    "husr": 934230,
-    "minsh": 624333,
-    "basit": 140352
-   }
+    "afasy": 654983,
+    "husary": 371816,
+    "minshawi": 441826,
+    "abdulbaset": 717889
+   },
+   "startPage": 604,
+   "endPage": 604,
+   "startJuz": 30,
+   "endJuz": 30
   }
+ ],
+ "pages": [
+  {
+   "page": 1,
+   "surah": 1,
+   "ayah": 1
+  },
+  {
+   "page": 2,
+   "surah": 2,
+   "ayah": 1
+  },
+  {
+   "page": 3,
+   "surah": 2,
+   "ayah": 6
+  },
+  {
+   "page": 4,
+   "surah": 2,
+   "ayah": 17
+  },
+  {
+   "page": 5,
+   "surah": 2,
+   "ayah": 25
+  },
+  {
+   "page": 6,
+   "surah": 2,
+   "ayah": 30
+  },
+  {
+   "page": 7,
+   "surah": 2,
+   "ayah": 38
+  },
+  {
+   "page": 8,
+   "surah": 2,
+   "ayah": 49
+  },
+  {
+   "page": 9,
+   "surah": 2,
+   "ayah": 58
+  },
+  {
+   "page": 10,
+   "surah": 2,
+   "ayah": 62
+  },
+  {
+   "page": 11,
+   "surah": 2,
+   "ayah": 70
+  },
+  {
+   "page": 12,
+   "surah": 2,
+   "ayah": 77
+  },
+  {
+   "page": 13,
+   "surah": 2,
+   "ayah": 84
+  },
+  {
+   "page": 14,
+   "surah": 2,
+   "ayah": 89
+  },
+  {
+   "page": 15,
+   "surah": 2,
+   "ayah": 94
+  },
+  {
+   "page": 16,
+   "surah": 2,
+   "ayah": 102
+  },
+  {
+   "page": 17,
+   "surah": 2,
+   "ayah": 106
+  },
+  {
+   "page": 18,
+   "surah": 2,
+   "ayah": 113
+  },
+  {
+   "page": 19,
+   "surah": 2,
+   "ayah": 120
+  },
+  {
+   "page": 20,
+   "surah": 2,
+   "ayah": 127
+  },
+  {
+   "page": 21,
+   "surah": 2,
+   "ayah": 135
+  },
+  {
+   "page": 22,
+   "surah": 2,
+   "ayah": 142
+  },
+  {
+   "page": 23,
+   "surah": 2,
+   "ayah": 146
+  },
+  {
+   "page": 24,
+   "surah": 2,
+   "ayah": 154
+  },
+  {
+   "page": 25,
+   "surah": 2,
+   "ayah": 164
+  },
+  {
+   "page": 26,
+   "surah": 2,
+   "ayah": 170
+  },
+  {
+   "page": 27,
+   "surah": 2,
+   "ayah": 177
+  },
+  {
+   "page": 28,
+   "surah": 2,
+   "ayah": 182
+  },
+  {
+   "page": 29,
+   "surah": 2,
+   "ayah": 187
+  },
+  {
+   "page": 30,
+   "surah": 2,
+   "ayah": 191
+  },
+  {
+   "page": 31,
+   "surah": 2,
+   "ayah": 197
+  },
+  {
+   "page": 32,
+   "surah": 2,
+   "ayah": 203
+  },
+  {
+   "page": 33,
+   "surah": 2,
+   "ayah": 211
+  },
+  {
+   "page": 34,
+   "surah": 2,
+   "ayah": 216
+  },
+  {
+   "page": 35,
+   "surah": 2,
+   "ayah": 220
+  },
+  {
+   "page": 36,
+   "surah": 2,
+   "ayah": 225
+  },
+  {
+   "page": 37,
+   "surah": 2,
+   "ayah": 231
+  },
+  {
+   "page": 38,
+   "surah": 2,
+   "ayah": 234
+  },
+  {
+   "page": 39,
+   "surah": 2,
+   "ayah": 238
+  },
+  {
+   "page": 40,
+   "surah": 2,
+   "ayah": 246
+  },
+  {
+   "page": 41,
+   "surah": 2,
+   "ayah": 249
+  },
+  {
+   "page": 42,
+   "surah": 2,
+   "ayah": 253
+  },
+  {
+   "page": 43,
+   "surah": 2,
+   "ayah": 257
+  },
+  {
+   "page": 44,
+   "surah": 2,
+   "ayah": 260
+  },
+  {
+   "page": 45,
+   "surah": 2,
+   "ayah": 265
+  },
+  {
+   "page": 46,
+   "surah": 2,
+   "ayah": 270
+  },
+  {
+   "page": 47,
+   "surah": 2,
+   "ayah": 275
+  },
+  {
+   "page": 48,
+   "surah": 2,
+   "ayah": 282
+  },
+  {
+   "page": 49,
+   "surah": 2,
+   "ayah": 283
+  },
+  {
+   "page": 50,
+   "surah": 3,
+   "ayah": 1
+  },
+  {
+   "page": 51,
+   "surah": 3,
+   "ayah": 10
+  },
+  {
+   "page": 52,
+   "surah": 3,
+   "ayah": 16
+  },
+  {
+   "page": 53,
+   "surah": 3,
+   "ayah": 23
+  },
+  {
+   "page": 54,
+   "surah": 3,
+   "ayah": 30
+  },
+  {
+   "page": 55,
+   "surah": 3,
+   "ayah": 38
+  },
+  {
+   "page": 56,
+   "surah": 3,
+   "ayah": 46
+  },
+  {
+   "page": 57,
+   "surah": 3,
+   "ayah": 53
+  },
+  {
+   "page": 58,
+   "surah": 3,
+   "ayah": 62
+  },
+  {
+   "page": 59,
+   "surah": 3,
+   "ayah": 71
+  },
+  {
+   "page": 60,
+   "surah": 3,
+   "ayah": 78
+  },
+  {
+   "page": 61,
+   "surah": 3,
+   "ayah": 84
+  },
+  {
+   "page": 62,
+   "surah": 3,
+   "ayah": 92
+  },
+  {
+   "page": 63,
+   "surah": 3,
+   "ayah": 101
+  },
+  {
+   "page": 64,
+   "surah": 3,
+   "ayah": 109
+  },
+  {
+   "page": 65,
+   "surah": 3,
+   "ayah": 116
+  },
+  {
+   "page": 66,
+   "surah": 3,
+   "ayah": 122
+  },
+  {
+   "page": 67,
+   "surah": 3,
+   "ayah": 133
+  },
+  {
+   "page": 68,
+   "surah": 3,
+   "ayah": 141
+  },
+  {
+   "page": 69,
+   "surah": 3,
+   "ayah": 149
+  },
+  {
+   "page": 70,
+   "surah": 3,
+   "ayah": 154
+  },
+  {
+   "page": 71,
+   "surah": 3,
+   "ayah": 158
+  },
+  {
+   "page": 72,
+   "surah": 3,
+   "ayah": 166
+  },
+  {
+   "page": 73,
+   "surah": 3,
+   "ayah": 174
+  },
+  {
+   "page": 74,
+   "surah": 3,
+   "ayah": 181
+  },
+  {
+   "page": 75,
+   "surah": 3,
+   "ayah": 187
+  },
+  {
+   "page": 76,
+   "surah": 3,
+   "ayah": 195
+  },
+  {
+   "page": 77,
+   "surah": 4,
+   "ayah": 1
+  },
+  {
+   "page": 78,
+   "surah": 4,
+   "ayah": 7
+  },
+  {
+   "page": 79,
+   "surah": 4,
+   "ayah": 12
+  },
+  {
+   "page": 80,
+   "surah": 4,
+   "ayah": 15
+  },
+  {
+   "page": 81,
+   "surah": 4,
+   "ayah": 20
+  },
+  {
+   "page": 82,
+   "surah": 4,
+   "ayah": 24
+  },
+  {
+   "page": 83,
+   "surah": 4,
+   "ayah": 27
+  },
+  {
+   "page": 84,
+   "surah": 4,
+   "ayah": 34
+  },
+  {
+   "page": 85,
+   "surah": 4,
+   "ayah": 38
+  },
+  {
+   "page": 86,
+   "surah": 4,
+   "ayah": 45
+  },
+  {
+   "page": 87,
+   "surah": 4,
+   "ayah": 52
+  },
+  {
+   "page": 88,
+   "surah": 4,
+   "ayah": 60
+  },
+  {
+   "page": 89,
+   "surah": 4,
+   "ayah": 66
+  },
+  {
+   "page": 90,
+   "surah": 4,
+   "ayah": 75
+  },
+  {
+   "page": 91,
+   "surah": 4,
+   "ayah": 80
+  },
+  {
+   "page": 92,
+   "surah": 4,
+   "ayah": 87
+  },
+  {
+   "page": 93,
+   "surah": 4,
+   "ayah": 92
+  },
+  {
+   "page": 94,
+   "surah": 4,
+   "ayah": 95
+  },
+  {
+   "page": 95,
+   "surah": 4,
+   "ayah": 102
+  },
+  {
+   "page": 96,
+   "surah": 4,
+   "ayah": 106
+  },
+  {
+   "page": 97,
+   "surah": 4,
+   "ayah": 114
+  },
+  {
+   "page": 98,
+   "surah": 4,
+   "ayah": 122
+  },
+  {
+   "page": 99,
+   "surah": 4,
+   "ayah": 128
+  },
+  {
+   "page": 100,
+   "surah": 4,
+   "ayah": 135
+  },
+  {
+   "page": 101,
+   "surah": 4,
+   "ayah": 141
+  },
+  {
+   "page": 102,
+   "surah": 4,
+   "ayah": 148
+  },
+  {
+   "page": 103,
+   "surah": 4,
+   "ayah": 155
+  },
+  {
+   "page": 104,
+   "surah": 4,
+   "ayah": 163
+  },
+  {
+   "page": 105,
+   "surah": 4,
+   "ayah": 171
+  },
+  {
+   "page": 106,
+   "surah": 4,
+   "ayah": 176
+  },
+  {
+   "page": 107,
+   "surah": 5,
+   "ayah": 3
+  },
+  {
+   "page": 108,
+   "surah": 5,
+   "ayah": 6
+  },
+  {
+   "page": 109,
+   "surah": 5,
+   "ayah": 10
+  },
+  {
+   "page": 110,
+   "surah": 5,
+   "ayah": 14
+  },
+  {
+   "page": 111,
+   "surah": 5,
+   "ayah": 18
+  },
+  {
+   "page": 112,
+   "surah": 5,
+   "ayah": 24
+  },
+  {
+   "page": 113,
+   "surah": 5,
+   "ayah": 32
+  },
+  {
+   "page": 114,
+   "surah": 5,
+   "ayah": 37
+  },
+  {
+   "page": 115,
+   "surah": 5,
+   "ayah": 42
+  },
+  {
+   "page": 116,
+   "surah": 5,
+   "ayah": 46
+  },
+  {
+   "page": 117,
+   "surah": 5,
+   "ayah": 51
+  },
+  {
+   "page": 118,
+   "surah": 5,
+   "ayah": 58
+  },
+  {
+   "page": 119,
+   "surah": 5,
+   "ayah": 65
+  },
+  {
+   "page": 120,
+   "surah": 5,
+   "ayah": 71
+  },
+  {
+   "page": 121,
+   "surah": 5,
+   "ayah": 77
+  },
+  {
+   "page": 122,
+   "surah": 5,
+   "ayah": 83
+  },
+  {
+   "page": 123,
+   "surah": 5,
+   "ayah": 90
+  },
+  {
+   "page": 124,
+   "surah": 5,
+   "ayah": 96
+  },
+  {
+   "page": 125,
+   "surah": 5,
+   "ayah": 104
+  },
+  {
+   "page": 126,
+   "surah": 5,
+   "ayah": 109
+  },
+  {
+   "page": 127,
+   "surah": 5,
+   "ayah": 114
+  },
+  {
+   "page": 128,
+   "surah": 6,
+   "ayah": 1
+  },
+  {
+   "page": 129,
+   "surah": 6,
+   "ayah": 9
+  },
+  {
+   "page": 130,
+   "surah": 6,
+   "ayah": 19
+  },
+  {
+   "page": 131,
+   "surah": 6,
+   "ayah": 28
+  },
+  {
+   "page": 132,
+   "surah": 6,
+   "ayah": 36
+  },
+  {
+   "page": 133,
+   "surah": 6,
+   "ayah": 45
+  },
+  {
+   "page": 134,
+   "surah": 6,
+   "ayah": 53
+  },
+  {
+   "page": 135,
+   "surah": 6,
+   "ayah": 60
+  },
+  {
+   "page": 136,
+   "surah": 6,
+   "ayah": 69
+  },
+  {
+   "page": 137,
+   "surah": 6,
+   "ayah": 74
+  },
+  {
+   "page": 138,
+   "surah": 6,
+   "ayah": 82
+  },
+  {
+   "page": 139,
+   "surah": 6,
+   "ayah": 91
+  },
+  {
+   "page": 140,
+   "surah": 6,
+   "ayah": 95
+  },
+  {
+   "page": 141,
+   "surah": 6,
+   "ayah": 102
+  },
+  {
+   "page": 142,
+   "surah": 6,
+   "ayah": 111
+  },
+  {
+   "page": 143,
+   "surah": 6,
+   "ayah": 119
+  },
+  {
+   "page": 144,
+   "surah": 6,
+   "ayah": 125
+  },
+  {
+   "page": 145,
+   "surah": 6,
+   "ayah": 132
+  },
+  {
+   "page": 146,
+   "surah": 6,
+   "ayah": 138
+  },
+  {
+   "page": 147,
+   "surah": 6,
+   "ayah": 143
+  },
+  {
+   "page": 148,
+   "surah": 6,
+   "ayah": 147
+  },
+  {
+   "page": 149,
+   "surah": 6,
+   "ayah": 152
+  },
+  {
+   "page": 150,
+   "surah": 6,
+   "ayah": 158
+  },
+  {
+   "page": 151,
+   "surah": 7,
+   "ayah": 1
+  },
+  {
+   "page": 152,
+   "surah": 7,
+   "ayah": 12
+  },
+  {
+   "page": 153,
+   "surah": 7,
+   "ayah": 23
+  },
+  {
+   "page": 154,
+   "surah": 7,
+   "ayah": 31
+  },
+  {
+   "page": 155,
+   "surah": 7,
+   "ayah": 38
+  },
+  {
+   "page": 156,
+   "surah": 7,
+   "ayah": 44
+  },
+  {
+   "page": 157,
+   "surah": 7,
+   "ayah": 52
+  },
+  {
+   "page": 158,
+   "surah": 7,
+   "ayah": 58
+  },
+  {
+   "page": 159,
+   "surah": 7,
+   "ayah": 68
+  },
+  {
+   "page": 160,
+   "surah": 7,
+   "ayah": 74
+  },
+  {
+   "page": 161,
+   "surah": 7,
+   "ayah": 82
+  },
+  {
+   "page": 162,
+   "surah": 7,
+   "ayah": 88
+  },
+  {
+   "page": 163,
+   "surah": 7,
+   "ayah": 96
+  },
+  {
+   "page": 164,
+   "surah": 7,
+   "ayah": 105
+  },
+  {
+   "page": 165,
+   "surah": 7,
+   "ayah": 121
+  },
+  {
+   "page": 166,
+   "surah": 7,
+   "ayah": 131
+  },
+  {
+   "page": 167,
+   "surah": 7,
+   "ayah": 138
+  },
+  {
+   "page": 168,
+   "surah": 7,
+   "ayah": 144
+  },
+  {
+   "page": 169,
+   "surah": 7,
+   "ayah": 150
+  },
+  {
+   "page": 170,
+   "surah": 7,
+   "ayah": 156
+  },
+  {
+   "page": 171,
+   "surah": 7,
+   "ayah": 160
+  },
+  {
+   "page": 172,
+   "surah": 7,
+   "ayah": 164
+  },
+  {
+   "page": 173,
+   "surah": 7,
+   "ayah": 171
+  },
+  {
+   "page": 174,
+   "surah": 7,
+   "ayah": 179
+  },
+  {
+   "page": 175,
+   "surah": 7,
+   "ayah": 188
+  },
+  {
+   "page": 176,
+   "surah": 7,
+   "ayah": 196
+  },
+  {
+   "page": 177,
+   "surah": 8,
+   "ayah": 1
+  },
+  {
+   "page": 178,
+   "surah": 8,
+   "ayah": 9
+  },
+  {
+   "page": 179,
+   "surah": 8,
+   "ayah": 17
+  },
+  {
+   "page": 180,
+   "surah": 8,
+   "ayah": 26
+  },
+  {
+   "page": 181,
+   "surah": 8,
+   "ayah": 34
+  },
+  {
+   "page": 182,
+   "surah": 8,
+   "ayah": 41
+  },
+  {
+   "page": 183,
+   "surah": 8,
+   "ayah": 46
+  },
+  {
+   "page": 184,
+   "surah": 8,
+   "ayah": 53
+  },
+  {
+   "page": 185,
+   "surah": 8,
+   "ayah": 62
+  },
+  {
+   "page": 186,
+   "surah": 8,
+   "ayah": 70
+  },
+  {
+   "page": 187,
+   "surah": 9,
+   "ayah": 1
+  },
+  {
+   "page": 188,
+   "surah": 9,
+   "ayah": 7
+  },
+  {
+   "page": 189,
+   "surah": 9,
+   "ayah": 14
+  },
+  {
+   "page": 190,
+   "surah": 9,
+   "ayah": 21
+  },
+  {
+   "page": 191,
+   "surah": 9,
+   "ayah": 27
+  },
+  {
+   "page": 192,
+   "surah": 9,
+   "ayah": 32
+  },
+  {
+   "page": 193,
+   "surah": 9,
+   "ayah": 37
+  },
+  {
+   "page": 194,
+   "surah": 9,
+   "ayah": 41
+  },
+  {
+   "page": 195,
+   "surah": 9,
+   "ayah": 48
+  },
+  {
+   "page": 196,
+   "surah": 9,
+   "ayah": 55
+  },
+  {
+   "page": 197,
+   "surah": 9,
+   "ayah": 62
+  },
+  {
+   "page": 198,
+   "surah": 9,
+   "ayah": 69
+  },
+  {
+   "page": 199,
+   "surah": 9,
+   "ayah": 73
+  },
+  {
+   "page": 200,
+   "surah": 9,
+   "ayah": 80
+  },
+  {
+   "page": 201,
+   "surah": 9,
+   "ayah": 87
+  },
+  {
+   "page": 202,
+   "surah": 9,
+   "ayah": 94
+  },
+  {
+   "page": 203,
+   "surah": 9,
+   "ayah": 100
+  },
+  {
+   "page": 204,
+   "surah": 9,
+   "ayah": 107
+  },
+  {
+   "page": 205,
+   "surah": 9,
+   "ayah": 112
+  },
+  {
+   "page": 206,
+   "surah": 9,
+   "ayah": 118
+  },
+  {
+   "page": 207,
+   "surah": 9,
+   "ayah": 123
+  },
+  {
+   "page": 208,
+   "surah": 10,
+   "ayah": 1
+  },
+  {
+   "page": 209,
+   "surah": 10,
+   "ayah": 7
+  },
+  {
+   "page": 210,
+   "surah": 10,
+   "ayah": 15
+  },
+  {
+   "page": 211,
+   "surah": 10,
+   "ayah": 21
+  },
+  {
+   "page": 212,
+   "surah": 10,
+   "ayah": 26
+  },
+  {
+   "page": 213,
+   "surah": 10,
+   "ayah": 34
+  },
+  {
+   "page": 214,
+   "surah": 10,
+   "ayah": 43
+  },
+  {
+   "page": 215,
+   "surah": 10,
+   "ayah": 54
+  },
+  {
+   "page": 216,
+   "surah": 10,
+   "ayah": 62
+  },
+  {
+   "page": 217,
+   "surah": 10,
+   "ayah": 71
+  },
+  {
+   "page": 218,
+   "surah": 10,
+   "ayah": 79
+  },
+  {
+   "page": 219,
+   "surah": 10,
+   "ayah": 89
+  },
+  {
+   "page": 220,
+   "surah": 10,
+   "ayah": 98
+  },
+  {
+   "page": 221,
+   "surah": 10,
+   "ayah": 107
+  },
+  {
+   "page": 222,
+   "surah": 11,
+   "ayah": 6
+  },
+  {
+   "page": 223,
+   "surah": 11,
+   "ayah": 13
+  },
+  {
+   "page": 224,
+   "surah": 11,
+   "ayah": 20
+  },
+  {
+   "page": 225,
+   "surah": 11,
+   "ayah": 29
+  },
+  {
+   "page": 226,
+   "surah": 11,
+   "ayah": 38
+  },
+  {
+   "page": 227,
+   "surah": 11,
+   "ayah": 46
+  },
+  {
+   "page": 228,
+   "surah": 11,
+   "ayah": 54
+  },
+  {
+   "page": 229,
+   "surah": 11,
+   "ayah": 63
+  },
+  {
+   "page": 230,
+   "surah": 11,
+   "ayah": 72
+  },
+  {
+   "page": 231,
+   "surah": 11,
+   "ayah": 82
+  },
+  {
+   "page": 232,
+   "surah": 11,
+   "ayah": 89
+  },
+  {
+   "page": 233,
+   "surah": 11,
+   "ayah": 98
+  },
+  {
+   "page": 234,
+   "surah": 11,
+   "ayah": 109
+  },
+  {
+   "page": 235,
+   "surah": 11,
+   "ayah": 118
+  },
+  {
+   "page": 236,
+   "surah": 12,
+   "ayah": 5
+  },
+  {
+   "page": 237,
+   "surah": 12,
+   "ayah": 15
+  },
+  {
+   "page": 238,
+   "surah": 12,
+   "ayah": 23
+  },
+  {
+   "page": 239,
+   "surah": 12,
+   "ayah": 31
+  },
+  {
+   "page": 240,
+   "surah": 12,
+   "ayah": 38
+  },
+  {
+   "page": 241,
+   "surah": 12,
+   "ayah": 44
+  },
+  {
+   "page": 242,
+   "surah": 12,
+   "ayah": 53
+  },
+  {
+   "page": 243,
+   "surah": 12,
+   "ayah": 64
+  },
+  {
+   "page": 244,
+   "surah": 12,
+   "ayah": 70
+  },
+  {
+   "page": 245,
+   "surah": 12,
+   "ayah": 79
+  },
+  {
+   "page": 246,
+   "surah": 12,
+   "ayah": 87
+  },
+  {
+   "page": 247,
+   "surah": 12,
+   "ayah": 96
+  },
+  {
+   "page": 248,
+   "surah": 12,
+   "ayah": 104
+  },
+  {
+   "page": 249,
+   "surah": 13,
+   "ayah": 1
+  },
+  {
+   "page": 250,
+   "surah": 13,
+   "ayah": 6
+  },
+  {
+   "page": 251,
+   "surah": 13,
+   "ayah": 14
+  },
+  {
+   "page": 252,
+   "surah": 13,
+   "ayah": 19
+  },
+  {
+   "page": 253,
+   "surah": 13,
+   "ayah": 29
+  },
+  {
+   "page": 254,
+   "surah": 13,
+   "ayah": 35
+  },
+  {
+   "page": 255,
+   "surah": 13,
+   "ayah": 43
+  },
+  {
+   "page": 256,
+   "surah": 14,
+   "ayah": 6
+  },
+  {
+   "page": 257,
+   "surah": 14,
+   "ayah": 11
+  },
+  {
+   "page": 258,
+   "surah": 14,
+   "ayah": 19
+  },
+  {
+   "page": 259,
+   "surah": 14,
+   "ayah": 25
+  },
+  {
+   "page": 260,
+   "surah": 14,
+   "ayah": 34
+  },
+  {
+   "page": 261,
+   "surah": 14,
+   "ayah": 43
+  },
+  {
+   "page": 262,
+   "surah": 15,
+   "ayah": 1
+  },
+  {
+   "page": 263,
+   "surah": 15,
+   "ayah": 16
+  },
+  {
+   "page": 264,
+   "surah": 15,
+   "ayah": 32
+  },
+  {
+   "page": 265,
+   "surah": 15,
+   "ayah": 52
+  },
+  {
+   "page": 266,
+   "surah": 15,
+   "ayah": 71
+  },
+  {
+   "page": 267,
+   "surah": 15,
+   "ayah": 91
+  },
+  {
+   "page": 268,
+   "surah": 16,
+   "ayah": 7
+  },
+  {
+   "page": 269,
+   "surah": 16,
+   "ayah": 15
+  },
+  {
+   "page": 270,
+   "surah": 16,
+   "ayah": 27
+  },
+  {
+   "page": 271,
+   "surah": 16,
+   "ayah": 35
+  },
+  {
+   "page": 272,
+   "surah": 16,
+   "ayah": 43
+  },
+  {
+   "page": 273,
+   "surah": 16,
+   "ayah": 55
+  },
+  {
+   "page": 274,
+   "surah": 16,
+   "ayah": 65
+  },
+  {
+   "page": 275,
+   "surah": 16,
+   "ayah": 73
+  },
+  {
+   "page": 276,
+   "surah": 16,
+   "ayah": 80
+  },
+  {
+   "page": 277,
+   "surah": 16,
+   "ayah": 88
+  },
+  {
+   "page": 278,
+   "surah": 16,
+   "ayah": 94
+  },
+  {
+   "page": 279,
+   "surah": 16,
+   "ayah": 103
+  },
+  {
+   "page": 280,
+   "surah": 16,
+   "ayah": 111
+  },
+  {
+   "page": 281,
+   "surah": 16,
+   "ayah": 119
+  },
+  {
+   "page": 282,
+   "surah": 17,
+   "ayah": 1
+  },
+  {
+   "page": 283,
+   "surah": 17,
+   "ayah": 8
+  },
+  {
+   "page": 284,
+   "surah": 17,
+   "ayah": 18
+  },
+  {
+   "page": 285,
+   "surah": 17,
+   "ayah": 28
+  },
+  {
+   "page": 286,
+   "surah": 17,
+   "ayah": 39
+  },
+  {
+   "page": 287,
+   "surah": 17,
+   "ayah": 50
+  },
+  {
+   "page": 288,
+   "surah": 17,
+   "ayah": 59
+  },
+  {
+   "page": 289,
+   "surah": 17,
+   "ayah": 67
+  },
+  {
+   "page": 290,
+   "surah": 17,
+   "ayah": 76
+  },
+  {
+   "page": 291,
+   "surah": 17,
+   "ayah": 87
+  },
+  {
+   "page": 292,
+   "surah": 17,
+   "ayah": 97
+  },
+  {
+   "page": 293,
+   "surah": 17,
+   "ayah": 105
+  },
+  {
+   "page": 294,
+   "surah": 18,
+   "ayah": 5
+  },
+  {
+   "page": 295,
+   "surah": 18,
+   "ayah": 16
+  },
+  {
+   "page": 296,
+   "surah": 18,
+   "ayah": 21
+  },
+  {
+   "page": 297,
+   "surah": 18,
+   "ayah": 28
+  },
+  {
+   "page": 298,
+   "surah": 18,
+   "ayah": 35
+  },
+  {
+   "page": 299,
+   "surah": 18,
+   "ayah": 46
+  },
+  {
+   "page": 300,
+   "surah": 18,
+   "ayah": 54
+  },
+  {
+   "page": 301,
+   "surah": 18,
+   "ayah": 62
+  },
+  {
+   "page": 302,
+   "surah": 18,
+   "ayah": 75
+  },
+  {
+   "page": 303,
+   "surah": 18,
+   "ayah": 84
+  },
+  {
+   "page": 304,
+   "surah": 18,
+   "ayah": 98
+  },
+  {
+   "page": 305,
+   "surah": 19,
+   "ayah": 1
+  },
+  {
+   "page": 306,
+   "surah": 19,
+   "ayah": 12
+  },
+  {
+   "page": 307,
+   "surah": 19,
+   "ayah": 26
+  },
+  {
+   "page": 308,
+   "surah": 19,
+   "ayah": 39
+  },
+  {
+   "page": 309,
+   "surah": 19,
+   "ayah": 52
+  },
+  {
+   "page": 310,
+   "surah": 19,
+   "ayah": 65
+  },
+  {
+   "page": 311,
+   "surah": 19,
+   "ayah": 77
+  },
+  {
+   "page": 312,
+   "surah": 19,
+   "ayah": 96
+  },
+  {
+   "page": 313,
+   "surah": 20,
+   "ayah": 13
+  },
+  {
+   "page": 314,
+   "surah": 20,
+   "ayah": 38
+  },
+  {
+   "page": 315,
+   "surah": 20,
+   "ayah": 52
+  },
+  {
+   "page": 316,
+   "surah": 20,
+   "ayah": 65
+  },
+  {
+   "page": 317,
+   "surah": 20,
+   "ayah": 77
+  },
+  {
+   "page": 318,
+   "surah": 20,
+   "ayah": 88
+  },
+  {
+   "page": 319,
+   "surah": 20,
+   "ayah": 99
+  },
+  {
+   "page": 320,
+   "surah": 20,
+   "ayah": 114
+  },
+  {
+   "page": 321,
+   "surah": 20,
+   "ayah": 126
+  },
+  {
+   "page": 322,
+   "surah": 21,
+   "ayah": 1
+  },
+  {
+   "page": 323,
+   "surah": 21,
+   "ayah": 11
+  },
+  {
+   "page": 324,
+   "surah": 21,
+   "ayah": 25
+  },
+  {
+   "page": 325,
+   "surah": 21,
+   "ayah": 36
+  },
+  {
+   "page": 326,
+   "surah": 21,
+   "ayah": 45
+  },
+  {
+   "page": 327,
+   "surah": 21,
+   "ayah": 58
+  },
+  {
+   "page": 328,
+   "surah": 21,
+   "ayah": 73
+  },
+  {
+   "page": 329,
+   "surah": 21,
+   "ayah": 82
+  },
+  {
+   "page": 330,
+   "surah": 21,
+   "ayah": 91
+  },
+  {
+   "page": 331,
+   "surah": 21,
+   "ayah": 102
+  },
+  {
+   "page": 332,
+   "surah": 22,
+   "ayah": 1
+  },
+  {
+   "page": 333,
+   "surah": 22,
+   "ayah": 6
+  },
+  {
+   "page": 334,
+   "surah": 22,
+   "ayah": 16
+  },
+  {
+   "page": 335,
+   "surah": 22,
+   "ayah": 24
+  },
+  {
+   "page": 336,
+   "surah": 22,
+   "ayah": 31
+  },
+  {
+   "page": 337,
+   "surah": 22,
+   "ayah": 39
+  },
+  {
+   "page": 338,
+   "surah": 22,
+   "ayah": 47
+  },
+  {
+   "page": 339,
+   "surah": 22,
+   "ayah": 56
+  },
+  {
+   "page": 340,
+   "surah": 22,
+   "ayah": 65
+  },
+  {
+   "page": 341,
+   "surah": 22,
+   "ayah": 73
+  },
+  {
+   "page": 342,
+   "surah": 23,
+   "ayah": 1
+  },
+  {
+   "page": 343,
+   "surah": 23,
+   "ayah": 18
+  },
+  {
+   "page": 344,
+   "surah": 23,
+   "ayah": 28
+  },
+  {
+   "page": 345,
+   "surah": 23,
+   "ayah": 43
+  },
+  {
+   "page": 346,
+   "surah": 23,
+   "ayah": 60
+  },
+  {
+   "page": 347,
+   "surah": 23,
+   "ayah": 75
+  },
+  {
+   "page": 348,
+   "surah": 23,
+   "ayah": 90
+  },
+  {
+   "page": 349,
+   "surah": 23,
+   "ayah": 105
+  },
+  {
+   "page": 350,
+   "surah": 24,
+   "ayah": 1
+  },
+  {
+   "page": 351,
+   "surah": 24,
+   "ayah": 11
+  },
+  {
+   "page": 352,
+   "surah": 24,
+   "ayah": 21
+  },
+  {
+   "page": 353,
+   "surah": 24,
+   "ayah": 28
+  },
+  {
+   "page": 354,
+   "surah": 24,
+   "ayah": 32
+  },
+  {
+   "page": 355,
+   "surah": 24,
+   "ayah": 37
+  },
+  {
+   "page": 356,
+   "surah": 24,
+   "ayah": 44
+  },
+  {
+   "page": 357,
+   "surah": 24,
+   "ayah": 54
+  },
+  {
+   "page": 358,
+   "surah": 24,
+   "ayah": 59
+  },
+  {
+   "page": 359,
+   "surah": 24,
+   "ayah": 62
+  },
+  {
+   "page": 360,
+   "surah": 25,
+   "ayah": 3
+  },
+  {
+   "page": 361,
+   "surah": 25,
+   "ayah": 12
+  },
+  {
+   "page": 362,
+   "surah": 25,
+   "ayah": 21
+  },
+  {
+   "page": 363,
+   "surah": 25,
+   "ayah": 33
+  },
+  {
+   "page": 364,
+   "surah": 25,
+   "ayah": 44
+  },
+  {
+   "page": 365,
+   "surah": 25,
+   "ayah": 56
+  },
+  {
+   "page": 366,
+   "surah": 25,
+   "ayah": 68
+  },
+  {
+   "page": 367,
+   "surah": 26,
+   "ayah": 1
+  },
+  {
+   "page": 368,
+   "surah": 26,
+   "ayah": 20
+  },
+  {
+   "page": 369,
+   "surah": 26,
+   "ayah": 40
+  },
+  {
+   "page": 370,
+   "surah": 26,
+   "ayah": 61
+  },
+  {
+   "page": 371,
+   "surah": 26,
+   "ayah": 84
+  },
+  {
+   "page": 372,
+   "surah": 26,
+   "ayah": 112
+  },
+  {
+   "page": 373,
+   "surah": 26,
+   "ayah": 137
+  },
+  {
+   "page": 374,
+   "surah": 26,
+   "ayah": 160
+  },
+  {
+   "page": 375,
+   "surah": 26,
+   "ayah": 184
+  },
+  {
+   "page": 376,
+   "surah": 26,
+   "ayah": 207
+  },
+  {
+   "page": 377,
+   "surah": 27,
+   "ayah": 1
+  },
+  {
+   "page": 378,
+   "surah": 27,
+   "ayah": 14
+  },
+  {
+   "page": 379,
+   "surah": 27,
+   "ayah": 23
+  },
+  {
+   "page": 380,
+   "surah": 27,
+   "ayah": 36
+  },
+  {
+   "page": 381,
+   "surah": 27,
+   "ayah": 45
+  },
+  {
+   "page": 382,
+   "surah": 27,
+   "ayah": 56
+  },
+  {
+   "page": 383,
+   "surah": 27,
+   "ayah": 64
+  },
+  {
+   "page": 384,
+   "surah": 27,
+   "ayah": 77
+  },
+  {
+   "page": 385,
+   "surah": 27,
+   "ayah": 89
+  },
+  {
+   "page": 386,
+   "surah": 28,
+   "ayah": 6
+  },
+  {
+   "page": 387,
+   "surah": 28,
+   "ayah": 14
+  },
+  {
+   "page": 388,
+   "surah": 28,
+   "ayah": 22
+  },
+  {
+   "page": 389,
+   "surah": 28,
+   "ayah": 29
+  },
+  {
+   "page": 390,
+   "surah": 28,
+   "ayah": 36
+  },
+  {
+   "page": 391,
+   "surah": 28,
+   "ayah": 44
+  },
+  {
+   "page": 392,
+   "surah": 28,
+   "ayah": 51
+  },
+  {
+   "page": 393,
+   "surah": 28,
+   "ayah": 60
+  },
+  {
+   "page": 394,
+   "surah": 28,
+   "ayah": 71
+  },
+  {
+   "page": 395,
+   "surah": 28,
+   "ayah": 78
+  },
+  {
+   "page": 396,
+   "surah": 28,
+   "ayah": 85
+  },
+  {
+   "page": 397,
+   "surah": 29,
+   "ayah": 7
+  },
+  {
+   "page": 398,
+   "surah": 29,
+   "ayah": 15
+  },
+  {
+   "page": 399,
+   "surah": 29,
+   "ayah": 24
+  },
+  {
+   "page": 400,
+   "surah": 29,
+   "ayah": 31
+  },
+  {
+   "page": 401,
+   "surah": 29,
+   "ayah": 39
+  },
+  {
+   "page": 402,
+   "surah": 29,
+   "ayah": 46
+  },
+  {
+   "page": 403,
+   "surah": 29,
+   "ayah": 53
+  },
+  {
+   "page": 404,
+   "surah": 29,
+   "ayah": 64
+  },
+  {
+   "page": 405,
+   "surah": 30,
+   "ayah": 6
+  },
+  {
+   "page": 406,
+   "surah": 30,
+   "ayah": 16
+  },
+  {
+   "page": 407,
+   "surah": 30,
+   "ayah": 25
+  },
+  {
+   "page": 408,
+   "surah": 30,
+   "ayah": 33
+  },
+  {
+   "page": 409,
+   "surah": 30,
+   "ayah": 42
+  },
+  {
+   "page": 410,
+   "surah": 30,
+   "ayah": 51
+  },
+  {
+   "page": 411,
+   "surah": 31,
+   "ayah": 1
+  },
+  {
+   "page": 412,
+   "surah": 31,
+   "ayah": 12
+  },
+  {
+   "page": 413,
+   "surah": 31,
+   "ayah": 20
+  },
+  {
+   "page": 414,
+   "surah": 31,
+   "ayah": 29
+  },
+  {
+   "page": 415,
+   "surah": 32,
+   "ayah": 1
+  },
+  {
+   "page": 416,
+   "surah": 32,
+   "ayah": 12
+  },
+  {
+   "page": 417,
+   "surah": 32,
+   "ayah": 21
+  },
+  {
+   "page": 418,
+   "surah": 33,
+   "ayah": 1
+  },
+  {
+   "page": 419,
+   "surah": 33,
+   "ayah": 7
+  },
+  {
+   "page": 420,
+   "surah": 33,
+   "ayah": 16
+  },
+  {
+   "page": 421,
+   "surah": 33,
+   "ayah": 23
+  },
+  {
+   "page": 422,
+   "surah": 33,
+   "ayah": 31
+  },
+  {
+   "page": 423,
+   "surah": 33,
+   "ayah": 36
+  },
+  {
+   "page": 424,
+   "surah": 33,
+   "ayah": 44
+  },
+  {
+   "page": 425,
+   "surah": 33,
+   "ayah": 51
+  },
+  {
+   "page": 426,
+   "surah": 33,
+   "ayah": 55
+  },
+  {
+   "page": 427,
+   "surah": 33,
+   "ayah": 63
+  },
+  {
+   "page": 428,
+   "surah": 34,
+   "ayah": 1
+  },
+  {
+   "page": 429,
+   "surah": 34,
+   "ayah": 8
+  },
+  {
+   "page": 430,
+   "surah": 34,
+   "ayah": 15
+  },
+  {
+   "page": 431,
+   "surah": 34,
+   "ayah": 23
+  },
+  {
+   "page": 432,
+   "surah": 34,
+   "ayah": 32
+  },
+  {
+   "page": 433,
+   "surah": 34,
+   "ayah": 40
+  },
+  {
+   "page": 434,
+   "surah": 34,
+   "ayah": 49
+  },
+  {
+   "page": 435,
+   "surah": 35,
+   "ayah": 4
+  },
+  {
+   "page": 436,
+   "surah": 35,
+   "ayah": 12
+  },
+  {
+   "page": 437,
+   "surah": 35,
+   "ayah": 19
+  },
+  {
+   "page": 438,
+   "surah": 35,
+   "ayah": 31
+  },
+  {
+   "page": 439,
+   "surah": 35,
+   "ayah": 39
+  },
+  {
+   "page": 440,
+   "surah": 35,
+   "ayah": 45
+  },
+  {
+   "page": 441,
+   "surah": 36,
+   "ayah": 13
+  },
+  {
+   "page": 442,
+   "surah": 36,
+   "ayah": 28
+  },
+  {
+   "page": 443,
+   "surah": 36,
+   "ayah": 41
+  },
+  {
+   "page": 444,
+   "surah": 36,
+   "ayah": 55
+  },
+  {
+   "page": 445,
+   "surah": 36,
+   "ayah": 71
+  },
+  {
+   "page": 446,
+   "surah": 37,
+   "ayah": 1
+  },
+  {
+   "page": 447,
+   "surah": 37,
+   "ayah": 25
+  },
+  {
+   "page": 448,
+   "surah": 37,
+   "ayah": 52
+  },
+  {
+   "page": 449,
+   "surah": 37,
+   "ayah": 77
+  },
+  {
+   "page": 450,
+   "surah": 37,
+   "ayah": 103
+  },
+  {
+   "page": 451,
+   "surah": 37,
+   "ayah": 127
+  },
+  {
+   "page": 452,
+   "surah": 37,
+   "ayah": 154
+  },
+  {
+   "page": 453,
+   "surah": 38,
+   "ayah": 1
+  },
+  {
+   "page": 454,
+   "surah": 38,
+   "ayah": 17
+  },
+  {
+   "page": 455,
+   "surah": 38,
+   "ayah": 27
+  },
+  {
+   "page": 456,
+   "surah": 38,
+   "ayah": 43
+  },
+  {
+   "page": 457,
+   "surah": 38,
+   "ayah": 62
+  },
+  {
+   "page": 458,
+   "surah": 38,
+   "ayah": 84
+  },
+  {
+   "page": 459,
+   "surah": 39,
+   "ayah": 6
+  },
+  {
+   "page": 460,
+   "surah": 39,
+   "ayah": 11
+  },
+  {
+   "page": 461,
+   "surah": 39,
+   "ayah": 22
+  },
+  {
+   "page": 462,
+   "surah": 39,
+   "ayah": 32
+  },
+  {
+   "page": 463,
+   "surah": 39,
+   "ayah": 41
+  },
+  {
+   "page": 464,
+   "surah": 39,
+   "ayah": 48
+  },
+  {
+   "page": 465,
+   "surah": 39,
+   "ayah": 57
+  },
+  {
+   "page": 466,
+   "surah": 39,
+   "ayah": 68
+  },
+  {
+   "page": 467,
+   "surah": 39,
+   "ayah": 75
+  },
+  {
+   "page": 468,
+   "surah": 40,
+   "ayah": 8
+  },
+  {
+   "page": 469,
+   "surah": 40,
+   "ayah": 17
+  },
+  {
+   "page": 470,
+   "surah": 40,
+   "ayah": 26
+  },
+  {
+   "page": 471,
+   "surah": 40,
+   "ayah": 34
+  },
+  {
+   "page": 472,
+   "surah": 40,
+   "ayah": 41
+  },
+  {
+   "page": 473,
+   "surah": 40,
+   "ayah": 50
+  },
+  {
+   "page": 474,
+   "surah": 40,
+   "ayah": 59
+  },
+  {
+   "page": 475,
+   "surah": 40,
+   "ayah": 67
+  },
+  {
+   "page": 476,
+   "surah": 40,
+   "ayah": 78
+  },
+  {
+   "page": 477,
+   "surah": 41,
+   "ayah": 1
+  },
+  {
+   "page": 478,
+   "surah": 41,
+   "ayah": 12
+  },
+  {
+   "page": 479,
+   "surah": 41,
+   "ayah": 21
+  },
+  {
+   "page": 480,
+   "surah": 41,
+   "ayah": 30
+  },
+  {
+   "page": 481,
+   "surah": 41,
+   "ayah": 39
+  },
+  {
+   "page": 482,
+   "surah": 41,
+   "ayah": 47
+  },
+  {
+   "page": 483,
+   "surah": 42,
+   "ayah": 1
+  },
+  {
+   "page": 484,
+   "surah": 42,
+   "ayah": 11
+  },
+  {
+   "page": 485,
+   "surah": 42,
+   "ayah": 16
+  },
+  {
+   "page": 486,
+   "surah": 42,
+   "ayah": 23
+  },
+  {
+   "page": 487,
+   "surah": 42,
+   "ayah": 32
+  },
+  {
+   "page": 488,
+   "surah": 42,
+   "ayah": 45
+  },
+  {
+   "page": 489,
+   "surah": 42,
+   "ayah": 52
+  },
+  {
+   "page": 490,
+   "surah": 43,
+   "ayah": 11
+  },
+  {
+   "page": 491,
+   "surah": 43,
+   "ayah": 23
+  },
+  {
+   "page": 492,
+   "surah": 43,
+   "ayah": 34
+  },
+  {
+   "page": 493,
+   "surah": 43,
+   "ayah": 48
+  },
+  {
+   "page": 494,
+   "surah": 43,
+   "ayah": 61
+  },
+  {
+   "page": 495,
+   "surah": 43,
+   "ayah": 74
+  },
+  {
+   "page": 496,
+   "surah": 44,
+   "ayah": 1
+  },
+  {
+   "page": 497,
+   "surah": 44,
+   "ayah": 19
+  },
+  {
+   "page": 498,
+   "surah": 44,
+   "ayah": 40
+  },
+  {
+   "page": 499,
+   "surah": 45,
+   "ayah": 1
+  },
+  {
+   "page": 500,
+   "surah": 45,
+   "ayah": 14
+  },
+  {
+   "page": 501,
+   "surah": 45,
+   "ayah": 23
+  },
+  {
+   "page": 502,
+   "surah": 45,
+   "ayah": 33
+  },
+  {
+   "page": 503,
+   "surah": 46,
+   "ayah": 6
+  },
+  {
+   "page": 504,
+   "surah": 46,
+   "ayah": 15
+  },
+  {
+   "page": 505,
+   "surah": 46,
+   "ayah": 21
+  },
+  {
+   "page": 506,
+   "surah": 46,
+   "ayah": 29
+  },
+  {
+   "page": 507,
+   "surah": 47,
+   "ayah": 1
+  },
+  {
+   "page": 508,
+   "surah": 47,
+   "ayah": 12
+  },
+  {
+   "page": 509,
+   "surah": 47,
+   "ayah": 20
+  },
+  {
+   "page": 510,
+   "surah": 47,
+   "ayah": 30
+  },
+  {
+   "page": 511,
+   "surah": 48,
+   "ayah": 1
+  },
+  {
+   "page": 512,
+   "surah": 48,
+   "ayah": 10
+  },
+  {
+   "page": 513,
+   "surah": 48,
+   "ayah": 16
+  },
+  {
+   "page": 514,
+   "surah": 48,
+   "ayah": 24
+  },
+  {
+   "page": 515,
+   "surah": 48,
+   "ayah": 29
+  },
+  {
+   "page": 516,
+   "surah": 49,
+   "ayah": 5
+  },
+  {
+   "page": 517,
+   "surah": 49,
+   "ayah": 12
+  },
+  {
+   "page": 518,
+   "surah": 50,
+   "ayah": 1
+  },
+  {
+   "page": 519,
+   "surah": 50,
+   "ayah": 16
+  },
+  {
+   "page": 520,
+   "surah": 50,
+   "ayah": 36
+  },
+  {
+   "page": 521,
+   "surah": 51,
+   "ayah": 7
+  },
+  {
+   "page": 522,
+   "surah": 51,
+   "ayah": 31
+  },
+  {
+   "page": 523,
+   "surah": 51,
+   "ayah": 52
+  },
+  {
+   "page": 524,
+   "surah": 52,
+   "ayah": 15
+  },
+  {
+   "page": 525,
+   "surah": 52,
+   "ayah": 32
+  },
+  {
+   "page": 526,
+   "surah": 53,
+   "ayah": 1
+  },
+  {
+   "page": 527,
+   "surah": 53,
+   "ayah": 27
+  },
+  {
+   "page": 528,
+   "surah": 53,
+   "ayah": 45
+  },
+  {
+   "page": 529,
+   "surah": 54,
+   "ayah": 7
+  },
+  {
+   "page": 530,
+   "surah": 54,
+   "ayah": 28
+  },
+  {
+   "page": 531,
+   "surah": 54,
+   "ayah": 50
+  },
+  {
+   "page": 532,
+   "surah": 55,
+   "ayah": 17
+  },
+  {
+   "page": 533,
+   "surah": 55,
+   "ayah": 41
+  },
+  {
+   "page": 534,
+   "surah": 55,
+   "ayah": 68
+  },
+  {
+   "page": 535,
+   "surah": 56,
+   "ayah": 17
+  },
+  {
+   "page": 536,
+   "surah": 56,
+   "ayah": 51
+  },
+  {
+   "page": 537,
+   "surah": 56,
+   "ayah": 77
+  },
+  {
+   "page": 538,
+   "surah": 57,
+   "ayah": 4
+  },
+  {
+   "page": 539,
+   "surah": 57,
+   "ayah": 12
+  },
+  {
+   "page": 540,
+   "surah": 57,
+   "ayah": 19
+  },
+  {
+   "page": 541,
+   "surah": 57,
+   "ayah": 25
+  },
+  {
+   "page": 542,
+   "surah": 58,
+   "ayah": 1
+  },
+  {
+   "page": 543,
+   "surah": 58,
+   "ayah": 7
+  },
+  {
+   "page": 544,
+   "surah": 58,
+   "ayah": 12
+  },
+  {
+   "page": 545,
+   "surah": 58,
+   "ayah": 22
+  },
+  {
+   "page": 546,
+   "surah": 59,
+   "ayah": 4
+  },
+  {
+   "page": 547,
+   "surah": 59,
+   "ayah": 10
+  },
+  {
+   "page": 548,
+   "surah": 59,
+   "ayah": 17
+  },
+  {
+   "page": 549,
+   "surah": 60,
+   "ayah": 1
+  },
+  {
+   "page": 550,
+   "surah": 60,
+   "ayah": 6
+  },
+  {
+   "page": 551,
+   "surah": 60,
+   "ayah": 12
+  },
+  {
+   "page": 552,
+   "surah": 61,
+   "ayah": 6
+  },
+  {
+   "page": 553,
+   "surah": 62,
+   "ayah": 1
+  },
+  {
+   "page": 554,
+   "surah": 62,
+   "ayah": 9
+  },
+  {
+   "page": 555,
+   "surah": 63,
+   "ayah": 5
+  },
+  {
+   "page": 556,
+   "surah": 64,
+   "ayah": 1
+  },
+  {
+   "page": 557,
+   "surah": 64,
+   "ayah": 10
+  },
+  {
+   "page": 558,
+   "surah": 65,
+   "ayah": 1
+  },
+  {
+   "page": 559,
+   "surah": 65,
+   "ayah": 6
+  },
+  {
+   "page": 560,
+   "surah": 66,
+   "ayah": 1
+  },
+  {
+   "page": 561,
+   "surah": 66,
+   "ayah": 8
+  },
+  {
+   "page": 562,
+   "surah": 67,
+   "ayah": 1
+  },
+  {
+   "page": 563,
+   "surah": 67,
+   "ayah": 13
+  },
+  {
+   "page": 564,
+   "surah": 67,
+   "ayah": 27
+  },
+  {
+   "page": 565,
+   "surah": 68,
+   "ayah": 16
+  },
+  {
+   "page": 566,
+   "surah": 68,
+   "ayah": 43
+  },
+  {
+   "page": 567,
+   "surah": 69,
+   "ayah": 9
+  },
+  {
+   "page": 568,
+   "surah": 69,
+   "ayah": 35
+  },
+  {
+   "page": 569,
+   "surah": 70,
+   "ayah": 11
+  },
+  {
+   "page": 570,
+   "surah": 70,
+   "ayah": 40
+  },
+  {
+   "page": 571,
+   "surah": 71,
+   "ayah": 11
+  },
+  {
+   "page": 572,
+   "surah": 72,
+   "ayah": 1
+  },
+  {
+   "page": 573,
+   "surah": 72,
+   "ayah": 14
+  },
+  {
+   "page": 574,
+   "surah": 73,
+   "ayah": 1
+  },
+  {
+   "page": 575,
+   "surah": 73,
+   "ayah": 20
+  },
+  {
+   "page": 576,
+   "surah": 74,
+   "ayah": 18
+  },
+  {
+   "page": 577,
+   "surah": 74,
+   "ayah": 48
+  },
+  {
+   "page": 578,
+   "surah": 75,
+   "ayah": 20
+  },
+  {
+   "page": 579,
+   "surah": 76,
+   "ayah": 6
+  },
+  {
+   "page": 580,
+   "surah": 76,
+   "ayah": 26
+  },
+  {
+   "page": 581,
+   "surah": 77,
+   "ayah": 20
+  },
+  {
+   "page": 582,
+   "surah": 78,
+   "ayah": 1
+  },
+  {
+   "page": 583,
+   "surah": 78,
+   "ayah": 31
+  },
+  {
+   "page": 584,
+   "surah": 79,
+   "ayah": 16
+  },
+  {
+   "page": 585,
+   "surah": 80,
+   "ayah": 1
+  },
+  {
+   "page": 586,
+   "surah": 81,
+   "ayah": 1
+  },
+  {
+   "page": 587,
+   "surah": 82,
+   "ayah": 1
+  },
+  {
+   "page": 588,
+   "surah": 83,
+   "ayah": 7
+  },
+  {
+   "page": 589,
+   "surah": 83,
+   "ayah": 35
+  },
+  {
+   "page": 590,
+   "surah": 85,
+   "ayah": 1
+  },
+  {
+   "page": 591,
+   "surah": 86,
+   "ayah": 1
+  },
+  {
+   "page": 592,
+   "surah": 87,
+   "ayah": 16
+  },
+  {
+   "page": 593,
+   "surah": 89,
+   "ayah": 1
+  },
+  {
+   "page": 594,
+   "surah": 89,
+   "ayah": 24
+  },
+  {
+   "page": 595,
+   "surah": 91,
+   "ayah": 1
+  },
+  {
+   "page": 596,
+   "surah": 92,
+   "ayah": 15
+  },
+  {
+   "page": 597,
+   "surah": 95,
+   "ayah": 1
+  },
+  {
+   "page": 598,
+   "surah": 97,
+   "ayah": 1
+  },
+  {
+   "page": 599,
+   "surah": 98,
+   "ayah": 8
+  },
+  {
+   "page": 600,
+   "surah": 100,
+   "ayah": 10
+  },
+  {
+   "page": 601,
+   "surah": 103,
+   "ayah": 1
+  },
+  {
+   "page": 602,
+   "surah": 106,
+   "ayah": 1
+  },
+  {
+   "page": 603,
+   "surah": 109,
+   "ayah": 1
+  },
+  {
+   "page": 604,
+   "surah": 112,
+   "ayah": 1
+  }
+ ],
+ "juzs": [
+  {
+   "juz": 1,
+   "surah": 1,
+   "ayah": 1
+  },
+  {
+   "juz": 2,
+   "surah": 2,
+   "ayah": 142
+  },
+  {
+   "juz": 3,
+   "surah": 2,
+   "ayah": 253
+  },
+  {
+   "juz": 4,
+   "surah": 3,
+   "ayah": 93
+  },
+  {
+   "juz": 5,
+   "surah": 4,
+   "ayah": 24
+  },
+  {
+   "juz": 6,
+   "surah": 4,
+   "ayah": 148
+  },
+  {
+   "juz": 7,
+   "surah": 5,
+   "ayah": 82
+  },
+  {
+   "juz": 8,
+   "surah": 6,
+   "ayah": 111
+  },
+  {
+   "juz": 9,
+   "surah": 7,
+   "ayah": 88
+  },
+  {
+   "juz": 10,
+   "surah": 8,
+   "ayah": 41
+  },
+  {
+   "juz": 11,
+   "surah": 9,
+   "ayah": 93
+  },
+  {
+   "juz": 12,
+   "surah": 11,
+   "ayah": 6
+  },
+  {
+   "juz": 13,
+   "surah": 12,
+   "ayah": 53
+  },
+  {
+   "juz": 14,
+   "surah": 15,
+   "ayah": 1
+  },
+  {
+   "juz": 15,
+   "surah": 17,
+   "ayah": 1
+  },
+  {
+   "juz": 16,
+   "surah": 18,
+   "ayah": 75
+  },
+  {
+   "juz": 17,
+   "surah": 21,
+   "ayah": 1
+  },
+  {
+   "juz": 18,
+   "surah": 23,
+   "ayah": 1
+  },
+  {
+   "juz": 19,
+   "surah": 25,
+   "ayah": 21
+  },
+  {
+   "juz": 20,
+   "surah": 27,
+   "ayah": 56
+  },
+  {
+   "juz": 21,
+   "surah": 29,
+   "ayah": 46
+  },
+  {
+   "juz": 22,
+   "surah": 33,
+   "ayah": 31
+  },
+  {
+   "juz": 23,
+   "surah": 36,
+   "ayah": 28
+  },
+  {
+   "juz": 24,
+   "surah": 39,
+   "ayah": 32
+  },
+  {
+   "juz": 25,
+   "surah": 41,
+   "ayah": 47
+  },
+  {
+   "juz": 26,
+   "surah": 46,
+   "ayah": 1
+  },
+  {
+   "juz": 27,
+   "surah": 51,
+   "ayah": 31
+  },
+  {
+   "juz": 28,
+   "surah": 58,
+   "ayah": 1
+  },
+  {
+   "juz": 29,
+   "surah": 67,
+   "ayah": 1
+  },
+  {
+   "juz": 30,
+   "surah": 78,
+   "ayah": 1
+  }
+ ],
+ "legacyReciterFolders": [
+  "afs",
+  "husr",
+  "minsh",
+  "basit"
  ]
 }
