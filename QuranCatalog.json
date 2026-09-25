@@ -12,7 +12,8 @@
    "nameTr": "Mişari Raşid el-Afâsî",
    "urlTemplate": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/{n}.mp3",
    "source": "quranicaudio.com",
-   "hasTimings": true
+    "hasTimings": true,
+    "ayahAudioFolder": "Alafasy_128kbps"
   },
   {
    "id": "husary",
@@ -20,7 +21,8 @@
    "nameTr": "Mahmud Halil el-Husarî",
    "urlTemplate": "https://download.quranicaudio.com/qdc/khalil_al_husary/murattal/{n}.mp3",
    "source": "quranicaudio.com",
-   "hasTimings": true
+    "hasTimings": true,
+    "ayahAudioFolder": "Husary_128kbps"
   },
   {
    "id": "minshawi",
@@ -28,7 +30,8 @@
    "nameTr": "Muhammed Sıddîk el-Minşâvî",
    "urlTemplate": "https://download.quranicaudio.com/qdc/siddiq_minshawi/murattal/{n}.mp3",
    "source": "quranicaudio.com",
-   "hasTimings": true
+    "hasTimings": true,
+    "ayahAudioFolder": "Minshawy_Murattal_128kbps"
   },
   {
    "id": "abdulbaset",
@@ -36,7 +39,8 @@
    "nameTr": "Abdülbâsıt Abdüssamed",
    "urlTemplate": "https://download.quranicaudio.com/qdc/abdul_baset/murattal/{n}.mp3",
    "source": "quranicaudio.com",
-   "hasTimings": true
+    "hasTimings": true,
+    "ayahAudioFolder": "Abdul_Basit_Murattal_192kbps"
   }
  ],
  "chapters": [

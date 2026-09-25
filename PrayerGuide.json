@@ -1,6 +1,6 @@
 {
- "version": 2,
- "updatedAt": "2026-09-15",
+ "version": 3,
+ "updatedAt": "2026-09-23",
  "madhab": "hanafi",
  "disclaimer": {
   "tr": "Bu bölümdeki bilgiler Diyanet İşleri Başkanlığı yayınlarına dayanır. Hanefî mezhebi esas alınmış, Şafiî farkları ayrıca belirtilmiştir.",
@@ -60,9 +60,268 @@
     "en": "English explanations and dua meanings were translated from the DİB texts."
    },
    "url": ""
+  },
+  {
+   "id": "dib-ilmihal-1",
+   "title": "İlmihal I: İman ve İbadetler — Diyanet İşleri Başkanlığı (TDV İSAM heyeti)",
+   "note": {
+    "tr": "İman esasları, oruç, zekât, hac, cuma, bayram ve cenaze namazı bölümleri bu cildin resmî PDF'sinden özetlenmiştir; atıflardaki #page= değeri PDF sayfasıdır.",
+    "en": "Articles of faith, fasting, zakat, hajj, Friday, Eid and funeral prayer sections are summarised from the official PDF of this volume; the #page= value in citations is the PDF page."
+   },
+   "url": "https://webdosya.diyanet.gov.tr/DiyanetAnasayfa/UserFiles/DiniBilgiler/ilmihal_cilt_1.pdf"
+  },
+  {
+   "id": "dib-ilmihal-2",
+   "title": "İlmihal II: İslâm ve Toplum — Diyanet İşleri Başkanlığı (Onbirinci Bölüm: Kurban)",
+   "note": {
+    "tr": "Kurban maddesi bu cildin resmî PDF'sindeki Kurban bölümünden özetlenmiştir.",
+    "en": "The sacrifice article is summarised from the Kurban chapter of this volume's official PDF."
+   },
+   "url": "https://webdosya.diyanet.gov.tr/DiyanetAnasayfa/UserFiles/DiniBilgiler/ilmihal_cilt_2.pdf"
+  },
+  {
+   "id": "diyk-fetva",
+   "title": "Din İşleri Yüksek Kurulu — Dinî Bilgilendirme Platformu (kurul.diyanet.gov.tr)",
+   "note": {
+    "tr": "Nisap gramajları, orucu bozan hâllerin listeleri, fidye, fitre ve kurban ile ilgili güncel Kurul cevapları.",
+    "en": "Current Board answers on nisab weights, lists of fast-breaking acts, fidya, fitr charity and sacrifice."
+   },
+   "url": "https://kurul.diyanet.gov.tr"
+  },
+  {
+   "id": "tdv-ia",
+   "title": "TDV İslâm Ansiklopedisi (islamansiklopedisi.org.tr)",
+   "note": {
+    "tr": "“Âmentü” ve “Kelime-i Şehâdet” maddeleri.",
+    "en": "The entries “Âmentü” and “Kelime-i Şehâdet”."
+   },
+   "url": "https://islamansiklopedisi.org.tr"
   }
  ],
  "sections": [
+  {
+   "id": "iman",
+   "kind": "articles",
+   "title": {
+    "tr": "İmanın Esasları",
+    "en": "Articles of Faith"
+   },
+   "subtitle": {
+    "tr": "Âmentü, kelime-i şehâdet, İslâm'ın şartları",
+    "en": "The creed, the testimony of faith, the pillars of Islam"
+   },
+   "icon": "heart.text.square.fill",
+   "articles": [
+    {
+     "id": "amentu",
+     "title": {
+      "tr": "Âmentü ve İmanın Altı Esası",
+      "en": "Âmentü and the Six Articles of Faith"
+     },
+     "icon": "heart.text.square.fill",
+     "summary": {
+      "tr": "İman esaslarını kısa ve öz olarak içeren metin ve altı esasın açıklaması.",
+      "en": "The short creedal text that gathers the articles of faith, and an explanation of each of the six."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1",
+      "tdv-ia"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "İman, Hz. Peygamber'in Allah'tan getirdiği hükümleri kalpten tasdik etmektir. İman esasları ilmihal kitaplarında “âmentü” terimiyle ifade edilir; Arapça “inandım” anlamındaki âmentü, iman esaslarını kısa ve öz olarak içeren metnin adıdır.",
+        "en": "Faith (iman) is affirming with the heart the rulings the Prophet brought from Allah. In handbooks of Islamic practice the articles of faith are expressed by the term “âmentü”; Arabic for “I have believed”, it names the short text that gathers the articles of faith."
+       }
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Âmentü billâhi ve melâiketihî ve kütübihî ve rusülihî ve'l-yevmi'l-âhiri ve bi'l-kaderi hayrihî ve şerrihî minallâhi teâlâ ve'l-ba‘sü ba‘de'l-mevti hakkun. Eşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abduhû ve rasûlüh.",
+        "en": "Âmentü billâhi ve melâiketihî ve kütübihî ve rusülihî ve'l-yevmi'l-âhiri ve bi'l-kaderi hayrihî ve şerrihî minallâhi teâlâ ve'l-ba‘sü ba‘de'l-mevti hakkun. Eşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abduhû ve rasûlüh."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Anlamı: “Allah'a, meleklerine, kitaplarına, peygamberlerine, âhiret gününe, kadere, hayır ve şerrin Allah'tan olduğuna inandım. Öldükten sonra diriliş haktır. Allah'tan başka ilâh olmadığına, Muhammed'in O'nun kulu ve elçisi olduğuna şahitlik ederim.” Bu esasların hepsi Kur'ân-ı Kerîm'de yer alır (el-Bakara 2/177; en-Nisâ 4/136); kadere iman, ilgili âyetler ve Cibrîl hadisi esas alınarak iman esasları arasında sayılmıştır.",
+        "en": "Meaning: “I have believed in Allah, His angels, His books, His messengers, the Last Day, and in destiny, that good and evil are from Allah. Resurrection after death is true. I bear witness that there is no god but Allah and that Muhammad is His servant and messenger.” All these articles appear in the Qur'an (al-Baqarah 2:177; an-Nisa 4:136); belief in destiny is counted among them on the basis of the relevant verses and the hadith of Gabriel."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "İmanın altı esası",
+        "en": "The six articles of faith"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Allah'a iman: Kâinatı yaratan, idare eden ve kendisine ibadet edilen tek ve en yüce varlık olan Allah'a iman, iman esaslarının birincisi ve temelidir. Bütün ilâhî dinlerde tevhid en önemli inanç esası olmuştur.",
+          "en": "Belief in Allah: Belief in Allah, the one and supreme being who created and governs the universe and who alone is worshipped, is the first and foundational article of faith. In every divinely revealed religion tawhid has been the most important belief."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Meleklere iman: Melek, Allah'ın emriyle çeşitli görevleri yerine getiren, gözle görülmeyen nûrânî ve ruhanî varlıktır. Meleklere iman Kur'an'da farz kılınmıştır (el-Bakara 2/285); meleklere inanmamak dolaylı olarak vahyi ve peygamberi de inkâr etmek anlamına gelir.",
+          "en": "Belief in the angels: Angels are unseen beings of light and spirit who carry out various tasks by Allah's command. Belief in them is made obligatory in the Qur'an (al-Baqarah 2:285); denying the angels indirectly means denying revelation and the Prophet."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Kitaplara iman: İlâhî kitap, Allah'ın kullarına yol göstermek üzere peygamberine vahyettiği sözlerdir. Kitaplara iman, Allah'ın bazı peygamberlere kitaplar indirdiğine ve bunların içeriğinin tümüyle doğru olduğuna inanmaktır.",
+          "en": "Belief in the books: A divine book is the words Allah revealed to His prophet to guide His servants. Belief in the books means believing that Allah sent down books to certain prophets and that their content is entirely true."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Peygamberlere iman: Peygamber, Allah'ın kulları arasından seçip emir ve yasaklarını insanlara ulaştırmakla görevlendirdiği elçidir. Peygamberlere iman, Allah'ın insanlara doğru yolu göstermek için seçkin kimseler gönderdiğine ve onların getirdiği her şeyin gerçek olduğuna inanmaktır. Bütün peygamberlere ayırım yapmadan inanmak her müslümana farzdır.",
+          "en": "Belief in the prophets: A prophet is a messenger whom Allah chose from among His servants and charged with conveying His commands and prohibitions to people. Belief in the prophets means believing that Allah sent chosen people to guide humanity and that everything they brought is true. Believing in all the prophets without distinction is obligatory for every Muslim."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Âhiret gününe iman: Âhiret, İsrâfil'in (a.s.) Allah'ın emriyle sûra ilk üflemesiyle başlayacak ebedî hayattır. İkinci üfleyişte insanlar diriltilip hesaba çekilecek ve iman ve amellerine göre karşılık görecektir. Âhirete iman Kur'an'da genellikle Allah'a imanla yan yana zikredilir.",
+          "en": "Belief in the Last Day: The Hereafter is the eternal life that will begin when Israfil, by Allah's command, blows the trumpet for the first time. At the second blast people will be resurrected, called to account and recompensed according to their faith and deeds. In the Qur'an belief in the Hereafter is usually mentioned alongside belief in Allah."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Kazâ ve kadere iman: Kader, Allah'ın olacak her şeyin zaman, yer ve niteliklerini ezelî ilmiyle bilip takdir etmesi; kazâ ise takdir edilenlerin zamanı gelince yaratılmasıdır. Kader ve kazâya iman, hayır ve şer her ne varsa hepsinin Allah'ın bilmesi, dilemesi ve yaratmasıyla olduğuna ve O'ndan başka yaratıcı bulunmadığına inanmaktır.",
+          "en": "Belief in divine decree and destiny: Destiny (qadar) is Allah's knowing and determining, by His eternal knowledge, the time, place and qualities of everything that will be; decree (qada) is His bringing those things into being when their time comes. Belief in them means believing that everything, good or evil, happens by Allah's knowledge, will and creation, and that there is no creator besides Him."
+         },
+         "icon": "circle.fill",
+         "media": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "kelime-i-sehadet",
+     "title": {
+      "tr": "Kelime-i Şehâdet",
+      "en": "The Testimony of Faith"
+     },
+     "icon": "text.quote",
+     "summary": {
+      "tr": "Allah'ın birliğine ve Hz. Muhammed'in kulu ve elçisi olduğuna tanıklık; İslâm'a girişin ilk adımı.",
+      "en": "Bearing witness to Allah's oneness and to Muhammad as His servant and messenger; the first step into Islam."
+     },
+     "sourceIds": [
+      "tdv-ia",
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Eşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abdühû ve resûlüh.",
+        "en": "Eşhedü en lâ ilâhe illallâh ve eşhedü enne Muhammeden abdühû ve resûlüh."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Anlamı: “Allah'tan başka ilâh olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna şahitlik ederim.” Kelime-i şehâdet, tevhid inancını ve Hz. Muhammed'in peygamberliğini tek cümlede özetler; Âmentü metninin de son cümlesidir.",
+        "en": "Meaning: “I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and messenger.” The testimony of faith sums up belief in Allah's oneness and in the prophethood of Muhammad in a single sentence; it is also the closing sentence of the Âmentü."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "TDV İslâm Ansiklopedisi'nin ifadesiyle kelime-i şehâdet “kişinin İslâm'a girmesinin ilk merhalesini teşkil eder”. Bu sözü söyleyen kimse müslüman toplumun tam bir üyesi hâline gelir; bu üyeliğin getirdiği haklara kavuşur ve sorumlulukları da üstlenir. Şahitlik kavramı Kur'an'da Allah'ın, meleklerin ve ilim sahiplerinin tevhide şahitlik etmesi bağlamında geçer (Âl-i İmrân 3/18; en-Nisâ 4/166).",
+        "en": "In the words of the TDV Encyclopaedia of Islam, the testimony of faith “constitutes the first stage of a person's entry into Islam”. One who pronounces it becomes a full member of the Muslim community, gaining the rights that membership brings and taking on its responsibilities. The concept of bearing witness appears in the Qur'an where Allah, the angels and people of knowledge testify to His oneness (Al Imran 3:18; an-Nisa 4:166)."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Hz. Peygamber'in “İslâm beş şey üzerine kurulmuştur” hadisinde ilk sırada, “Allah'tan başka Tanrı olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna tanıklık etmek” yer alır (Buhârî, “Îmân”, 34, 40; Müslim, “Îmân”, 8). Namaz, İlmihal'in ifadesiyle, kelime-i şehâdetten sonra İslâm'ın en önemli rüknüdür. Ölmek üzere olan kişinin yanında kelime-i tevhid ve kelime-i şehâdet okunması da (telkin) sünnettir.",
+        "en": "In the Prophet's hadith “Islam is built upon five things”, the first is “bearing witness that there is no god but Allah and that Muhammad is His servant and messenger” (Bukhari, Iman 34, 40; Muslim, Iman 8). Prayer, as the Ilmihal puts it, is the most important pillar of Islam after the testimony of faith. Reciting the words of tawhid and the testimony of faith beside a dying person (talqin) is also a sunnah."
+       }
+      }
+     ]
+    },
+    {
+     "id": "islamin-sartlari",
+     "title": {
+      "tr": "İslâm'ın Şartları",
+      "en": "The Pillars of Islam"
+     },
+     "icon": "list.number",
+     "summary": {
+      "tr": "Hz. Peygamber'in “İslâm beş şey üzerine kurulmuştur” hadisinde sayılan beş temel ibadet.",
+      "en": "The five foundations named in the Prophet's hadith “Islam is built upon five things”."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "İslâm'ın şartları, Hz. Peygamber'in şu hadisine dayanır: “İslâm beş şey üzerine kurulmuştur: Allah'tan başka Tanrı olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna tanıklık etmek; namaz kılmak, zekât vermek, ramazan orucunu tutmak ve gücü yetenler için Beytullah'ı ziyaret etmektir (hac)” (Buhârî, “Îmân”, 34, 40; “İlim”, 25; Müslim, “Îmân”, 8). Cibrîl hadisinde imanın altı esası ve İslâm'ın beş şartı sayıldıktan sonra en büyük mertebe olan ihsan, “Allah'a onu görüyormuşsun gibi ibadet etmek” diye tarif edilmiştir.",
+        "en": "The pillars of Islam rest on this hadith of the Prophet: “Islam is built upon five things: bearing witness that there is no god but Allah and that Muhammad is His servant and messenger; performing the prayer; giving zakat; fasting Ramadan; and, for those able, visiting the House of Allah (hajj)” (Bukhari, Iman 34, 40; Ilm 25; Muslim, Iman 8). In the hadith of Gabriel, after the six articles of faith and the five pillars of Islam are listed, the highest rank, ihsan, is defined as “worshipping Allah as if you see Him”."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Beş şart",
+        "en": "The five pillars"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Kelime-i şehâdet: Allah'tan başka ilâh olmadığına ve Hz. Muhammed'in O'nun kulu ve elçisi olduğuna tanıklık etmek. Kişinin İslâm'a girişinin ilk adımıdır.",
+          "en": "The testimony of faith: bearing witness that there is no god but Allah and that Muhammad is His servant and messenger. It is the first step of entering Islam."
+         }
+        },
+        {
+         "text": {
+          "tr": "Namaz: Kelime-i şehâdetten sonra İslâm'ın en önemli rüknü olan namaz, ergenlik çağına gelmiş, akıllı her müslümana günde beş vakit farzdır.",
+          "en": "Prayer: the most important pillar after the testimony, prayer is obligatory five times a day for every sane Muslim who has reached puberty."
+         }
+        },
+        {
+         "text": {
+          "tr": "Zekât: Dince zengin sayılan müslümanların mallarından belli bir payın, Kur'an'da belirlenen yerlere verilmesidir. Kur'an'da yirmi yedi âyette namazla birlikte anılır.",
+          "en": "Zakat: giving a fixed share of the wealth of Muslims counted as rich to the recipients set in the Qur'an. It is mentioned together with prayer in twenty-seven verses."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ramazan orucu: Hicretten bir buçuk yıl sonra farz kılınmıştır; imsaktan iftara kadar yeme, içme ve cinsel ilişkiden Allah rızâsı için uzak durmaktır.",
+          "en": "Fasting Ramadan: made obligatory a year and a half after the Hijra; abstaining from eating, drinking and sexual relations from dawn until sunset for Allah's sake."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hac: Sağlık ve servet yönünden gücü yeten müslümanın ömründe bir defa Kâbe'yi ve civarındaki kutsal yerleri özel vakitte usulünce ziyaret etmesidir. Hicretin 9. yılında farz kılınmıştır.",
+          "en": "Hajj: for a Muslim with the health and means, visiting the Kaaba and the sacred sites around it once in a lifetime, at the set time and in the prescribed way. It was made obligatory in the ninth year of the Hijra."
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
   {
    "id": "taharet",
    "title": {
@@ -4002,6 +4261,1717 @@
      "sourceIds": [
       "dib-ilmihal",
       "kut"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "oruc",
+   "kind": "articles",
+   "title": {
+    "tr": "Oruç",
+    "en": "Fasting"
+   },
+   "subtitle": {
+    "tr": "Ramazan orucu, şartları, bozan hâller, kazâ ve kefâret",
+    "en": "Ramadan fasting, its conditions, what breaks it, making up and expiation"
+   },
+   "icon": "moon.stars.fill",
+   "articles": [
+    {
+     "id": "oruc-nedir",
+     "title": {
+      "tr": "Oruç Nedir?",
+      "en": "What Is Fasting?"
+     },
+     "icon": "moon.stars.fill",
+     "summary": {
+      "tr": "Orucun tanımı, farz oluşu ve kimlere farz olduğu.",
+      "en": "The definition of fasting, its obligation and who must fast."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Oruç, imsak vaktinden iftar vaktine kadar yeme, içme ve cinsel ilişkiden Allah rızâsı için bilinçli olarak uzak durmaktır. Bu amaç ve bilinç kısaca “niyet” ile anlatılır; perhiz, rejim gibi başka amaçlarla aç durmak oruç olarak değer kazanmaz. Orucun rüknü, oruç süresince bu üç şeyden uzak durma anlamına gelen “imsak”tir.",
+        "en": "Fasting is consciously abstaining from eating, drinking and sexual relations from dawn (imsak) until sunset (iftar) for the sake of Allah. This purpose and awareness is expressed in short as “intention”; going hungry for diet or other purposes does not count as fasting. The essential element of the fast is “imsak”, abstaining from these three things throughout the day."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Ramazan orucu, Peygamberimiz'in hicretinden bir buçuk sene sonra şâban ayının onuncu günü farz kılınmış olup İslâm'ın beş şartından biridir. Farz oluşu Kur'ân-ı Kerîm'de bildirilmiştir: “Ey iman edenler! Sizden öncekilere olduğu gibi size de oruç tutma yükümlülüğü getirilmiştir…” (el-Bakara 2/183-185). Âyet, hastalık ve yolculuğu oruç emrinin hemen ardından geçerli mazeret olarak zikreder.",
+        "en": "The Ramadan fast was made obligatory on the tenth of Sha'ban, a year and a half after the Prophet's migration, and is one of the five pillars of Islam. Its obligation is stated in the Qur'an: “O you who believe! Fasting has been prescribed for you as it was for those before you…” (al-Baqarah 2:183-185). The verse names illness and travel as valid excuses right after the command."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Oruç, namaz için gerekli olan şartları taşıyan, yani müslüman, ergenlik çağına gelmiş (bulûğ) ve akıllı olan herkese farzdır. Orucun vücûb sebebi vakittir, yani ramazan ayının girmesidir: “Ramazan ayına yetişen onu oruçlu geçirsin” (el-Bakara 2/185). Ramazanın başlangıcı hilâlin görülmesiyle belirlenir; Peygamberimiz “Hilâli görünce oruca başlayınız, hilâli görünce bayram ediniz; hava bulutlu olursa ayı otuza tamamlayınız” buyurmuştur (Buhârî, “Savm”, 5, 11; Müslim, “Sıyâm”, 3-4).",
+        "en": "Fasting is obligatory on everyone who meets the conditions required for prayer: being Muslim, having reached puberty, and being of sound mind. The cause of the obligation is the time, that is the arrival of the month of Ramadan: “Whoever of you witnesses the month shall fast it” (al-Baqarah 2:185). The start of Ramadan is fixed by sighting the new moon; the Prophet said, “Begin fasting when you see the crescent and celebrate the Eid when you see it; if it is cloudy, complete the month as thirty days” (Bukhari, Sawm 5, 11; Muslim, Siyam 3-4)."
+       }
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Ergenlik yaşına gelmeyenler oruçla yükümlü değildir; ancak bedenî durumları dikkate alınarak çocukların 8-9 yaşlarından itibaren oruca alıştırılmaları uygundur.",
+        "en": "Children who have not reached puberty are not obliged to fast; but, taking their physical condition into account, it is appropriate to accustom them to fasting from the age of eight or nine."
+       }
+      }
+     ]
+    },
+    {
+     "id": "orucun-sartlari",
+     "title": {
+      "tr": "Orucun Şartları",
+      "en": "Conditions of Fasting"
+     },
+     "icon": "checklist",
+     "summary": {
+      "tr": "Farz olmasının şartları, geçerlilik şartları, niyet ve vakti.",
+      "en": "Conditions for the obligation, conditions for validity, intention and its timing."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Farz olmasının (yükümlülük) şartları",
+        "en": "Conditions for the obligation"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Müslüman olmak.",
+          "en": "Being Muslim."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ergenlik çağına gelmiş olmak (bulûğ).",
+          "en": "Having reached puberty."
+         }
+        },
+        {
+         "text": {
+          "tr": "Akıllı olmak.",
+          "en": "Being of sound mind."
+         }
+        },
+        {
+         "text": {
+          "tr": "Oruç tutmaya güç yetirecek durumda olmak ve yolcu olmamak (bunlar edanın vâciplik şartlarıdır; hasta ve yolcu isterse tutmayabilir, sonra kazâ eder).",
+          "en": "Being able to fast and not being a traveller (these are conditions for the duty to perform it; the sick and the traveller may leave the fast and make it up later)."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Geçerlilik (sıhhat) şartları",
+        "en": "Conditions for validity"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Oruca niyet etmiş olmak.",
+          "en": "Having made the intention to fast."
+         }
+        },
+        {
+         "text": {
+          "tr": "Orucu bozacak şeylerden kaçınmış olmak.",
+          "en": "Having avoided what breaks the fast."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kadınlar için hayız veya nifas hâlinde olmamak; bu hâlde oruç tutmak haramdır ve tutulan oruç geçerli olmaz, o günler sonra kazâ edilir.",
+          "en": "For women, not being in menstruation or post-natal bleeding; fasting in that state is forbidden and invalid, and those days are made up later."
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Niyet her tür oruçta şarttır; hangi orucu tutacağını kalbinden geçirmek yeterlidir, dille söylemek menduptur. Sahura kalkıp yeme ve içme de niyet yerine geçer. Hanefîler'e göre ramazan orucu, nâfile oruçlar ve günü belirlenmiş adak oruçlarına gün batımından ertesi günün kuşluk vaktine, hatta öğle vaktinin girmesinden az önceki vakte kadar niyet edilebilir. Kazâ, kefâret ve mutlak adak oruçlarına ise en geç imsak vaktine kadar niyet edilmiş ve tutulacak orucun belirlenmiş olması gerekir. Her ramazan günü için ayrı niyet edilir. Mümkün oldukça geceden niyet etmek en faziletli olanıdır.",
+        "en": "Intention is required for every kind of fast; it is enough to resolve in the heart which fast one will keep, and saying it aloud is recommended. Getting up for the pre-dawn meal also counts as intention. In the Hanafi school, for the Ramadan fast, voluntary fasts and vowed fasts with a fixed day, the intention may be made from sunset until mid-morning of the next day, even until shortly before noon. For make-up, expiation and unspecified vowed fasts, the intention must be made by dawn at the latest and the fast must be specified. A separate intention is made for each day of Ramadan. Making the intention the night before is the most meritorious whenever possible."
+       }
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şâfiîler'e göre ramazan, kazâ ve adak oruçlarına geceden niyetlenmek şarttır; nâfile oruca ise zevalden önceye kadar niyet edilebilir.",
+        "en": "In the Shafi'i school the intention for Ramadan, make-up and vowed fasts must be made during the night; for a voluntary fast it may be made until midday."
+       }
+      }
+     ]
+    },
+    {
+     "id": "orucu-bozanlar",
+     "title": {
+      "tr": "Orucu Bozan ve Bozmayan Şeyler",
+      "en": "What Breaks the Fast and What Does Not"
+     },
+     "icon": "exclamationmark.triangle.fill",
+     "summary": {
+      "tr": "Kazâ ve kefâret gerektirenler, sadece kazâ gerektirenler ve orucu bozmayanlar.",
+      "en": "Acts that require make-up and expiation, acts that require only make-up, and acts that do not break the fast."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1",
+      "diyk-fetva"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Yemek, içmek ve cinsel ilişkide bulunmak orucu bozar; sigara ve ağızdan alınan ilâç da yeme-içme kapsamındadır. Bu üç şeyi ramazan günü bilerek yapmak hem kazâ hem kefâret, diğer sebeplerle bozulma ise sadece kazâ gerektirir.",
+        "en": "Eating, drinking and sexual intercourse break the fast; cigarettes and oral medicine count as eating and drinking. Doing any of these three deliberately on a Ramadan day requires both make-up and expiation; breaking the fast for other reasons requires only make-up."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Bozup hem kazâ hem kefâret gerektirenler",
+        "en": "Break the fast and require make-up and expiation"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Oruçlu iken cinsel ilişkide bulunmak; her iki taraf için de kazâ ve kefâret gerekir.",
+          "en": "Sexual intercourse while fasting; both parties owe make-up and expiation."
+         }
+        },
+        {
+         "text": {
+          "tr": "Meşru bir mazeret bulunmaksızın, gıda veya gıda hükmünde olan ya da yenilip içilmesi mutat bir şeyi bilerek yemek ve içmek (Hanefîler'e göre).",
+          "en": "Knowingly eating or drinking, without a valid excuse, something that is food, counts as food, or is customarily consumed (Hanafi view)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bir şey yerken imsak vaktinin girdiğini anladığı hâlde bile bile devam etmek (Hanefî imamlara göre kefâret gerekir).",
+          "en": "Continuing to eat knowingly after realising dawn has arrived (the Hanafi imams require expiation)."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Bozup sadece kazâ gerektirenler",
+        "en": "Break the fast and require only make-up"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Yolculuk, hastalık gibi meşru bir mazeretle yiyip içmek.",
+          "en": "Eating or drinking because of a valid excuse such as travel or illness."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kasıt olmaksızın yanlışlıkla yiyip içmek; meselâ abdest alırken veya yüzerken su yutmak.",
+          "en": "Eating or drinking by mistake without intent; for example swallowing water during ablution or swimming."
+         }
+        },
+        {
+         "text": {
+          "tr": "Taş, kâğıt, pamuk gibi beslenme amacı taşımayan şeyleri yutmak; çiğ pirinç, çiğ hamur, un gibi normalde yenmeyen şeyleri yemek.",
+          "en": "Swallowing non-nutritive things such as stone, paper or cotton; eating things not normally eaten, like raw rice, raw dough or flour."
+         }
+        },
+        {
+         "text": {
+          "tr": "Dişler arasında kalan nohut büyüklüğündeki yiyecek artıklarını yutmak.",
+          "en": "Swallowing food remnants the size of a chickpea left between the teeth."
+         }
+        },
+        {
+         "text": {
+          "tr": "Sabah vaktinin girmediğini zannederek yemeğe devam etmek veya güneşin battığını zannederek erken iftar etmek.",
+          "en": "Continuing to eat thinking dawn has not arrived, or breaking the fast early thinking the sun has set."
+         }
+        },
+        {
+         "text": {
+          "tr": "Başkası tarafından zorlanarak oruç bozmak.",
+          "en": "Breaking the fast under compulsion by another person."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kasten ağız dolusu kusmak.",
+          "en": "Deliberately vomiting a mouthful."
+         }
+        },
+        {
+         "text": {
+          "tr": "Cinsel ilişki dışında bir yolla cünüp olmak.",
+          "en": "Becoming ritually impure by a means other than intercourse."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ağza giren yağmur, kar veya doluyu isteyerek yutmak.",
+          "en": "Deliberately swallowing rain, snow or hail that enters the mouth."
+         }
+        },
+        {
+         "text": {
+          "tr": "Unutarak yedikten sonra orucun bozulduğunu sanarak bilerek yiyip içmek.",
+          "en": "Eating knowingly after thinking the fast was broken by eating forgetfully."
+         }
+        },
+        {
+         "text": {
+          "tr": "İğne, serum ve aşı: Ebû Hanîfe'nin görüşünü esas alanlara göre orucu bozup kazâ gerektirir; Ebû Yûsuf ve Muhammed'e dayanan ağırlıklı fetvaya göre bozmaz. Tercih mükellefe aittir.",
+          "en": "Injections, IV drips and vaccines: by the view based on Abu Hanifa they break the fast and require make-up; by the prevailing fatwa based on Abu Yusuf and Muhammad they do not. The choice rests with the individual."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Orucu bozmayanlar",
+        "en": "Do not break the fast"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Unutarak yemek ve içmek; Peygamberimiz unutarak yiyip içenin oruca devam etmesini söylemiştir (Buhârî, “Savm”, 26).",
+          "en": "Eating or drinking forgetfully; the Prophet said whoever eats or drinks forgetfully should continue the fast (Bukhari, Sawm 26)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kasıtsız kusmak; kişinin kastı olmaksızın boğaza inen yağmur, kar ve dolu.",
+          "en": "Vomiting unintentionally; rain, snow or hail that goes down the throat without intent."
+         }
+        },
+        {
+         "text": {
+          "tr": "Diş fırçası ve macunla ağız temizliği, misvak kullanmak; bir şey yutmamaya dikkat edilir.",
+          "en": "Cleaning the teeth with brush and paste, or using a miswak, taking care not to swallow anything."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yıkanmak, güzel koku sürünmek, eşiyle öpüşmek (mekruh sayılmıştır).",
+          "en": "Bathing, wearing perfume, kissing one's spouse (considered disliked)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Göze ve kulağa damlatılan ilâç; astım spreyi (ağırlıklı görüşe göre bozmaz). Burun damlasında ihtiyatlı olunur.",
+          "en": "Eye and ear drops; asthma inhalers (by the prevailing view they do not break it). Caution is needed with nasal drops."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bayılma ve delirme orucun ihlâli değil, bilinç kaybıdır; bu günlerin kazâsı istenmez.",
+          "en": "Fainting and loss of sanity are not violations of the fast but loss of awareness; those days need not be made up."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "oruc-tutmamayi-mubah-kilan",
+     "title": {
+      "tr": "Oruç Tutmamayı Mubah Kılan Mazeretler",
+      "en": "Excuses That Permit Not Fasting"
+     },
+     "icon": "cross.case.fill",
+     "summary": {
+      "tr": "Yolculuk, hastalık, gebelik ve emzirme, yaşlılık ve diğer mazeretler; fidye.",
+      "en": "Travel, illness, pregnancy and nursing, old age and other excuses; the fidya."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1",
+      "diyk-fetva"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Dinde insanlara zor gelecek hiçbir yükümlülük yoktur; sıkıntı hâlinde kolaylık ve ruhsatlar tanınmıştır. Kur'an'da oruç tutmamayı mubah kılan mazeretler olarak hastalık, yolculuk ve oruca güç yetirememe zikredilmiştir (el-Bakara 2/184-185). Mazeretle oruç tutamayan kimse, oruca ve ramazan ayına hürmeten bunu mümkün oldukça belli etmemelidir.",
+        "en": "There is nothing in the religion that is beyond people's capacity; in hardship, ease and dispensations are granted. The Qur'an names illness, travel and inability to fast as the excuses that permit not fasting (al-Baqarah 2:184-185). Someone who cannot fast because of an excuse should, out of respect for the fast and for Ramadan, avoid making it obvious as far as possible."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Mazeretler",
+        "en": "The excuses"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Sefer (yolculuk): Yolcu oruç tutmayabilir; sıkıntı yoksa tutması daha faziletlidir. Tutamadığı günleri yolculuk bitince kazâ eder.",
+          "en": "Travel: a traveller may leave the fast; if there is no hardship, fasting is better. Missed days are made up when the journey ends."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hastalık: Oruç tuttuğu takdirde hastalığının artmasından veya uzamasından endişe eden ya da oruçta zorlanacak olan kimse oruç tutmayabilir veya başladığı orucu bozabilir; iyileşince kazâ eder.",
+          "en": "Illness: one who fears fasting will worsen or prolong the illness, or who would struggle, may not fast or may break a fast already begun; the days are made up on recovery."
+         }
+        },
+        {
+         "text": {
+          "tr": "Gebelik ve emzirme: Kendilerine veya çocuklarına zarar gelmesinden korkan kadınlar oruç tutmayabilir; zarar ihtimali kuvvetli ise tutmamaları gerekir. Durumları normale dönünce kazâ ederler.",
+          "en": "Pregnancy and nursing: women who fear harm to themselves or their child may not fast; if harm is likely they should not. They make up the days when their condition returns to normal."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yaşlılık: Oruç tutmaktan âciz yaşlılar tutamadıkları her gün için bir yoksulu doyuracak fidye verirler. İyileşme ümidi bulunmayan hastalar da bu hükümdedir.",
+          "en": "Old age: elderly people unable to fast give a fidya feeding one poor person for each missed day. Patients with no hope of recovery are under the same ruling."
+         }
+        },
+        {
+         "text": {
+          "tr": "İleri derecede açlık ve susuzluk: Helâk olmaktan veya sağlığının ciddi şekilde bozulmasından endişe eden kimsenin orucu bozması câizdir; ölüm tehlikesi açıksa tutması haram olur.",
+          "en": "Severe hunger and thirst: one who fears death or serious harm to health may break the fast; if the danger of death is clear, fasting becomes forbidden."
+         }
+        },
+        {
+         "text": {
+          "tr": "Zor ve meşakkatli işlerde çalışmak: İşinden ayrıldığında geçim sıkıntısı çekeceği kesin veya kuvvetle muhtemel olan kimse oruç tutmayabilir; imkân bulursa kazâ eder.",
+          "en": "Hard and strenuous work: one who would certainly or very likely face hardship in livelihood by leaving such work may not fast, and makes up the days if able."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "warning",
+       "text": {
+        "tr": "Fidye yalnız sürekli hastalık ve yaşlılık sebebiyle oruç tutamayanlara mahsustur. Ramazanda tutamayıp daha sonra kazâ edebilecek durumda olanlar fidye vermez, kazâ eder. Fidye vermiş olan yaşlı veya hasta sonradan oruç tutabilecek duruma gelirse, Hanefîler'e göre tutamadığı oruçları kazâ eder; verdiği fidyeler nâfile sadaka sayılır.",
+        "en": "The fidya applies only to those who cannot fast because of chronic illness or old age. Those who miss Ramadan but can make it up later do not pay fidya; they make up the days. If an elderly or sick person who paid fidya later becomes able to fast, in the Hanafi school they make up the missed fasts and the fidya paid counts as voluntary charity."
+       }
+      }
+     ]
+    },
+    {
+     "id": "kaza-ve-kefaret",
+     "title": {
+      "tr": "Kazâ, Kefâret ve Fidye",
+      "en": "Make-up, Expiation and Fidya"
+     },
+     "icon": "arrow.counterclockwise.circle.fill",
+     "summary": {
+      "tr": "Tutulamayan orucun kazâsı, kefâret orucu ve fidyenin ölçüsü.",
+      "en": "Making up missed fasts, the expiation fast, and the measure of the fidya."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1",
+      "diyk-fetva"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Ramazandan bir veya daha fazla gün oruç tutmayan kimsenin bunları kazâ etmesi gerektiğinde görüş birliği vardır; tutmama hastalık, yolculuk, hayız gibi bir özürle olabileceği gibi kasten de olabilir. Ramazan orucunun kazâsı, oruç tutmanın yasak olduğu günler dışında her zaman yapılabilir; ancak kazâya kalan orucu mümkün olan en kısa zamanda tutmaya çalışmak uygun olur. Kazâ orucuna geceden veya en geç imsak vaktine kadar niyet edilir.",
+        "en": "There is consensus that someone who misses one or more days of Ramadan must make them up, whether the fast was missed for an excuse such as illness, travel or menstruation, or deliberately. Missed Ramadan fasts may be made up at any time except the days on which fasting is forbidden; still, it is fitting to make them up as soon as possible. The intention for a make-up fast is made the night before or by dawn at the latest."
+       }
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şâfiîler'e göre kazâya kalan oruç gelecek ramazana kadar tutulmalıdır; tutulmadan öteki ramazan gelirse kazâ borcuna bir de fidye eklenir.",
+        "en": "In the Shafi'i school missed fasts must be made up before the next Ramadan; if the next Ramadan arrives first, a fidya is added to the make-up debt."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Ramazanda özürsüz olarak oruç tutmamak büyük günahtır. Ramazan günü mazeretsiz olarak kasten oruç bozmak ramazanın saygınlığını ihlâl ettiği için ayrıca kefâret gerektirir. Kefâret için önerilen üç seçenekten günümüzde ikisi uygulanabilir: iki ay peş peşe oruç tutmak veya altmış fakiri doyurmak; köle âzat etme seçeneği köleliğin kalkmasıyla uygulama dışı kalmıştır. Hanefîler'e göre sıra gözetilir: öncelikle iki ay peş peşe oruç tutulur, bu mümkün olmazsa altmış fakir doyurulur. Araya hayız ve nifas girmesi kefâret orucunun peş peşe oluşuna zarar vermez; bu hâl geçince kalınan yerden devam edilir. Bir ramazanda birden fazla oruç bozulması hâlinde tek kefâret öngörülmüştür; kefâretle birlikte bozulan günün kazâsı da gerekir.",
+        "en": "Leaving the Ramadan fast without excuse is a major sin. Deliberately breaking a Ramadan fast without excuse also requires expiation, because it violates the sanctity of Ramadan. Of the three options proposed for expiation, two can be applied today: fasting two consecutive months, or feeding sixty poor people; freeing a slave fell out of use with the abolition of slavery. In the Hanafi school the order is observed: first two consecutive months of fasting, and if that is not possible, feeding sixty poor. Menstruation or post-natal bleeding in between does not break the continuity; one resumes where one left off once it passes. Breaking more than one fast in the same Ramadan incurs a single expiation; the broken day must also be made up alongside the expiation."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Fidye, oruç tutmaya gücü yetmeyen yaşlıların ve iyileşme ümidi olmayan hastaların tutamadıkları her oruç için “bir fakir doyumluğu” olarak öngörülmüştür (el-Bakara 2/184). Oruç fidyesinin tutarı fıtır sadakası tutarına denktir. Din İşleri Yüksek Kurulu'nun ifadesiyle fidyeler “Ramazan'ın başlangıcında verilebileceği gibi Ramazan'ın içinde veya sonunda da verilebilir”; tamamı bir fakire topluca verilebileceği gibi ayrı ayrı fakirlere de verilebilir. Bunu sağlığında ödeyemeyenlerin ödenmesini vasiyet etmeleri gerekir.",
+        "en": "The fidya is prescribed as “feeding one poor person” for each fast missed by the elderly who cannot fast and by patients with no hope of recovery (al-Baqarah 2:184). The amount of the fidya equals the amount of the fitr charity. In the words of the High Board of Religious Affairs, fidya “may be given at the start of Ramadan, during it or at its end”; it may all be given to one poor person or spread among several. Those who cannot pay it in their lifetime should leave instructions in their will for it to be paid."
+       }
+      }
+     ]
+    },
+    {
+     "id": "oruc-cesitleri",
+     "title": {
+      "tr": "Oruç Çeşitleri",
+      "en": "Kinds of Fasting"
+     },
+     "icon": "calendar",
+     "summary": {
+      "tr": "Farz, vâcip ve nâfile oruçlar; tavsiye edilen günler; oruç tutmanın yasak ve mekruh olduğu günler.",
+      "en": "Obligatory, necessary and voluntary fasts; recommended days; days when fasting is forbidden or disliked."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Hüküm bakımından oruçlar",
+        "en": "Fasts by ruling"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Farz oruç: Ramazan orucu ve kazâsı; ayrıca ramazan orucunun bozulması, zıhâr, yanlışlıkla adam öldürme, ihramlı iken vaktinden önce tıraş olma ve yemin sebebiyle tutulan kefâret oruçları.",
+          "en": "Obligatory fasts: the Ramadan fast and its make-up; also expiation fasts for breaking a Ramadan fast, for zihar, for accidental killing, for shaving early in ihram, and for oaths."
+         }
+        },
+        {
+         "text": {
+          "tr": "Vâcip oruç: Adak (nezir) orucu; başlanıp bozulan nâfile orucun kazâsı da Hanefîler'e göre vâciptir.",
+          "en": "Necessary (wajib) fasts: the vowed fast; making up a voluntary fast begun and then broken is also wajib in the Hanafi school."
+         }
+        },
+        {
+         "text": {
+          "tr": "Nâfile oruç: Farz ve vâcip dışında, daha fazla sevap kazanmak için tutulan oruçlardır; mubah olan bütün günlerde tutulabilir.",
+          "en": "Voluntary fasts: fasts kept beyond the obligatory and necessary ones to earn more reward; they may be kept on any permissible day."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Oruç tutmanın mendup olduğu günler",
+        "en": "Days on which fasting is recommended"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Şevval orucu: Ramazandan sonraki şevval ayında altı gün oruç tutmak müstehaptır; bayramın hemen ardından peş peşe tutmak daha faziletli olmakla birlikte ay içinde aralıklı da tutulabilir (Müslim, “Sıyâm”, 204).",
+          "en": "The Shawwal fast: fasting six days in Shawwal, the month after Ramadan, is recommended; keeping them consecutively right after Eid is better, but they may be spread across the month (Muslim, Siyam 204)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Aşure orucu: Muharrem ayının onuncu günü tutulan oruç sünnettir; sadece o gün değil, bir önceki veya sonraki günle birlikte tutulması tavsiye edilmiştir.",
+          "en": "The Ashura fast: fasting on the tenth of Muharram is a sunnah; it is advised to fast the day before or after as well, not that day alone."
+         }
+        },
+        {
+         "text": {
+          "tr": "Eyyâm-ı bîd: Her kamerî ayın 13, 14 ve 15. günlerinde oruç tutmak müstehaptır (Müslim, “Sıyâm”, 181-182).",
+          "en": "The “white days”: fasting on the 13th, 14th and 15th of each lunar month is recommended (Muslim, Siyam 181-182)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Pazartesi ve perşembe orucu: Peygamberimiz amellerin bu günlerde Allah'a arzolunduğunu belirterek bu günlerde oruç tutmuştur (Ebû Dâvûd, “Savm”, 60).",
+          "en": "Monday and Thursday fasts: the Prophet fasted on these days, saying deeds are presented to Allah on them (Abu Dawud, Sawm 60)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Zilhicce'nin ilk dokuz günü, özellikle arefe günü orucu; hacıların arefe günü oruç tutması ise mekruh görülmüştür.",
+          "en": "The first nine days of Dhu al-Hijjah, especially the Day of Arafah; for pilgrims, fasting on Arafah is disliked."
+         }
+        },
+        {
+         "text": {
+          "tr": "Haram aylarda (zilkade, zilhicce, muharrem, receb) perşembe, cuma ve cumartesi orucu; şâban ayında oruç; gün aşırı tutulan Dâvûd orucu.",
+          "en": "Thursday, Friday and Saturday fasts in the sacred months (Dhu al-Qa'dah, Dhu al-Hijjah, Muharram, Rajab); fasting in Sha'ban; and the fast of David, kept on alternate days."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Oruç tutmanın yasak veya mekruh olduğu günler",
+        "en": "Days on which fasting is forbidden or disliked"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Ramazan bayramının birinci günü ve kurban bayramının dört günü (teşrik günleri) oruç tutmak haramdır (bir görüşe göre tahrîmen mekruh); Peygamberimiz bu iki vakitte oruç tutulmayacağını bildirmiştir (Buhârî, “Savm”, 67).",
+          "en": "Fasting on the first day of Eid al-Fitr and on the four days of Eid al-Adha (the tashriq days) is forbidden (or, by one view, prohibitively disliked); the Prophet declared no fasting at these two times (Bukhari, Sawm 67)."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hayız ve nifas hâlindeki kadınların oruç tutması haramdır.",
+          "en": "Fasting is forbidden for women in menstruation or post-natal bleeding."
+         }
+        },
+        {
+         "text": {
+          "tr": "Şek günü (şâbanın 30. gününün ramazan olup olmadığında şüphe bulunan gün) oruç tutmak mekruhtur; ramazan niyetiyle tutmak tahrîmen mekruhtur.",
+          "en": "Fasting on the “day of doubt” (when it is uncertain whether the 30th of Sha'ban is already Ramadan) is disliked; fasting it with the intention of Ramadan is prohibitively disliked."
+         }
+        },
+        {
+         "text": {
+          "tr": "Sadece cuma veya sadece cumartesi günü oruç tutmak, sadece aşure günü tutmak ve iki günü iftarsız birleştirmek (visâl orucu) mekruhtur. Mûtat orucun bu günlere denk gelmesinde sakınca yoktur.",
+          "en": "Fasting only on Friday or only on Saturday, fasting Ashura alone, and joining two days without breaking the fast (wisal) are disliked. There is no harm if a regular fast happens to fall on these days."
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zekat",
+   "kind": "articles",
+   "title": {
+    "tr": "Zekât",
+    "en": "Zakat"
+   },
+   "subtitle": {
+    "tr": "Şartları, nisap ve oranlar, verilecek yerler, fitre",
+    "en": "Conditions, nisab and rates, recipients, fitr charity"
+   },
+   "icon": "banknote.fill",
+   "articles": [
+    {
+     "id": "zekat-nedir",
+     "title": {
+      "tr": "Zekât Nedir?",
+      "en": "What Is Zakat?"
+     },
+     "icon": "banknote.fill",
+     "summary": {
+      "tr": "Zekâtın tanımı, farz oluşu ve İslâm'daki yeri.",
+      "en": "The definition of zakat, its obligation and its place in Islam."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Zekâtın kelime anlamı “artma, çoğalma, arıtma ve bereket”tir. Fıkıh terimi olarak zekât, Allah'ın, belirli yerlere sarfedilmek üzere dince zengin sayılan kişilerin mallarından belli bir payın alınması işlemini ifade eder. Namaz bedenî, zekât ise malî bir ibadettir; ikisine hâkim olan ruh Allah'a yaklaşmak ve O'nun rızâsını kazanmaktır.",
+        "en": "The word zakat means “growth, increase, purification and blessing”. As a term of Islamic law it denotes Allah's taking of a fixed share from the wealth of those counted as rich, to be spent on specified recipients. Prayer is a bodily act of worship and zakat a financial one; the spirit governing both is drawing near to Allah and seeking His pleasure."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Kur'ân-ı Kerîm'de zekât kelimesi otuz âyette terim anlamıyla geçer ve bunların yirmi yedisinde namazla birlikte zikredilir. Bu, namazla zekât arasındaki kuvvetli bağa ve kişinin müslümanlığının ancak bu ikisini eda etmekle olgunluk derecesine ereceğine bir delildir. Zekât, İslâm'ın beş esası arasında yer alır; Peygamberimiz “İslâm beş şey üzerine kurulmuştur” hadisinde zekât vermeyi de saymıştır (Buhârî, “Îmân”, 34, 40; Müslim, “Îmân”, 8).",
+        "en": "In the Qur'an the word zakat occurs in thirty verses in its technical sense, and in twenty-seven of them it is mentioned together with prayer. This shows the strong bond between the two and that a person's Islam reaches maturity only by performing both. Zakat is one of the five foundations of Islam; the Prophet counted giving zakat among them in the hadith “Islam is built upon five things” (Bukhari, Iman 34, 40; Muslim, Iman 8)."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Zekât Medine döneminde, hicretin 2. yılında farz kılınmıştır. Zekâtın vücûb sebebi zenginliktir: borcundan ve tabii ihtiyaçlarından fazla, nisap miktarı artıcı mala sahip olan ve bu malın üzerinden bir kamerî yıl geçen kimse zekât ödemekle mükellef olur. Zekâtın rüknü, bu maldan zekât borcunu çıkarıp hak sahibine temlik ve teslim etmektir.",
+        "en": "Zakat was made obligatory in the Medina period, in the second year of the Hijra. The cause of the obligation is wealth: whoever owns productive wealth reaching the nisab beyond debts and basic needs, and has held it for one lunar year, must pay zakat. Its essential element is separating the zakat due from that wealth and transferring it into the ownership of an entitled recipient."
+       }
+      }
+     ]
+    },
+    {
+     "id": "zekatin-sartlari",
+     "title": {
+      "tr": "Zekâtın Şartları",
+      "en": "Conditions of Zakat"
+     },
+     "icon": "checklist",
+     "summary": {
+      "tr": "Mükellefte ve malda aranan şartlar; geçerlilik için niyet ve ehline verme.",
+      "en": "Conditions in the payer and in the wealth; intention and giving to the entitled for validity."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "İlmihal'in özetiyle zekât; “müslüman, hür, akıllı, bâliğ, tabii ihtiyaçlarından fazla artıcı vasıftaki mala tam bir mülkiyetle mâlik olan ve bu mâlik oluşunun üzerinden bir (ay) senesi geçen kimselere farzdır. Bu farzın sahih olarak ödenebilmesi için de ehline verilmesi ve verilirken de niyet edilmesi gerekir.”",
+        "en": "In the Ilmihal's summary, zakat “is obligatory on those who are Muslim, free, sane and adult, who fully own productive wealth beyond their basic needs, and over whose ownership one lunar year has passed. For this obligation to be validly discharged it must be given to those entitled, with intention at the time of giving.”"
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Mükellefle ilgili şartlar",
+        "en": "Conditions in the payer"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Müslüman olmak: Zekât bir ibadet olduğu için gayri müslimler zekâtla yükümlü değildir.",
+          "en": "Being Muslim: since zakat is an act of worship, non-Muslims are not liable for it."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hür olmak.",
+          "en": "Being free."
+         }
+        },
+        {
+         "text": {
+          "tr": "Akıllı ve bâliğ olmak: Ebû Hanîfe'ye göre çocuk ve akıl hastası toprak ürünleri dışında zekâtla mükellef değildir; fakihlerin çoğunluğuna göre ise malları zekâta tâbidir ve bu borcu velileri öder. İlmihal çoğunluğun görüşünü tercihe şayan bulur.",
+          "en": "Being sane and adult: according to Abu Hanifa, children and the insane are not liable except for crops; the majority of jurists hold their wealth is subject to zakat, paid by their guardians. The Ilmihal finds the majority view preferable."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Malla ilgili şartlar",
+        "en": "Conditions in the wealth"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Tam mülkiyet: Malın hem kendisi hem menfaati sahibinin tasarrufunda olmalı; belirli sahibi olmayan mallar, hayır kurumlarına vakfedilen mallar ve haram yolla kazanılan mal zekâta tâbi değildir.",
+          "en": "Full ownership: both the asset and its benefit must be at the owner's disposal; property without a specific owner, endowments for charity, and unlawfully acquired wealth are not subject to zakat."
+         }
+        },
+        {
+         "text": {
+          "tr": "Artıcı (nâmî) olmak: Malın gerçekten veya hükmen artma özelliği taşıması.",
+          "en": "Being productive: the wealth must actually or by default have the capacity to grow."
+         }
+        },
+        {
+         "text": {
+          "tr": "Nisaba ulaşmış olmak: Zenginliğin ölçüsü sayılan alt sınıra ulaşmak.",
+          "en": "Reaching the nisab: reaching the minimum threshold that counts as wealth."
+         }
+        },
+        {
+         "text": {
+          "tr": "Tabii ihtiyaçlardan fazla olmak; nisap, borçlar ve aslî ihtiyaçlar çıktıktan sonra hesaplanır.",
+          "en": "Being beyond basic needs; the nisab is calculated after debts and essential needs are deducted."
+         }
+        },
+        {
+         "text": {
+          "tr": "Havelân-i havl: Malın üzerinden bir kamerî yıl geçmiş olması (toprak ürünlerinde aranmaz).",
+          "en": "Passage of a year: one lunar year must have passed over the wealth (not required for crops)."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Bu şartların Kur'an'da veya hadislerde açıkça zikredilmediğini, fakihlerin ilk dönemlerdeki zekât tahsil örnek ve usullerinden bu sonucu çıkardıklarını İlmihal ayrıca belirtir.",
+        "en": "The Ilmihal also notes that these conditions are not spelled out in the Qur'an or the hadith; jurists derived them from the early examples and methods of zakat collection."
+       }
+      }
+     ]
+    },
+    {
+     "id": "nisap-ve-oranlar",
+     "title": {
+      "tr": "Nisap ve Oranlar",
+      "en": "Nisab and Rates"
+     },
+     "icon": "scalemass.fill",
+     "summary": {
+      "tr": "Altın, gümüş, para ve ticaret malının nisabı ve oranı; hayvan ve toprak ürünleri kısaca.",
+      "en": "Nisab and rate for gold, silver, cash and trade goods; livestock and crops in brief."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1",
+      "diyk-fetva"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Hadislerde nisap miktarları şöyle gösterilmiştir: gümüşte 200 dirhem, altında 20 miskal, hayvanlarda 5 deve, 30 sığır, 40 koyun; toprak ürünlerinde cumhura göre 5 vesk (buğdayda 653 kg). Mezhep imamları gümüşün nisabının 200 dirhem, altının nisabının 20 miskal, her ikisinin zekât nisbetinin 1/40 (% 2,5) olduğunda görüş birliğine varmıştır. İlmihal'in kaydıyla Din İşleri Yüksek Kurulu, “nisabın esas alınmasında 20 miskal altının 80.18 gr, 200 dirhem gümüşün ise 561.2 gram olmasını esas almıştır.”",
+        "en": "The hadiths set the nisab thresholds as 200 dirhams of silver, 20 mithqals of gold, 5 camels, 30 cattle, 40 sheep, and for crops, by the majority view, 5 wasq (653 kg of wheat). The founding imams agreed that the nisab of silver is 200 dirhams and of gold 20 mithqals, with a rate of 1/40 (2.5%) for both. As the Ilmihal records, the High Board of Religious Affairs “took 20 mithqals of gold as 80.18 g and 200 dirhams of silver as 561.2 g as the basis for the nisab.”"
+       }
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Din İşleri Yüksek Kurulu'nun güncel kararı: 24 ayar altında nisap 80,18 gramdır; farklı ayarlardaki altınlar birleştirildiğinde toplam değeri 24 ayar 80,18 gram altın değerine ulaşınca 1/40 oranında zekât verilir. Kurul, gümüşün nisabında da “altın ve ticaret malı durumundaki tüm mallarda olduğu gibi 24 ayardan 80,18 gram altın değerinin ölçü alınmasını” uygun görür; çünkü gümüş, Hz. Peygamber dönemine göre aşırı derecede değer kaybetmiştir.",
+        "en": "The Board's current ruling: for 24-carat gold the nisab is 80.18 grams; when gold of different carats is combined, zakat at 1/40 is due once the total reaches the value of 80.18 g of 24-carat gold. For silver, too, the Board holds that “as with gold and all goods held for trade, the value of 80.18 g of 24-carat gold should be the measure”, since silver has lost value enormously since the Prophet's time."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Mal türlerine göre",
+        "en": "By type of wealth"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Altın ve gümüş: Nisaba ulaşınca 1/40'ı verilir. Hanefî mezhebine göre altın ve gümüşten yapılmış bilezik, kolye gibi kadın süs eşyası da zekâta tâbidir; Şâfiî, Mâlik ve Ahmed b. Hanbel'e göre mubah kadın süs eşyasına zekât yoktur.",
+          "en": "Gold and silver: 1/40 is paid once the nisab is reached. In the Hanafi school women's jewellery of gold and silver, such as bracelets and necklaces, is also subject to zakat; according to Shafi'i, Malik and Ahmad ibn Hanbal, permissible women's jewellery is not."
+         }
+        },
+        {
+         "text": {
+          "tr": "Madenî ve kâğıt paralar: Altın, gümüş ve ticaret malları hükmündedir; kendi başlarına veya bunlarla birlikte nisaba ulaşınca sene sonunda 1/40'ı zekât olarak verilir.",
+          "en": "Coins and banknotes: treated like gold, silver and trade goods; on their own or combined with them, once the nisab is reached, 1/40 is paid at the year's end."
+         }
+        },
+        {
+         "text": {
+          "tr": "Ticaret malları: Aynı ölçüye tâbidir; nisap altın üzerinden hesaplanır ve % 2,5 verilir.",
+          "en": "Trade goods: subject to the same measure; the nisab is reckoned in gold and 2.5% is paid."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hayvanlar: Nisap 5 deve, 30 sığır, 40 koyundur; ayrıntılı oranlar sayıya göre değişir.",
+          "en": "Livestock: the nisab is 5 camels, 30 cattle or 40 sheep; detailed rates vary with the number."
+         }
+        },
+        {
+         "text": {
+          "tr": "Toprak ürünleri (öşür): “Yağmur ve nehir sularıyla sulanan toprak mahsullerinde öşür (1/10), kova (el emeği) ile sulananlarda nısf öşür (1/20) vardır” (Buhârî, “Zekât”, 55). Ebû Hanîfe'ye göre toprak ürünlerinde nisap aranmaz; azı da çoğu da zekâta tâbidir.",
+          "en": "Crops (ushr): “On produce watered by rain and rivers there is a tenth; on produce watered by bucket and labour, a twentieth” (Bukhari, Zakat 55). According to Abu Hanifa no nisab applies to crops; little or much is subject to zakat."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "zekat-verilecek-yerler",
+     "title": {
+      "tr": "Zekât Verilecek Yerler",
+      "en": "Recipients of Zakat"
+     },
+     "icon": "person.3.fill",
+     "summary": {
+      "tr": "Tevbe sûresinin 60. âyetinde sayılan sekiz sınıf.",
+      "en": "The eight categories named in verse 60 of Surah at-Tawbah."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Zekâtın sarf yerleri Kur'ân-ı Kerîm'de belirlenmiştir (et-Tevbe 9/60). İlmihal bu sınıfları âyetteki sıralamaya uygun olarak açıklar. Zekât, ona ehil olanlara verilir; hak etmeyenlere verilirse hem dinî mükellefiyet ifa edilmemiş hem de zekâttan beklenen ferdî, sosyal ve ekonomik amaçlar gerçekleşmemiş olur.",
+        "en": "The recipients of zakat are fixed in the Qur'an (at-Tawbah 9:60). The Ilmihal explains these categories in the order of the verse. Zakat is given to those entitled to it; if it goes to those not entitled, the religious duty is not discharged and the individual, social and economic aims of zakat are not achieved."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Sekiz sınıf",
+        "en": "The eight categories"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Fakirler: Hanefîler'e göre ev ve ev eşyası gibi aslî ihtiyaçlarını karşılayan malı olsa da gelirleri ihtiyaçlarını karşılayamayan, nisap miktarından az malı bulunan kimselerdir.",
+          "en": "The poor: in the Hanafi view, those who, though they may own basic necessities such as a home and furnishings, cannot meet their needs from their income and own less than the nisab."
+         }
+        },
+        {
+         "text": {
+          "tr": "Miskinler: Hiçbir geliri ve malı olmayan kimselerdir; Ebû Hanîfe'ye göre miskin, fakirden daha muhtaçtır.",
+          "en": "The destitute: those with no income or property at all; according to Abu Hanifa the destitute are needier than the poor."
+         }
+        },
+        {
+         "text": {
+          "tr": "Âmiller: Zekât işlerinde görevli olarak çalışanlar.",
+          "en": "Zakat workers: those employed in collecting and administering zakat."
+         }
+        },
+        {
+         "text": {
+          "tr": "Müellefe-i kulûb: Kalpleri İslâm'a ısındırılmak istenen kimseler.",
+          "en": "Those whose hearts are to be reconciled: people to be won over to Islam."
+         }
+        },
+        {
+         "text": {
+          "tr": "Rikab: Kölelikten kurtulmak isteyenler.",
+          "en": "Captives: those seeking to free themselves from slavery."
+         }
+        },
+        {
+         "text": {
+          "tr": "Borçlular: Borcunu ödeyecek imkânı bulunmayanlar.",
+          "en": "Debtors: those without the means to pay their debts."
+         }
+        },
+        {
+         "text": {
+          "tr": "Fî sebîlillah: Allah yolunda olanlar.",
+          "en": "In the way of Allah: those engaged in Allah's cause."
+         }
+        },
+        {
+         "text": {
+          "tr": "İbnüssebîl: Yolda kalmış yolcular.",
+          "en": "The wayfarer: travellers stranded on the way."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Hanefîler'e göre zekât almaya hak kazanan fakir ve miskinler iki grupta toplanır: hiç malı olmayan yoksullar ve zaruri ihtiyaçları dışında nisap miktarının altında malı olanlar.",
+        "en": "In the Hanafi school, the poor and destitute entitled to zakat fall into two groups: those with no property at all, and those whose property beyond basic needs is below the nisab."
+       }
+      }
+     ]
+    },
+    {
+     "id": "zekat-verilemeyenler",
+     "title": {
+      "tr": "Zekât Verilemeyecek Kimseler",
+      "en": "Those Who May Not Receive Zakat"
+     },
+     "icon": "person.crop.circle.badge.xmark",
+     "summary": {
+      "tr": "Usul ve fürû, eş, gayri müslimler, zenginler ve Hz. Peygamber'in yakınları.",
+      "en": "Ascendants and descendants, spouse, non-Muslims, the rich, and the Prophet's family."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Zekât verilmesi câiz görülmeyenler",
+        "en": "Those to whom zakat may not be given"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Ana, baba, dedeler (usul) ile çocuklar ve torunlar (fürû): Aralarında bakma yükümlülüğü ilişkisi bulunduğundan, verilen zekât fakire tam mânasıyla temlik edilmiş olmaz; kişi bir bakıma kendine zekât vermiş gibi olur.",
+          "en": "Parents and grandparents (ascendants), children and grandchildren (descendants): because of the duty of maintenance between them, zakat given to them is not truly transferred to a poor person; it is as if one gave zekat to oneself."
+         }
+        },
+        {
+         "text": {
+          "tr": "Eş: Bir kimse hanımına zekât veremez; Ebû Hanîfe'ye göre kadın da zekâtını fakir kocasına veremez.",
+          "en": "Spouse: a man may not give zakat to his wife; according to Abu Hanifa a woman may not give hers to a poor husband either."
+         }
+        },
+        {
+         "text": {
+          "tr": "Müslüman olmayanlar: Zekât ibadet içerikli bir mükellefiyet olduğundan gayri müslimlere ve dinden dönenlere verilmez; nâfile sadakalar ise Şâfiîler dışındaki fakihlere göre fakir gayri müslimlere verilebilir.",
+          "en": "Non-Muslims: since zakat is an act of worship it is not given to non-Muslims or apostates; voluntary charity, according to all schools except the Shafi'i, may be given to poor non-Muslims."
+         }
+        },
+        {
+         "text": {
+          "tr": "Zenginler: Hanefîler'e göre tabii ihtiyaçlarından fazla nisap miktarı mala sahip olanlara ve onların küçük çocuklarına zekât verilemez.",
+          "en": "The rich: in the Hanafi school, zakat may not be given to those owning nisab-level wealth beyond basic needs, nor to their minor children."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hz. Peygamber'in yakınları: Peygamberimiz zekât malını kendisinin ve yakınlarının yiyemeyeceğini bildirmiştir (Buhârî, “Zekât”, 57; Müslim, “Zekât”, 161).",
+          "en": "The Prophet's family: the Prophet declared that he and his kin may not consume zakat (Bukhari, Zakat 57; Muslim, Zakat 161)."
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Hanefîler'e göre usul ve fürû dışındaki kardeş, amca, teyze, dayı, hala ve onların çocukları gibi akrabaya zekât verilebilir; bunların fakir olması hâlinde öncelikle onlara vermek uygundur. Şâfiî, Mâlik ve Ahmed b. Hanbel ise nafakayı ölçü alır ve kişinin hukuken nafakasını teminle yükümlü olduğu akrabasına zekât veremeyeceğini söyler.",
+        "en": "In the Hanafi school, zakat may be given to relatives other than ascendants and descendants, such as siblings, uncles, aunts and their children; if they are poor it is fitting to give to them first. Shafi'i, Malik and Ahmad ibn Hanbal take maintenance as the criterion and hold that one may not give zakat to relatives whom one is legally bound to support."
+       }
+      }
+     ]
+    },
+    {
+     "id": "fitre",
+     "title": {
+      "tr": "Fitre (Sadaka-i Fıtr)",
+      "en": "Fitr Charity (Sadaqat al-Fitr)"
+     },
+     "icon": "gift.fill",
+     "summary": {
+      "tr": "Kimlere vâcip olduğu, ne zaman verileceği ve miktarın ilkesi.",
+      "en": "Who must give it, when it is given, and the principle behind its amount."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1",
+      "diyk-fetva"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Fıtır sadakası, “ramazan bayramına kavuşan ve temel ihtiyaçlarının dışında belli bir miktar mala sahip olan müslümanların kendileri ve velâyetleri altındaki kişiler için yerine getirmekle yükümlü oldukları malî bir ibadet”tir. Baş zekâtı veya beden zekâtı da denir. Hicrî 2. yılın şâban ayında, zekâttan önce emredilmiştir. Hanefîler'e göre vâcip, diğer üç mezhebe göre farzdır; her hâlükârda yerine getirilmesi gerekli bir ibadettir. Peygamberimiz fıtır sadakasının oruçluları günahlarından arındırmak ve yoksullara gıda temini için farz kılındığını bildirmiştir (Ebû Dâvûd, “Zekât”, 17).",
+        "en": "Sadaqat al-fitr is “a financial act of worship that Muslims who reach Eid al-Fitr and own a certain amount of wealth beyond their basic needs must perform for themselves and those under their guardianship”. It is also called the zakat of the person. It was commanded in Sha'ban of the second year of the Hijra, before zakat. It is wajib in the Hanafi school and fard in the other three; either way it must be performed. The Prophet said it was prescribed to purify those who fast from their sins and to provide food for the poor (Abu Dawud, Zakat 17)."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Din İşleri Yüksek Kurulu'na göre Hanefî mezhebinde “Ramazan Bayramı'na kavuşan, temel ihtiyaçlarının ve bir yıllık borçlarının dışında nisap miktarı mala sahip olan Müslümanlar” fitre vermekle yükümlüdür; kişi kendisi ve ergenlik çağına ulaşmamış çocukları için fitre verir. Nisap, zekâttaki gibi 80,18 gram altın veya karşılığı değerdir; fitrede malın artıcı olması ve üzerinden bir yıl geçmesi aranmaz.",
+        "en": "According to the High Board of Religious Affairs, in the Hanafi school “Muslims who reach Eid al-Fitr and own wealth reaching the nisab beyond their basic needs and one year's debts” must give the fitr charity; a person gives it for himself and for his children who have not reached puberty. The nisab is, as for zakat, 80.18 grams of gold or its equivalent; for fitr the wealth need not be productive nor held for a year."
+       }
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şâfiî mezhebine göre fitre farzdır ve nisap şartı aranmaz; temel ihtiyaçlarının yanı sıra bayram günü ve gecesine yetecek azığı olan her müslüman, kendisi ile birlikte müslüman eşi, çocukları ve nafakasıyla yükümlü olduğu yakınları için fitre verir.",
+        "en": "In the Shafi'i school fitr is obligatory and no nisab is required; every Muslim who, beyond basic needs, has provisions for the day and night of Eid gives it for himself and for his Muslim spouse, children and dependants."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Vâcip olma vakti Hanefîler'e göre ramazan bayramının birinci günü tan yerinin ağarmasıdır. Fetvaya esas görüşe göre fitre ramazan ayı girdikten itibaren ödenebilir; bayram namazına gitmeden önce verilmesi müstehap, bayramdan sonraya bırakılması mekruhtur. Zamanında ödenmemiş olsa da borç düşmez, ilk fırsatta ödenir. Miktar ilkesi “bir fakir doyumluğu”dur: Hz. Peygamber döneminde buğdaydan 1/2 sâ‘, arpa, hurma ve kuru üzümden 1 sâ‘ olarak verilirdi. Kurul'un ifadesiyle fitrenin hedefi “bir fakirin içinde yaşadığı toplumun hayat standardına göre bir günlük yiyeceğinin karşılanması”dır; bu tutar ülkemizde her yıl para olarak ilân edilir ve oruç fidyesi de aynı tutardır.",
+        "en": "In the Hanafi school it becomes due at dawn on the first day of Eid al-Fitr. By the view adopted for fatwa it may be paid from the start of Ramadan; giving it before going to the Eid prayer is recommended and leaving it until after Eid is disliked. Even if paid late, the debt does not lapse and must be paid at the first opportunity. The principle of the amount is “one poor person's daily food”: in the Prophet's time it was half a sa' of wheat or one sa' of barley, dates or raisins. In the Board's words, the aim is “to cover one day's food for a poor person according to the living standard of the society they live in”; in Turkey this amount is announced in money each year, and the fasting fidya is the same amount."
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hac",
+   "kind": "articles",
+   "title": {
+    "tr": "Hac ve Umre",
+    "en": "Hajj and Umrah"
+   },
+   "subtitle": {
+    "tr": "Farz oluşu, şartları, farzları ve vâcipleri; umre",
+    "en": "Its obligation, conditions, essentials and necessary acts; umrah"
+   },
+   "icon": "building.columns.fill",
+   "articles": [
+    {
+     "id": "hac-nedir",
+     "title": {
+      "tr": "Hac Nedir, Kimlere Farzdır?",
+      "en": "What Is Hajj and Who Must Perform It?"
+     },
+     "icon": "building.columns.fill",
+     "summary": {
+      "tr": "Haccın tanımı, farz oluşu, yükümlülük ve eda şartları.",
+      "en": "The definition of hajj, its obligation, and the conditions of liability and performance."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Hac sözlükte “kastetmek, yönelmek” demektir. Fıkıh terimi olarak hac, “Mekke şehrindeki Kâbe'yi ve civarındaki kutsal sayılan özel yerleri, özel vakit içinde, usulüne uygun olarak ziyaret etmek ve yapılması gereken diğer menâsiki yerine getirmek”tir. İslâm'ın beş esasından biri olan hac hicretin 9. yılında farz kılınmıştır; farz oluşu Kur'an, Sünnet ve icmâ ile sabittir: “Yoluna gücü yetenlerin evi (Kâbe) hac ve ziyaret etmeleri, insanlar üzerinde Allah'ın bir hakkıdır” (Âl-i İmrân 3/97). Sağlık ve servet yönünden gücü yeten müslümanın ömründe bir defa haccetmesi farzdır; Ebû Hanîfe'ye göre imkân elde edilince ilk hac mevsiminde eda edilmesi gerekir, sonraya bırakmak günahtır.",
+        "en": "Hajj literally means “to intend, to set out towards”. As a term of law it is “visiting the Kaaba in Mecca and the sacred sites around it, at the set time and in the prescribed manner, and performing the other required rites”. One of the five foundations of Islam, hajj was made obligatory in the ninth year of the Hijra; its obligation is established by the Qur'an, the Sunnah and consensus: “Pilgrimage to the House is a duty owed to Allah by those who can find a way to it” (Al Imran 3:97). A Muslim with the health and means must perform hajj once in a lifetime; according to Abu Hanifa it must be performed in the first hajj season after the means are obtained, and delaying it is sinful."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Yükümlülük şartları",
+        "en": "Conditions of liability"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Müslüman olmak.",
+          "en": "Being Muslim."
+         }
+        },
+        {
+         "text": {
+          "tr": "Akıllı olmak.",
+          "en": "Being of sound mind."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bulûğa ermiş olmak.",
+          "en": "Having reached puberty."
+         }
+        },
+        {
+         "text": {
+          "tr": "İstitâat: Hac yolculuğuna çıkacak kişinin gidip dönünceye kadar kendisinin ve bakmakla yükümlü olduğu kimselerin geçimini sağlayacak malî güce ve yeterli zamana sahip olması.",
+          "en": "Capability (istita'a): having the financial means to provide for oneself and one's dependants until one returns, and enough time."
+         }
+        },
+        {
+         "text": {
+          "tr": "Bu şartları taşıdıktan sonra haccı ifaya elverişli vakte (hac mevsimine) erişmiş olmak.",
+          "en": "Living to reach a hajj season after these conditions are met."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Eda şartları (bizzat yapmanın farz olması için)",
+        "en": "Conditions for performing it in person"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Sağlıklı olmak: Ebû Hanîfe ve Mâlik'e göre sağlıklı olmayan kimse hacla mükellef değildir; Ebû Yûsuf, Muhammed, Şâfiî ve Hanbelîler'e göre hacca engel hastalık veya sakatlığı olanlar yerlerine vekil göndermeli veya bunu vasiyet etmelidir.",
+          "en": "Health: according to Abu Hanifa and Malik, one who is not healthy is not liable; according to Abu Yusuf, Muhammad, the Shafi'is and Hanbalis, those prevented by illness or disability should send a proxy or provide for it in their will."
+         }
+        },
+        {
+         "text": {
+          "tr": "Yol güvenliğinin bulunması.",
+          "en": "Safety of the route."
+         }
+        },
+        {
+         "text": {
+          "tr": "Tutukluluk veya yurt dışına çıkma yasağı gibi ârızî bir engelin bulunmaması.",
+          "en": "Absence of an incidental obstacle such as detention or a travel ban."
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "haccin-farzlari",
+     "title": {
+      "tr": "Haccın Farzları",
+      "en": "The Essentials of Hajj"
+     },
+     "icon": "star.fill",
+     "summary": {
+      "tr": "Hanefîler'e göre haccın üç farzı: ihram, Arafat vakfesi ve ziyaret tavafı.",
+      "en": "The three essentials in the Hanafi school: ihram, standing at Arafat, and the visiting tawaf."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Hanefîler'e göre haccın ihram, Arafat vakfesi ve ziyaret tavafı olmak üzere üç farzı vardır; hac bu farzların sıraya uyularak yerine getirilmesiyle eda edilmiş olur. Bunlardan ihram şart, diğer ikisi rükündür. Rükünler usulüne göre yapılmadıkça hac, ceza ve kefâret ödemekle sahih olmaz; eksik kalan rüknün tamamlanması veya haccın kazâsı gerekir.",
+        "en": "In the Hanafi school hajj has three essentials: ihram, standing at Arafat, and the visiting tawaf; hajj is performed by carrying these out in order. Ihram is a precondition and the other two are pillars. Unless the pillars are performed properly, the hajj is not valid even by paying a penalty or expiation; the missing pillar must be completed or the hajj repeated."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Üç farz",
+        "en": "The three essentials"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "İhram: Hac veya umre niyetiyle, mîkat sınırında veya Harem bölgesi dışında usulüne göre ihrama girilir. İhram, haccın geçerlilik şartlarının başında gelir.",
+          "en": "Ihram: With the intention of hajj or umrah, one enters ihram in the prescribed way at the miqat boundary or outside the Haram area. Ihram is the foremost condition for the validity of hajj."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Arafat vakfesi: Arafat, Mekke'nin yaklaşık 25 km güneydoğusunda, Harem sınırları dışında bir bölgedir. Vakfe, bir yerde bir süre durmak veya beklemektir. Arafat vakfesi süresi içinde Arafat'ta bulunamayanlar o sene hacca yetişememiş olur; diğer menâsik kazâ veya fidye ile telâfi edilebilirken bu vakfe edilemez. Peygamberimiz “Hac, Arafat'tan ibarettir” buyurmuştur (Tirmizî, “Tefsîr”, 3; Ebû Dâvûd, “Menâsik”, 57).",
+          "en": "Standing at Arafat: Arafat is an area about 25 km south-east of Mecca, outside the Haram boundaries. The standing (wuquf) means remaining there for a time. Those not present at Arafat within its time have missed the hajj for that year; while other rites can be remedied by make-up or a fidya, this standing cannot. The Prophet said, “Hajj is Arafat” (Tirmidhi, Tafsir 3; Abu Dawud, Manasik 57)."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Ziyaret tavafı: Tavaf, Hacerülesved köşesinden başlayıp Kâbe'nin etrafında yedi defa dönmektir; her devre “şavt” denir. “İfâda tavafı” da denilen ziyaret tavafı farz olup haccın iki rüknünden biridir; bu tavaf yapılmadıkça hac tamam olmaz. Hanefîler'e göre vakti bayramın ilk günü fecr-i sâdıktan itibaren başlar; Ebû Hanîfe'ye göre bayramın üçüncü günü güneş batıncaya kadar yapılması vâciptir, ilk gün yapılması daha faziletlidir.",
+          "en": "The visiting tawaf: Tawaf is circling the Kaaba seven times starting from the corner of the Black Stone; each circuit is a “shawt”. The visiting tawaf, also called tawaf al-ifada, is obligatory and one of the two pillars of hajj; hajj is not complete without it. In the Hanafi school its time begins at true dawn on the first day of Eid; according to Abu Hanifa it must be done by sunset on the third day, and doing it on the first day is best."
+         },
+         "icon": "circle.fill",
+         "media": null
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Mâlikîler'e göre sa‘y de farzdır ve rükünler dörttür; Şâfiîler saçları tıraş etmeyi veya kısaltmayı da ekleyerek rükün sayısını beşe çıkarır.",
+        "en": "In the Maliki school sa'y is also essential, making four pillars; the Shafi'is add shaving or shortening the hair, making five."
+       }
+      }
+     ]
+    },
+    {
+     "id": "haccin-vacipleri",
+     "title": {
+      "tr": "Haccın Vâcipleri",
+      "en": "The Necessary Acts of Hajj"
+     },
+     "icon": "list.bullet.circle.fill",
+     "summary": {
+      "tr": "Hanefî mezhebinde haccın beş aslî vâcibi: sa‘y, Müzdelife vakfesi, şeytan taşlama, tıraş ve vedâ tavafı.",
+      "en": "The five principal wajib acts in the Hanafi school: sa'y, standing at Muzdalifah, stoning, shaving, and the farewell tawaf."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Haccın rükün ve şartlarının yanında vâcip olan menâsiki de vardır. Bunların terkedilmesiyle hac geçersiz olmaz; fakat mazeretsiz terki tahrîmen mekruhtur ve meşrû bir mazeret olmadıkça terkedilen veya zamanında yapılmayan her vâcip için ceza (dem) gerekir. Hanefî mezhebinde haccın aslî vâcipleri beş menâsikten ibarettir; bunlardan sa‘y ile tıraş hem hacda hem umrede vâciptir, diğer üçü umrede yoktur.",
+        "en": "Besides its pillars and conditions, hajj has rites that are necessary (wajib). Omitting them does not invalidate the hajj, but omitting them without excuse is prohibitively disliked, and each wajib omitted or delayed without a valid excuse requires a penalty (dam). In the Hanafi school the principal wajib acts are five; of these, sa'y and shaving are wajib in both hajj and umrah, while the other three do not apply to umrah."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Beş aslî vâcip",
+        "en": "The five principal wajib acts"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Sa‘y: Kâbe'nin doğu tarafındaki Safâ ve Merve tepeleri arasında, Safâ'dan başlayıp Merve'de tamamlanmak üzere yedi defa gidip gelmektir; Safâ'dan Merve'ye gidiş bir şavt sayılır.",
+          "en": "Sa'y: Going seven times between the hills of Safa and Marwah to the east of the Kaaba, starting at Safa and finishing at Marwah; each leg from Safa to Marwah counts as one shawt."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Müzdelife vakfesi: Müzdelife, Arafat ile Mina arasında Harem sınırları içinde bir bölgedir. Arefe gününü bayrama bağlayan geceyi burada geçirmek sünnet, burada vakfe yapmak vâciptir. Geçerli olması için hac ihramlısı olmak, Arafat vakfesini yapmış olmak ve Müzdelife sınırları içinde bulunmak gerekir.",
+          "en": "Standing at Muzdalifah: Muzdalifah lies between Arafat and Mina within the Haram. Spending the night before Eid there is a sunnah, and standing there is wajib. For it to be valid one must be in hajj ihram, have stood at Arafat, and be within the bounds of Muzdalifah."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Şeytan taşlama (remy-i cimâr): Bayram günlerinde Mina'da Küçük Cemre, Orta Cemre ve Akabe Cemresi denilen yerlere ufak taşlar atmaktır. Hanefî mezhebinde şeytan taşlanan günlerde Mina'da gecelemek sünnettir; diğer üç mezhepte mazereti olmayanların bu gecelerin çoğunda Mina'da bulunması vâciptir.",
+          "en": "Stoning (ramy al-jimar): Throwing small pebbles at the sites called the small, middle and Aqabah pillars in Mina on the days of Eid. In the Hanafi school staying overnight in Mina on the stoning days is a sunnah; in the other three schools those without excuse must spend most of those nights in Mina."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Saçları tıraş etmek veya kısaltmak (halk / taksîr): Saçların dipten tıraş edilmesi kısaltmaktan evlâ görülmüştür. Ebû Hanîfe'ye göre bayramın üçüncü günü güneş batıncaya kadar yapılması vâciptir; sonraya bırakılırsa ceza gerekir. Tıraş olmadıkça ihramdan çıkılmaz.",
+          "en": "Shaving or shortening the hair (halq / taqsir): Shaving the head fully is considered better than shortening. According to Abu Hanifa it must be done by sunset on the third day of Eid; if delayed, a penalty is due. One does not leave ihram until it is done."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Vedâ tavafı: Mekkeli olmayan (âfâkî) hacıların Mekke'den ayrılmadan yapmaları gereken son tavaftır; ziyaret tavafından sonra yapılır. Sadece umre yapanlar ile Harem bölgesinde ikamet edenlerden ve Mekke'den ayrılırken hayız veya nifas hâlinde olan kadınlardan vedâ tavafı düşer.",
+          "en": "The farewell tawaf: The last tawaf that pilgrims from outside Mecca (afaqi) must perform before leaving the city; it is done after the visiting tawaf. It is waived for those performing only umrah, for residents of the Haram area, and for women who are menstruating or in post-natal bleeding when they leave Mecca."
+         },
+         "icon": "circle.fill",
+         "media": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "umre",
+     "title": {
+      "tr": "Umre",
+      "en": "Umrah"
+     },
+     "icon": "figure.walk",
+     "summary": {
+      "tr": "Umrenin tanımı, hükmü, farz ve vâcipleri, zamanı ve yapılışı.",
+      "en": "The definition of umrah, its ruling, essentials and wajib acts, timing and performance."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Umre, ihrama girerek tavaf ve sa‘y yaptıktan sonra tıraş olup ihramdan çıkmaktan ibarettir. Kâbe ziyareti belirli zamanda ve Arafat vakfesiyle birlikte olursa hac, belirli bir zamana bağlı olmayarak vakfesiz yapılırsa umre adını alır; bu yüzden umreye “hacc-ı asgar” (küçük hac) da denir. Hanefî ve Mâlikîler'e göre müslümanın ömründe bir defa umre yapması müekked sünnettir; Şâfiî ve Hanbelîler'e göre farzdır.",
+        "en": "Umrah consists of entering ihram, performing tawaf and sa'y, then shaving and leaving ihram. Visiting the Kaaba at the fixed time together with the standing at Arafat is hajj; doing so without a fixed time and without the standing is umrah, which is why it is also called the “lesser hajj”. In the Hanafi and Maliki schools performing umrah once in a lifetime is an emphasised sunnah; in the Shafi'i and Hanbali schools it is obligatory."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Hanefîler'e göre umrenin farzları ihram ve tavaf olmak üzere ikidir; ihram şart, tavaf rükündür. Sa‘y ile saçları tıraş etmek veya kısaltmak ise umrenin vâcipleridir. Umre için belirli bir zaman yoktur, her zaman yapılabilir; ramazanda yapılması mendup ve daha faziletlidir. Ancak Hanefî mezhebinde arefe günü sabahından bayramın 4. günü güneş batıncaya kadarki beş günde umre yapmak tahrîmen mekruhtur.",
+        "en": "In the Hanafi school umrah has two essentials, ihram and tawaf; ihram is a precondition and tawaf a pillar. Sa'y and shaving or shortening the hair are its wajib acts. There is no fixed time for umrah; it may be performed at any time, and doing it in Ramadan is recommended and more meritorious. In the Hanafi school, however, performing umrah during the five days from the morning of Arafah until sunset on the fourth day of Eid is prohibitively disliked."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Umrenin yapılışı",
+        "en": "How umrah is performed"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "İhram: Bulunulan yere göre mîkat sınırında veya Harem bölgesi dışında usulüne göre ihrama girilir.",
+          "en": "Ihram: Depending on where one is, enter ihram in the prescribed way at the miqat boundary or outside the Haram area."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Umre tavafı: Harem-i şerif'e gelince “Allahım, senin rızânı kazanmak için umre tavafını yapmak istiyorum. Onu bana kolay eyle ve kabul buyur!” diye niyet edilerek tavaf yapılır; ardından tavaf namazı kılınır.",
+          "en": "Umrah tawaf: On reaching the Sacred Mosque, make the intention “O Allah, I wish to perform the umrah tawaf to seek Your pleasure; make it easy for me and accept it”, perform the tawaf, then pray the two rak'ahs of tawaf."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Sa‘y: “Allahım, senin rızânı kazanmak için umrenin sa‘yini yapmak istiyorum. Bana kolaylık ver ve onu benden kabul eyle!” diye niyet edilip Safâ ile Merve arasında sa‘y yapılır.",
+          "en": "Sa'y: Make the intention “O Allah, I wish to perform the sa'y of umrah to seek Your pleasure; grant me ease and accept it from me”, and perform sa'y between Safa and Marwah."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Tıraş: Sa‘y tamamlandıktan sonra uygun bir yerde saçlar dipten tıraş edilir veya kısaltılır. Böylece umre tamamlanmış ve ihramdan çıkılmış olur.",
+          "en": "Shaving: After sa'y, shave or shorten the hair in a suitable place. With this the umrah is complete and one leaves ihram."
+         },
+         "icon": "circle.fill",
+         "media": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gunluk-hayat",
+   "kind": "articles",
+   "title": {
+    "tr": "Günlük Hayatta Dinî Bilgiler",
+    "en": "Faith in Daily Life"
+   },
+   "subtitle": {
+    "tr": "Kurban, cenaze namazı, cuma ve bayram namazları",
+    "en": "Sacrifice, the funeral prayer, Friday and Eid prayers"
+   },
+   "icon": "sun.horizon.fill",
+   "articles": [
+    {
+     "id": "kurban",
+     "title": {
+      "tr": "Kurban",
+      "en": "Sacrifice (Qurban)"
+     },
+     "icon": "leaf.fill",
+     "summary": {
+      "tr": "Kimlere vâcip olduğu, kesim vakti, kesilebilecek hayvanlar ve etin paylaştırılması.",
+      "en": "Who must sacrifice, the time of slaughter, eligible animals and sharing the meat."
+     },
+     "sourceIds": [
+      "dib-ilmihal-2",
+      "diyk-fetva"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Kurban, “ibadet maksadıyla belirli bir vakitte belirli şartları taşıyan hayvanı usulünce boğazlamak, ya da bu şekilde boğazlanan hayvan” demektir. Şartları taşıyanların kurban bayramında kurban kesmesi Hanefî mezhebinde ağırlıklı görüşe göre vâcip, fakihlerin çoğunluğuna göre müekked sünnettir (el-Kevser 108/2). Kurban, Hz. İbrâhim ile İsmâil'in Allah'a itaatinin hâtırasını tazeler ve toplumda dayanışmayı canlı tutar.",
+        "en": "Qurban means “slaughtering, in the prescribed way and at a set time, an animal meeting certain conditions, with the intention of worship, or the animal so slaughtered”. For those meeting the conditions, sacrificing on Eid al-Adha is wajib by the prevailing Hanafi view and an emphasised sunnah according to most jurists (al-Kawthar 108:2). The sacrifice renews the memory of Abraham and Ishmael's obedience to Allah and keeps solidarity alive in society."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Kurban kesmekle yükümlü olmanın şartları",
+        "en": "Conditions for being obliged to sacrifice"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Müslüman olmak.",
+          "en": "Being Muslim."
+         }
+        },
+        {
+         "text": {
+          "tr": "Akıllı ve bulûğa ermiş olmak.",
+          "en": "Being sane and adult."
+         }
+        },
+        {
+         "text": {
+          "tr": "Mukim olmak, yani yolcu olmamak; yolcu da isterse kesebilir.",
+          "en": "Being resident, not a traveller; a traveller may still sacrifice if he wishes."
+         }
+        },
+        {
+         "text": {
+          "tr": "Malî güç: Hanefî mezhebine göre borçları ve aslî ihtiyaçları dışında 20 miskal (80.18 gr) altına ya da buna denk paraya veya mala sahip olmak; bu malın artıcı olması veya üzerinden bir yıl geçmesi gerekmez.",
+          "en": "Financial means: in the Hanafi school, owning 20 mithqals (80.18 g) of gold or equivalent money or goods beyond debts and basic needs; this wealth need not be productive nor held for a year."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": false,
+       "title": {
+        "tr": "Kurbanlık hayvan ve kesim vakti",
+        "en": "The animal and the time of slaughter"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Kurban olarak kesilebilecek hayvanlar koyun, keçi, sığır, manda ve devedir; tavuk, kaz, ördek gibi hayvanlardan kurban olmaz.",
+          "en": "Eligible animals are sheep, goats, cattle, buffalo and camels; poultry such as chickens, geese and ducks are not valid."
+         }
+        },
+        {
+         "text": {
+          "tr": "Koyun ve keçi bir yaşını (bir yaşındaki kadar gösterişli ise koyun altı ayını), sığır ve manda iki yaşını, deve beş yaşını tamamlamış olmalıdır.",
+          "en": "Sheep and goats must be one year old (a sheep six months if it looks like a yearling), cattle and buffalo two years, camels five years."
+         }
+        },
+        {
+         "text": {
+          "tr": "Koyun ve keçi bir kişi için; deve, sığır ve manda en çok yedi ortak için kesilebilir; ortakların hepsi ibadet niyeti taşımalıdır.",
+          "en": "A sheep or goat counts for one person; a camel, ox or buffalo may be shared by up to seven, all of whom must intend worship."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hayvan sağlıklı ve âzaları tam olmalıdır; kötürüm derecesinde hasta, kör, kulak ve boynuzları kökünden kesilmiş hayvanlar kurban olmaz. Doğuştan boynuzsuz, şaşı veya topal olmasında sakınca yoktur.",
+          "en": "The animal must be healthy and intact; animals crippled by illness, blind, or with ears or horns cut off at the root are not valid. Being born hornless, cross-eyed or lame is no obstacle."
+         }
+        },
+        {
+         "text": {
+          "tr": "Kesim vakti: Zilhiccenin 10, 11 ve 12. günleri, bayram namazının kılınmasından 3. günün akşamına kadar; bayram namazı kılınmayan yerlerde sabah namazı vaktinden itibaren. İlk gün ve gündüz kesilmesi daha uygundur.",
+          "en": "Time of slaughter: the 10th, 11th and 12th of Dhu al-Hijjah, from after the Eid prayer until sunset on the third day; where no Eid prayer is held, from the time of the dawn prayer. The first day, and daytime, are preferable."
+         }
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "shafii",
+       "text": {
+        "tr": "Şâfiî mezhebine göre kesim süresi bayramın 4. günü akşamına kadardır.",
+        "en": "In the Shafi'i school the period for slaughter extends to sunset on the fourth day of Eid."
+       }
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Âlimlerin çoğunluğu kurban etinin üçe bölünmesini tavsiye eder: biri ev halkına, biri zengin bile olsalar eş, dost ve akrabaya hediye, biri kurban kesmeyen fakirlere. Esas olan hem yemek, hem ikram etmek hem de fakirlere dağıtmaktır. Adak kurbanının etinden adayan ve bakmakla yükümlü olduğu kimseler yiyemez. Kurbanın eti ve derisi satılamaz; satılırsa parası tasadduk edilir. Kesim ücreti et veya deriyle ödenmez.",
+        "en": "Most scholars recommend dividing the meat into three: one part for the household, one as a gift to friends and relatives even if well off, and one for the poor who could not sacrifice. What matters is to eat, to share, and to give to the poor. The one who vowed a sacrifice and their dependants may not eat from a vowed animal. The meat and hide may not be sold; if sold, the proceeds go to charity. The butcher's fee may not be paid with the meat or hide."
+       }
+      }
+     ]
+    },
+    {
+     "id": "cenaze",
+     "title": {
+      "tr": "Cenaze Namazı",
+      "en": "The Funeral Prayer"
+     },
+     "icon": "hands.sparkles.fill",
+     "summary": {
+      "tr": "Farz-ı kifâye olan cenaze namazının dört tekbirle kılınışı ve okunanlar.",
+      "en": "The communal-obligation funeral prayer: its four takbirs and what is recited."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Ölen bir müslümanı yıkamak, kefenlemek, onun için namaz kılıp dua etmek ve bir kabre gömmek müslümanlar için farz-ı kifâyedir. Yıkanıp kefenlenen ölüye son duayı yapmak üzere kılınan cenaze namazı da farz-ı kifâyedir. Cenaze, namaza duracak müslümanların yönü kıbleye gelecek şekilde ön tarafa konulur; müslümanlar abdestli ve kıbleye yönelik olarak dua mahiyetindeki bu namazı kılarlar. Niyet şarttır; niyette ölünün kadın, erkek veya çocuk olduğu belirlenir. Cenaze namazında rükû ve secde yoktur; ayakta, dört tekbirle kılınır.",
+        "en": "Washing a deceased Muslim, shrouding, praying and supplicating for them, and burying them is a communal obligation (fard al-kifayah) on Muslims. The funeral prayer, offered as a final supplication for the washed and shrouded deceased, is likewise a communal obligation. The body is placed in front so that those praying face the qiblah; in a state of ablution and facing the qiblah, they perform this prayer, which is essentially a supplication. Intention is required, and in it the deceased is identified as man, woman or child. There is no bowing or prostration; it is performed standing, with four takbirs."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Kılınışı",
+        "en": "How it is performed"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Birinci tekbir: Cenazeye karşı ve kıbleye yönelik olarak saf bağlanır, niyet edilir. İmam tekbir alarak ellerini namazda olduğu gibi bağlar; cemaat de gizlice tekbir alıp ellerini bağlar. Hem imam hem cemaat, “ve celle senâüke” cümlesini ilgili yere ekleyerek içlerinden Sübhâneke'yi okur.",
+          "en": "First takbir: Rows are formed facing the deceased and the qiblah, and the intention is made. The imam says the takbir and folds his hands as in prayer; the congregation says it quietly and does the same. Both imam and congregation silently recite Subhanaka, adding the phrase “ve celle senâüke” in its place."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "İkinci tekbir: İmam elleri kaldırmadan açıktan, cemaat gizlice tekbir alır. Ardından hepsi içlerinden Allahümme salli ve Allahümme bârik dualarını okur.",
+          "en": "Second takbir: Without raising the hands, the imam says the takbir aloud and the congregation quietly. Then all silently recite the Allahumma salli and Allahumma barik supplications."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Üçüncü tekbir: Aynı şekilde tekbir alınır. Bu tekbirden sonra ölüye ve diğer müminlere gizlice dua edilir; cenaze duası ölünün erkek, kadın veya çocuk olmasına göre okunur. Cenaze namazı esas itibariyle bir dua olduğu için bu duaları Arapça okumak şart değildir; anlamı veya “Allahım beni, bu ölüyü ve bütün müminleri bağışla” gibi benzer bir dua da okunabilir.",
+          "en": "Third takbir: The takbir is said in the same way. After it, one silently prays for the deceased and all believers; the funeral supplication is recited in the form for a man, a woman or a child. Since the funeral prayer is essentially a supplication, reciting these in Arabic is not required; their meaning, or a similar prayer such as “O Allah, forgive me, this deceased and all the believers”, may be said."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Dördüncü tekbir ve selâm: Yine Allahüekber denilip tekbir alınır; arkasından önce sağa sonra sola imam yüksek sesle, cemaat alçak sesle selâm verir. Vâcip olan bu selâm verilirken ölüye, cemaate ve imama selâm vermeye niyet edilir. Böylece namaz tamamlanmış olur.",
+          "en": "Fourth takbir and salutation: Allahu akbar is said once more; then the imam aloud and the congregation quietly give the salutation, first to the right and then to the left. In this wajib salutation one intends greeting the deceased, the congregation and the imam. With this the prayer is complete."
+         },
+         "icon": "circle.fill",
+         "media": null
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Hanefîler cenaze namazında Fâtiha'nın Kur'an tilâveti niyetiyle okunmasını tahrîmen mekruh sayar, dua niyetiyle okunmasında sakınca görmez. Şâfiî ve Hanbelîler'e göre Fâtiha rükündür. İmamın dördüncü tekbirinden sonra gelen kimse hemen tekbir alıp namaza katılır.",
+        "en": "The Hanafis consider reciting al-Fatiha in the funeral prayer with the intention of Qur'an recitation prohibitively disliked, but see no harm in reciting it as a supplication. For the Shafi'is and Hanbalis al-Fatiha is a pillar. Someone arriving after the imam's fourth takbir says the takbir at once and joins the prayer."
+       }
+      }
+     ]
+    },
+    {
+     "id": "cuma-namazi",
+     "title": {
+      "tr": "Cuma Namazı",
+      "en": "The Friday Prayer"
+     },
+     "icon": "building.2.fill",
+     "summary": {
+      "tr": "Farz-ı ayn olan cuma namazının kimlere farz olduğu, şartları ve kılınışı.",
+      "en": "Who must attend the Friday prayer, its conditions and how it is performed."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Cuma namazı farz-ı ayındır; farz olduğu Kitap, Sünnet ve icmâ ile sabittir: “Ey iman edenler! Cuma günü namaza çağırılınca Allah'ı anmaya koşun ve alışverişi bırakın…” (el-Cum‘a 62/9-10). Peygamberimiz önemsemediği için üç cumayı terkeden kimsenin kalbinin mühürleneceğini bildirmiştir (Ebû Dâvûd, “Salât”, 204). Cuma namazı, cuma günü öğle namazı vaktinde kılınan ve farzı iki rek‘at olan bir namazdır; hatibin namazdan önce hutbe okuması namazın sıhhat şartlarındandır. Cuma namazı o günkü öğle namazının yerini tutar.",
+        "en": "The Friday prayer is an individual obligation, established by the Qur'an, the Sunnah and consensus: “O you who believe! When the call to prayer is made on Friday, hasten to the remembrance of Allah and leave off trade…” (al-Jumu'ah 62:9-10). The Prophet warned that whoever neglects three Fridays out of indifference will have his heart sealed (Abu Dawud, Salat 204). It is performed at the time of the noon prayer on Friday, its obligatory part is two rak'ahs, and the sermon delivered before it is a condition of its validity. It replaces the noon prayer of that day."
+       }
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Kimlere farzdır (vücûb şartları)",
+        "en": "Who must attend (conditions of obligation)"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Erkek olmak: Cuma namazı kadınlara farz değildir; fakat kadınlar camiye gelip kılarlarsa namazları geçerlidir ve o gün ayrıca öğle namazı kılmazlar.",
+          "en": "Being male: the Friday prayer is not obligatory for women; but if women come to the mosque and pray it, their prayer is valid and they do not pray the noon prayer that day."
+         }
+        },
+        {
+         "text": {
+          "tr": "Mazeretsiz olmak: Hastalık, körlük ve kötürümlük, uygun olmayan hava ve yol şartları ile mal, can veya namus konusunda korku cuma namazını düşüren mazeretlerdir.",
+          "en": "Being without excuse: illness, blindness and disability, unsuitable weather and road conditions, and fear for one's property, life or honour are excuses that lift the obligation."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hür olmak.",
+          "en": "Being free."
+         }
+        },
+        {
+         "text": {
+          "tr": "Mukim olmak (yolcu olmamak).",
+          "en": "Being resident, not a traveller."
+         }
+        }
+       ]
+      },
+      {
+       "type": "list",
+       "numbered": true,
+       "title": {
+        "tr": "Geçerlilik (sıhhat) şartları",
+        "en": "Conditions of validity"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Vakit: Öğle namazı vaktinde kılınması.",
+          "en": "Time: it must be performed within the time of the noon prayer."
+         }
+        },
+        {
+         "text": {
+          "tr": "Cemaat: Ebû Hanîfe ve İmam Muhammed'e göre imamın dışında en az üç kişinin bulunması şarttır.",
+          "en": "Congregation: according to Abu Hanifa and Imam Muhammad, at least three people besides the imam are required."
+         }
+        },
+        {
+         "text": {
+          "tr": "Şehir veya şehir hükmünde bir yerde kılınması.",
+          "en": "Being performed in a city or a place with the status of a city."
+         }
+        },
+        {
+         "text": {
+          "tr": "Cami: Herkese açık olması.",
+          "en": "Mosque: the place must be open to all."
+         }
+        },
+        {
+         "text": {
+          "tr": "İzin: Devlet başkanının hazır bulunması veya izni.",
+          "en": "Permission: the presence or authorisation of the head of state."
+         }
+        },
+        {
+         "text": {
+          "tr": "Hutbe: Vakit içinde, namazdan önce ve hutbe niyetiyle okunması.",
+          "en": "Sermon: delivered within the time, before the prayer, and with the intention of a sermon."
+         }
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Kılınışı: Cuma günü öğle vaktinde dış ezan okunur. Camiye girince vakit uygunsa iki rek‘at tahiyyetü'l-mescid, ardından dört rek‘at ilk sünnet kılınır. İç ezandan sonra imam minberde hutbe okur; hutbeden sonra kamet getirilerek cumanın iki rek‘at farzı cemaatle kılınır ve imam açıktan okur. Bundan sonra dört rek‘at son sünnet kılınır.",
+        "en": "How it is performed: at noon on Friday the outer adhan is called. On entering the mosque, if time allows, two rak'ahs of greeting the mosque are prayed, then the four-rak'ah first sunnah. After the inner adhan the imam delivers the sermon from the pulpit; then the iqamah is called and the two obligatory rak'ahs are prayed in congregation with the imam reciting aloud. After this the four-rak'ah final sunnah is prayed."
+       }
+      }
+     ]
+    },
+    {
+     "id": "bayram-namazi",
+     "title": {
+      "tr": "Bayram Namazı",
+      "en": "The Eid Prayer"
+     },
+     "icon": "sparkles",
+     "summary": {
+      "tr": "Vakti, hükmü ve ilâve (zâit) tekbirlerle kılınışı; teşrik tekbirleri.",
+      "en": "Its time, ruling and performance with the additional takbirs; the tashriq takbirs."
+     },
+     "sourceIds": [
+      "dib-ilmihal-1"
+     ],
+     "blocks": [
+      {
+       "type": "paragraph",
+       "text": {
+        "tr": "Bayram namazı, biri ramazan bayramında diğeri kurban bayramında olmak üzere yılda iki defa kılınan iki rek‘atlık bir namazdır. Hanefî mezhebinde, cuma namazının vücûb şartlarını taşıyan kimselere vâciptir; Şâfiî ve Mâlikîler'e göre müekked sünnet, Hanbelîler'e göre farz-ı kifâyedir. Sıhhat şartları, hutbe hariç, cuma namazının şartlarıyla aynıdır; hutbe cumada sıhhat şartı iken bayramda sünnettir ve namazdan sonra okunur. Vakti, güneşin doğuşu sırasındaki kerâhet vaktinin çıkmasından sonradır. Bayram namazına giderken yolda tekbir getirilir; ramazan bayramında sessiz, kurban bayramında açıktan.",
+        "en": "The Eid prayer is a two-rak'ah prayer performed twice a year, once at Eid al-Fitr and once at Eid al-Adha. In the Hanafi school it is wajib for those who meet the conditions of obligation for the Friday prayer; for the Shafi'is and Malikis it is an emphasised sunnah, and for the Hanbalis a communal obligation. Its conditions of validity are the same as the Friday prayer's except for the sermon: in the Friday prayer the sermon is a condition, at Eid it is a sunnah and is delivered after the prayer. Its time begins once the disliked period around sunrise has passed. Takbirs are said on the way to the prayer, quietly at Eid al-Fitr and aloud at Eid al-Adha."
+       }
+      },
+      {
+       "type": "steps",
+       "title": {
+        "tr": "Kılınışı",
+        "en": "How it is performed"
+       },
+       "items": [
+        {
+         "text": {
+          "tr": "Niyet ve iftitah tekbiri: Bayram namazına niyet edilip iftitah tekbiri alınır, eller bağlanır ve Sübhâneke okunur.",
+          "en": "Intention and opening takbir: Make the intention for the Eid prayer, say the opening takbir, fold the hands and recite Subhanaka."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Birinci rek‘atta üç zâit tekbir: İmamla birlikte “Allahüekber” denilerek eller kaldırılır ve yanlara salınır; üç kere “sübhânellah” diyecek kadar beklenip yeniden tekbir alınır. Üçüncü tekbirde eller bağlanır. Bu ilâve tekbirler vâciptir. İmam gizlice eûzü besmele çekip Fâtiha ve bir sûre okur; rükû ve secde yapılır.",
+          "en": "Three additional takbirs in the first rak'ah: With the imam, say “Allahu akbar”, raising the hands and letting them fall to the sides; pause the length of three “subhanallah” and say the takbir again. At the third takbir fold the hands. These additional takbirs are wajib. The imam silently says the ta'awwudh and basmalah, then recites al-Fatiha and a surah; bowing and prostration follow."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "İkinci rek‘atta üç zâit tekbir: İkinci rek‘atta imam Fâtiha ve bir sûre okuduktan sonra üç defa tekbir alınır ve eller yanlara salıverilir. Dördüncü tekbir rükûa geçiş tekbiridir; bu tekbirle rükûya gidilir ve namaz tamamlanır.",
+          "en": "Three additional takbirs in the second rak'ah: In the second rak'ah, after the imam recites al-Fatiha and a surah, three takbirs are said with the hands let down to the sides. The fourth takbir is the one for bowing; one bows with it and completes the prayer."
+         },
+         "icon": "circle.fill",
+         "media": null
+        },
+        {
+         "text": {
+          "tr": "Hutbe: Namazdan sonra imam minbere çıkar ve hutbe okur; cuma hutbesindeki hamdü senâya bedel “Allâhü ekber, Allâhü ekber; lâ ilâhe illellâhü vallâhü ekber. Allâhü ekber ve lillâhi'l-hamd” der, cemaat bu tekbirlerde imama eşlik eder.",
+          "en": "Sermon: After the prayer the imam ascends the pulpit and delivers the sermon; in place of the praise that opens the Friday sermon he says “Allahu akbar, Allahu akbar; la ilaha illallahu wallahu akbar. Allahu akbar wa lillahi'l-hamd”, and the congregation joins in these takbirs."
+         },
+         "icon": "circle.fill",
+         "media": null
+        }
+       ]
+      },
+      {
+       "type": "note",
+       "style": "info",
+       "text": {
+        "tr": "Teşrik tekbirleri: Hanefî mezhebinde fetvaya esas olan görüşe göre kurban bayramının arefe günü sabah namazından bayramın 4. günü ikindi namazına kadar 23 vakit, her farzın selâmından sonra teşrik tekbiri getirmek kadın erkek, seferî mukim ayırımı olmaksızın her mükellefe vâciptir. Bir mazeretle birinci gün kılınamayan bayram namazı ramazan bayramında 2. gün, kurban bayramında 2. veya 3. gün kılınabilir.",
+        "en": "Tashriq takbirs: by the view adopted for fatwa in the Hanafi school, saying the tashriq takbir after the salutation of every obligatory prayer, for 23 prayers from the dawn prayer of the day of Arafah until the afternoon prayer of the fourth day of Eid, is wajib on every adult Muslim, man or woman, traveller or resident. An Eid prayer missed on the first day for a valid reason may be prayed on the second day at Eid al-Fitr, and on the second or third day at Eid al-Adha."
+       }
+      }
      ]
     }
    ]
