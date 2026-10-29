@@ -1,18 +1,18 @@
 [
   {
+    "id": "2026-10-29-cumhuriyet-bayrami",
+    "title": "Cumhuriyet Bayramımız kutlu olsun 🇹🇷",
+    "body": "29 Ekim 1923'te ilan edilen Cumhuriyetimizin 103. yılını gururla kutluyoruz. Başta Gazi Mustafa Kemal Atatürk olmak üzere, bu vatanı bize emanet eden tüm kahramanlarımızı ve şehitlerimizi rahmetle anıyoruz.\n\nBugün zikirlerinin arasına ülkemizin birliği, huzuru ve bereketi için bir dua eklemeyi unutma. 🤲\n\n— ZikrFlow",
+    "imageUrl": "https://raw.githubusercontent.com/mtunahanyollar/zikrflow-zikrs/04cfa0757fc8504e896fc32475c72fe4449ef034/images/announcements/zikrflow-cumhuriyet-103.jpg",
+    "date": "29 Ekim 2026"
+  },
+  {
     "id": "2026-09-27-zikrflow-1-6-0",
     "title": "ZikrFlow 1.6: Kur'an radyosu, 19 hafız ve mushaf",
     "body": "Yeni ZikrFlow'da neler var?\n\n• Kur'an Radyosu: Diyanet Kur'an Radyo canlı yayını, 10 hafızın 24 saat radyosu ve meal radyoları; kilit ekranından kontrol\n• 15 yeni hafız, toplam 19: Sudeys, Şâtırî, Rifâî, Şüreym, Abdülbâsıt (Mücevved), Husarî (Muallim), Gâmidî, Muaykılî ve daha fazlası\n• Uyku zamanlayıcı: 5–60 dakika ya da sûre bitince, sesi yavaşça kısarak durur\n• Mushaf görünümü: sayfayı basılı mushaf gibi iki yana yaslı okuyun; ayete dokunun, dinleyin, not alın\n• Elmalılı Hamdi Yazır meali ve Türkçe okunuş; Arapça, okunuş ve meali ayrı ayrı açıp kapatın\n• Ayet notları: her ayete kendi notunuzu yazın, hepsini Kur'an sekmesindeki Notlar'da bulun\n• Günün Hadisi: Diyanet'in Hadislerle İslâm eserinden, kaynaklı, her gün bir hadis\n• Yeni \"Ayet ve Hadis\" widget'ı ve yenilenen büyük Sıradaki Vakit widget'ı\n• iCloud ile eşitleme: favoriler, notlar, hatim, namaz takibi ve ayarlar cihazlarınız arasında, hesap açmadan\n• iPad desteği\n\nSon sürümlerde ayrıca: 6 renk teması, Diyanet ilçe vakitleri, birden fazla şehir, vakit çıkmadan hatırlatma ve uygulamayı açmadan sayan Zikirmatik widget'ı.\n\nHenüz güncellemediyseniz aşağıdaki butondan App Store'a gidebilirsiniz.\n\n—\n\nWhat's new in ZikrFlow:\n\n• Qur'an radio: the Diyanet Qur'an Radio live broadcast, 24-hour stations for 10 reciters and translation stations, with lock-screen controls\n• 15 new reciters, 19 in total: Sudais, Shatri, Rifai, Shuraim, Abdul Basit (Mujawwad), Husary (Muallim), Al-Ghamdi, Al-Muaiqly and more\n• Sleep timer: 5–60 minutes or at the end of the surah, fading out gently\n• Mushaf view: read the page justified like a printed mushaf; tap a verse to listen or add a note\n• Transliteration, with Arabic, transliteration and translation you can each turn on or off\n• Verse notes: write your own note on any verse and find them all under Notes\n• New \"Verse & Hadith\" widget and a redesigned large Next Prayer widget\n• iCloud sync: favorites, notes, khatm, prayer tracking and settings across your devices, no account needed\n• iPad support\n\nAlso in recent versions: 6 color themes, multiple cities, a reminder before the prayer time ends and a Dhikr Counter widget that counts without opening the app.\n\nIf you haven't updated yet, the button below takes you to the App Store.",
     "imageUrl": "https://raw.githubusercontent.com/mtunahanyollar/zikrflow-zikrs/e4a3aa96a7468998cdfa070df5d983fd5c0b0fdc/images/announcements/zikrflow-1-6-0.jpg",
     "date": "27 Eylül 2026",
     "actionLink": "https://apps.apple.com/app/id6757937137"
-  },
-  {
-    "id": "2026-10-29-cumhuriyet-bayrami",
-    "title": "Cumhuriyet Bayramımız kutlu olsun 🇹🇷",
-    "body": "29 Ekim 1923'te ilan edilen Cumhuriyetimizin 103. yılını gururla kutluyoruz. Başta Gazi Mustafa Kemal Atatürk olmak üzere, bu vatanı bize emanet eden tüm kahramanlarımızı ve şehitlerimizi rahmetle anıyoruz.\n\nBugün zikirlerinin arasına ülkemizin birliği, huzuru ve bereketi için bir dua eklemeyi unutma. 🤲\n\n— ZikrFlow",
-    "imageUrl": "https://raw.githubusercontent.com/mtunahanyollar/zikrflow-zikrs/04cfa0757fc8504e896fc32475c72fe4449ef034/images/announcements/zikrflow-cumhuriyet-103.jpg",
-    "date": "29 Ekim 2026"
   },
   {
     "id": "2026-09-24-zikrflow-1-4-0",
